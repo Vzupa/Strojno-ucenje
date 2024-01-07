@@ -1,0 +1,1397 @@
+,Country,Number_students,Numb_students_per_Staff,Score_Result,Rank,International_Students(%),Percentage_Female(%),Percentage_Male(%),Teaching,Research,Citations,Industry_Income,International_Outlook
+University of Oxford,United Kingdom,20.664,11.2,95.4,1.0,41.0,46.0,54.0,90.5,99.6,98.4,65.5,excellent
+California Institute of Technology,United States,2.24,6.4,94.5,2.0,30.0,47.58308823529412,66.0,92.1,97.2,97.9,88.0,excellent
+University of Cambridge,United Kingdom,18.978,10.9,94.4,3.0,37.0,47.0,53.0,91.4,98.7,95.8,59.3,excellent
+Stanford University,United States,16.135,7.3,94.3,4.0,11.086892488954344,43.0,57.0,92.8,96.4,99.9,66.2,excellent
+Massachusetts Institute of Technology,United States,11.247,8.6,93.6,5.0,34.0,39.0,61.0,90.5,92.4,99.5,86.9,excellent
+Princeton University,United States,7.983,8.1,93.2,6.0,25.0,45.0,55.0,90.3,96.3,98.8,58.6,excellent
+Harvard University,United States,20.823,9.2,93.0,7.0,24.0,49.0,51.0,89.2,98.6,99.1,47.3,excellent
+Yale University,United States,12.402,5.4,91.7,8.0,20.0,47.58308823529412,47.7845142439737,92.0,94.8,97.3,52.4,excellent
+University of Chicago,United States,13.833,5.7,90.2,9.0,28.0,46.0,54.0,89.1,91.4,96.7,52.7,excellent
+Imperial College London,United Kingdom,16.76,11.7,89.8,10.0,56.0,38.0,62.0,84.5,87.6,97.0,69.9,excellent
+University of Pennsylvania,United States,20.578000000000003,6.5,89.6,11.0,21.0,52.0,48.0,87.5,90.4,98.2,74.0,excellent
+Johns Hopkins University,United States,16.171,4.5,89.2,12.0,26.0,47.58308823529412,48.0,81.7,91.4,98.3,91.3,excellent
+"University of California, Berkeley",United States,41.081,13.7,88.3,13.0,17.0,50.0,50.0,83.0,90.6,99.2,46.1,excellent
+ETH Zurich,Switzerland,18.956,12.5,88.3,13.0,39.0,32.0,68.0,81.8,92.8,90.3,56.8,excellent
+UCL,United Kingdom,32.665,10.6,87.1,14.0,52.0,57.0,43.0,77.8,88.7,96.1,42.7,excellent
+Columbia University,United States,26.586,5.8,87.0,15.0,37.0,0.0,0.0,85.6,82.6,98.2,44.8,excellent
+"University of California, Los Angeles",United States,41.066,9.4,86.8,16.0,17.0,54.0,46.0,83.1,88.6,97.3,51.3,excellent
+University of Toronto,Canada,73.37,20.1,85.5,17.0,21.0,59.0,41.0,76.6,89.5,93.6,50.5,excellent
+Cornell University,United States,22.319000000000003,9.8,85.1,18.0,25.0,47.58308823529412,51.0,79.7,86.0,96.6,37.1,excellent
+Duke University,United States,15.309,4.3,84.0,19.0,19.0,49.0,51.0,82.4,76.8,97.0,99.9,excellent
+University of Michigan-Ann Arbor,United States,42.982,8.3,83.8,20.0,17.0,49.0,51.0,79.4,86.1,94.9,47.7,excellent
+Northwestern University,United States,17.951,12.8,83.5,21.0,20.0,47.58308823529412,51.0,74.2,83.8,97.8,78.4,excellent
+Tsinghua University,China,38.783,12.0,82.6,22.0,11.0,34.0,66.0,86.6,94.0,74.6,100.0,excellent
+Peking University,China,39.575,11.5,82.3,23.0,15.0,47.58308823529412,54.0,89.1,90.0,73.2,86.6,excellent
+National University of Singapore,Singapore,30.869,17.9,81.9,24.0,11.086892488954344,51.0,49.0,76.8,90.4,76.9,58.8,good
+University of Washington,United States,45.692,11.1,81.6,25.0,11.086892488954344,53.0,47.0,72.2,82.2,98.6,47.5,excellent
+Carnegie Mellon University,United States,13.43,13.6,81.3,26.0,11.086892488954344,47.58308823529412,59.0,65.9,82.7,98.2,50.5,excellent
+London School of Economics and Political Science,United Kingdom,10.57,12.1,81.3,26.0,11.086892488954344,53.0,47.0,69.0,83.0,92.8,35.1,excellent
+New York University,United States,44.466,8.9,81.1,27.0,11.086892488954344,47.58308823529412,43.0,76.8,77.5,96.5,38.7,excellent
+University of Edinburgh,United Kingdom,29.433000000000003,12.8,79.3,28.0,11.086892488954344,60.0,40.0,67.3,74.1,96.4,38.9,excellent
+"University of California, San Diego",United States,33.579,13.0,78.8,29.0,11.086892488954344,46.0,54.0,62.6,78.9,97.7,90.3,excellent
+LMU Munich,Germany,34.519,34.7,77.8,30.0,11.086892488954344,61.0,39.0,68.4,77.0,88.8,100.0,excellent
+University of Melbourne,Australia,47.385,26.3,77.8,30.0,11.086892488954344,47.58308823529412,44.0,65.9,74.1,89.8,76.3,excellent
+University of British Columbia,Canada,52.108,18.1,76.3,31.0,11.086892488954344,55.0,45.0,61.5,73.2,92.5,43.8,excellent
+University of Hong Kong,Hong Kong,18.26,18.2,75.9,32.0,44.0,54.0,46.0,69.5,77.2,76.6,59.7,excellent
+King�s College London,United Kingdom,26.057,12.5,75.7,33.0,44.0,47.58308823529412,38.0,61.3,68.5,94.8,45.6,excellent
+The University of Tokyo,Japan,25.913,10.6,75.7,33.0,12.0,0.0,0.0,85.9,89.6,60.7,77.4,excellent
+�cole Polytechnique F�d�rale de Lausanne,Switzerland,10.492,11.4,75.4,34.0,59.0,28.0,72.0,66.6,66.3,88.3,66.4,excellent
+Georgia Institute of Technology,United States,21.372,18.3,75.4,34.0,27.0,47.58308823529412,67.0,60.2,76.4,90.4,61.6,excellent
+University of Texas at Austin,United States,49.165,17.2,75.4,34.0,10.0,52.0,48.0,68.2,76.2,93.2,46.6,excellent
+Karolinska Institute,Sweden,7.777,9.0,74.7,35.0,20.0,68.0,32.0,55.4,71.4,96.1,71.2,good
+McGill University,Canada,31.294,13.0,74.3,36.0,29.0,58.0,42.0,65.0,71.9,84.7,42.8,excellent
+Technical University of Munich,Germany,40.472,47.8,74.1,37.0,27.0,34.0,66.0,64.6,70.4,85.5,100.0,excellent
+Heidelberg University,Germany,20.8,16.1,73.5,38.0,18.0,54.0,46.0,67.1,60.3,96.2,54.6,excellent
+KU Leuven,Belgium,45.049,36.3,73.2,39.0,15.0,47.58308823529412,50.0,58.7,73.9,85.3,99.3,good
+Paris Sciences et Lettres � PSL Research University Paris,France,21.298,11.5,73.2,39.0,26.0,46.0,54.0,71.6,71.4,77.0,52.2,excellent
+The Hong Kong University of Science and Technology,Hong Kong,10.125,22.3,73.1,40.0,31.0,0.0,0.0,57.4,66.1,89.8,71.9,good
+University of Illinois at Urbana-Champaign,United States,44.916,17.9,73.0,41.0,24.0,47.0,53.0,63.2,78.0,84.4,47.9,excellent
+"Nanyang Technological University, Singapore",Singapore,25.088,15.9,72.9,42.0,27.0,47.58308823529412,52.0,57.6,70.4,84.9,76.5,good
+Australian National University,Australia,17.359,17.8,72.1,43.0,44.0,52.0,48.0,54.4,69.7,88.4,46.4,good
+University of Wisconsin-Madison,United States,39.154,10.0,72.0,44.0,13.0,47.58308823529412,0.0,68.8,70.3,85.3,46.3,excellent
+Washington University in St Louis,United States,13.401,7.5,71.5,45.0,20.0,47.58308823529412,0.0,64.2,57.5,98.8,40.7,excellent
+Brown University,United States,9.391,10.8,70.0,46.0,20.0,0.0,0.0,64.0,56.1,94.9,36.5,excellent
+University of North Carolina at Chapel Hill,United States,35.419000000000004,9.4,69.9,47.0,8.0,57.0,43.0,59.7,63.2,96.9,43.9,good
+"University of California, Davis",United States,39.164,12.0,69.7,48.0,14.0,58.0,42.0,62.4,66.9,83.2,51.4,excellent
+University of Manchester,United Kingdom,37.038,14.4,69.7,48.0,40.0,53.0,47.0,56.9,63.8,85.2,44.7,good
+"University of California, Santa Barbara",United States,24.089,27.6,69.6,49.0,16.0,52.0,48.0,47.9,63.6,96.4,84.5,good
+Chinese University of Hong Kong,Hong Kong,18.34,18.6,69.6,49.0,32.0,0.0,0.0,55.8,62.8,84.5,55.2,good
+Wageningen University & Research,Netherlands,13.914,21.3,69.4,50.0,27.0,47.58308823529412,47.7845142439737,49.3,57.1,96.1,100.0,good
+University of Sydney,Australia,45.111,20.1,69.3,51.0,39.0,58.0,47.7845142439737,51.0,61.5,90.7,67.7,good
+Boston University,United States,25.662,11.6,68.4,52.0,27.0,60.0,47.7845142439737,57.3,55.6,95.7,41.4,good
+University of Amsterdam,Netherlands,26.723000000000003,13.5,68.1,53.0,18.0,56.0,47.7845142439737,48.0,63.4,91.2,45.3,good
+University of Southern California,United States,36.929,11.7,68.1,53.0,25.0,47.58308823529412,47.7845142439737,54.7,59.3,93.1,39.7,good
+Seoul National University,South Korea,26.182,12.4,68.0,54.0,12.0,0.0,47.7845142439737,72.3,71.6,66.5,86.6,excellent
+Kyoto University,Japan,22.566,9.0,67.7,55.0,9.0,24.0,47.7845142439737,73.7,78.1,59.9,66.2,excellent
+University of Queensland,Australia,39.144,35.7,67.4,56.0,34.0,55.0,45.0,49.3,58.7,86.8,80.9,good
+Delft University of Technology,Netherlands,18.743,20.2,66.7,57.0,30.0,29.0,71.0,55.3,72.3,63.2,99.4,good
+Leiden University,Netherlands,28.741,18.7,66.7,57.0,16.0,59.0,41.0,48.3,65.0,83.1,72.7,good
+Erasmus University Rotterdam,Netherlands,23.167,20.4,66.3,58.0,23.0,51.0,49.0,39.4,57.3,97.1,63.6,good
+Ohio State University (Main campus),United States,54.372,12.5,66.1,59.0,13.0,50.0,50.0,57.5,56.1,87.3,53.3,good
+UNSW Sydney,Australia,44.336000000000006,35.7,65.9,60.0,41.0,47.0,53.0,50.2,58.2,82.9,57.9,good
+McMaster University,Canada,24.412,28.1,65.4,61.0,17.0,47.58308823529412,45.0,44.5,50.1,94.8,94.0,good
+University of Groningen,Netherlands,27.228,23.8,65.0,62.0,21.0,51.0,49.0,42.3,55.6,91.6,79.8,good
+Humboldt University of Berlin,Germany,33.463,56.1,65.0,62.0,17.0,0.0,0.0,61.8,66.8,67.9,40.2,excellent
+Monash University,Australia,52.989,33.9,64.7,63.0,11.086892488954344,57.0,43.0,47.3,56.6,83.8,67.2,good
+Utrecht University,Netherlands,31.833,14.2,64.7,63.0,11.086892488954344,47.58308823529412,41.0,44.1,61.2,88.4,65.3,good
+University of Warwick,United Kingdom,20.599,13.2,64.6,64.0,11.086892488954344,49.0,51.0,46.9,52.7,88.8,42.8,good
+Penn State (Main campus),United States,46.20399999999999,15.3,64.3,65.0,11.086892488954344,46.0,54.0,55.2,67.1,75.7,52.1,good
+University of Minnesota,United States,61.12,12.4,64.1,66.0,11.086892488954344,52.0,48.0,55.2,59.3,82.7,78.2,good
+Charit� - Universit�tsmedizin Berlin,Germany,7.0760000000000005,17.6,64.0,67.0,11.086892488954344,64.0,36.0,47.6,47.3,94.9,92.7,good
+Emory University,United States,12.735,4.0,64.0,67.0,11.086892488954344,58.0,47.7845142439737,56.0,40.4,98.8,45.4,good
+University of Science and Technology of China,China,16.245,7.7,64.0,67.0,11.086892488954344,0.0,0.0,64.6,59.5,74.7,79.6,excellent
+Sorbonne University,France,43.076,13.5,64.0,67.0,11.086892488954344,58.0,42.0,62.3,50.6,79.9,38.4,excellent
+Michigan State University,United States,44.789,16.5,63.9,68.0,11.086892488954344,51.0,49.0,56.6,57.4,80.0,37.8,good
+University of Montreal,Canada,36.794,20.2,63.3,69.0,11.086892488954344,0.0,0.0,48.2,49.7,86.4,70.0,good
+University of Freiburg,Germany,21.475,42.8,63.3,69.0,11.086892488954344,54.0,46.0,49.1,51.6,83.1,100.0,good
+University of Bristol,United Kingdom,21.783,13.6,63.2,70.0,27.0,54.0,46.0,41.8,48.4,95.5,40.9,good
+Purdue University West Lafayette,United States,40.451,15.7,63.1,71.0,23.0,43.0,47.7845142439737,57.5,66.4,63.0,64.3,good
+Sungkyunkwan University (SKKU),South Korea,23.342,19.5,63.0,72.0,15.0,43.0,47.7845142439737,57.6,61.2,70.3,97.3,good
+University of Zurich,Switzerland,22.609,12.3,62.8,73.0,21.0,57.0,47.7845142439737,47.0,46.7,88.2,53.0,good
+"University of Maryland, College Park",United States,33.108000000000004,16.6,62.8,73.0,11.0,48.0,47.7845142439737,46.9,59.1,89.6,39.2,good
+University of T�bingen,Germany,27.901,37.5,62.7,74.0,14.0,58.0,47.7845142439737,51.2,56.2,80.1,67.0,good
+�cole Polytechnique,France,3.03,5.7,62.6,75.0,40.0,22.0,78.0,59.6,49.1,70.2,69.6,good
+University of Basel,Switzerland,11.518,15.8,62.4,76.0,27.0,56.0,44.0,43.0,41.2,91.4,99.4,good
+Dartmouth College,United States,6.247000000000001,7.7,62.4,76.0,15.0,49.0,51.0,58.4,39.9,96.4,41.0,good
+"University of California, Irvine",United States,32.706,16.5,62.3,77.0,26.0,52.0,48.0,43.3,46.5,94.9,58.9,good
+University of Helsinki,Finland,22.072,16.6,62.3,77.0,5.0,66.0,34.0,43.4,59.3,88.1,38.1,good
+Lund University,Sweden,27.266,12.1,62.2,78.0,19.0,54.0,46.0,40.7,54.3,86.3,81.0,good
+University of Glasgow,United Kingdom,25.357,15.4,62.2,78.0,37.0,59.0,41.0,41.1,47.9,91.8,40.0,good
+RWTH Aachen University,Germany,45.377,61.1,62.2,78.0,11.086892488954344,32.0,68.0,55.6,61.5,67.3,98.1,good
+University of Copenhagen,Denmark,31.219,4.3,62.1,79.0,17.0,47.58308823529412,43.0,48.1,44.1,89.6,48.1,good
+Uppsala University,Sweden,25.438,16.7,61.9,80.0,15.0,57.0,43.0,41.6,56.4,85.0,74.6,good
+Georgetown University,United States,16.279,8.5,61.8,81.0,18.0,54.0,46.0,57.3,37.9,93.9,62.5,good
+University of Arizona,United States,39.124,18.4,61.8,81.0,11.086892488954344,52.0,48.0,52.6,53.7,85.3,52.7,good
+Rice University,United States,6.667000000000001,8.9,61.7,82.0,28.0,42.0,58.0,49.1,39.7,93.7,45.4,good
+University of Bonn,Germany,36.352,67.7,61.6,83.0,13.0,47.58308823529412,45.0,47.6,47.0,88.0,93.3,good
+University of Virginia (Main campus),United States,23.116,8.6,61.5,84.0,12.0,52.0,48.0,54.4,43.5,91.3,41.6,good
+Zhejiang University,China,33.427,10.7,61.5,84.0,22.0,23.0,47.7845142439737,66.0,64.7,50.6,100.0,excellent
+Fudan University,China,32.537,11.2,61.4,85.0,12.0,53.0,47.0,61.9,58.6,68.1,58.6,excellent
+Korea Advanced Institute of Science and Technology (KAIST),South Korea,9.481,10.2,61.3,86.0,11.086892488954344,47.58308823529412,80.0,62.6,66.4,58.1,99.9,good
+Queen Mary University of London,United Kingdom,17.799,14.1,61.3,86.0,43.0,54.0,46.0,35.3,43.1,98.0,44.1,good
+University of Birmingham,United Kingdom,29.542,15.5,60.9,87.0,29.0,57.0,43.0,39.6,45.6,92.1,39.3,good
+University of Bern,Switzerland,11.09,16.5,60.4,88.0,16.0,56.0,44.0,44.5,41.2,86.6,85.0,good
+University of Pittsburgh-Pittsburgh campus,United States,26.652,5.8,60.4,88.0,11.0,51.0,49.0,47.4,45.5,95.1,40.7,good
+Aarhus University,Denmark,26.842,14.4,60.3,89.0,9.0,55.0,45.0,37.2,54.0,85.4,66.7,good
+Vanderbilt University,United States,12.005999999999998,3.0,60.3,89.0,14.0,54.0,46.0,48.7,42.1,95.4,47.5,good
+Free University of Berlin,Germany,35.894,58.2,60.1,90.0,21.0,59.0,41.0,57.2,63.3,58.4,42.4,good
+University of Sheffield,United Kingdom,26.218000000000004,15.0,60.1,90.0,34.0,50.0,50.0,45.2,46.4,83.0,45.8,good
+Case Western Reserve University,United States,10.654000000000002,8.8,60.0,91.0,23.0,50.0,50.0,48.4,39.9,95.3,42.1,good
+University of Adelaide,Australia,21.093000000000004,29.9,59.9,92.0,29.0,49.0,51.0,34.3,41.6,95.3,64.8,good
+National Taiwan University,Taiwan,27.254,11.1,59.9,92.0,11.0,40.0,60.0,57.0,62.7,64.0,65.4,good
+University of Southampton,United Kingdom,23.863000000000003,13.7,59.8,93.0,34.0,53.0,47.0,40.2,44.3,88.0,40.1,good
+Ghent University,Belgium,38.08,37.0,59.6,94.0,10.0,54.0,46.0,43.3,55.5,78.4,80.9,good
+University of Colorado Boulder,United States,33.186,16.3,59.6,94.0,11.0,44.0,56.0,44.8,45.6,93.1,41.7,good
+University of G�ttingen,Germany,30.773000000000003,29.1,59.6,94.0,13.0,51.0,47.7845142439737,49.6,48.6,82.0,37.0,good
+City University of Hong Kong,Hong Kong,9.587,11.0,59.3,95.0,45.0,47.58308823529412,41.0,41.0,48.9,77.6,62.4,good
+Maastricht University,Netherlands,16.857,18.6,59.0,96.0,54.0,60.0,40.0,40.2,48.3,77.0,82.9,good
+Radboud University Nijmegen,Netherlands,20.024,17.5,58.9,97.0,11.086892488954344,47.58308823529412,45.0,36.0,49.9,88.2,46.2,good
+University of York,United Kingdom,16.058,14.9,58.9,97.0,24.0,56.0,47.7845142439737,40.3,46.6,85.1,36.4,good
+University of Paris,France,61.39,15.5,58.8,98.0,17.0,64.0,36.0,52.0,36.1,88.3,35.6,good
+University of Oslo,Norway,20.783,12.6,58.7,99.0,17.0,62.0,38.0,39.6,43.8,90.0,40.7,good
+University of Western Australia,Australia,18.4,23.2,58.7,99.0,29.0,49.0,51.0,32.5,43.9,91.0,57.0,good
+Durham University,United Kingdom,16.963,14.8,58.5,100.0,30.0,55.0,45.0,45.5,47.8,75.5,37.9,good
+Indiana University,United States,66.872,13.6,58.4,101.0,15.0,52.0,48.0,50.8,49.7,76.7,49.8,good
+University of Vienna,Austria,33.547,40.2,58.4,101.0,27.0,66.0,34.0,48.1,55.3,64.6,37.1,good
+University of Alberta,Canada,31.919,21.0,58.2,102.0,26.0,55.0,45.0,47.9,48.8,70.3,60.5,good
+University of Cape Town,South Africa,21.812,11.9,58.2,102.0,17.0,53.0,47.0,33.2,42.8,90.3,85.3,good
+Vrije Universiteit Amsterdam,Netherlands,23.025,16.5,58.1,103.0,10.0,58.0,42.0,35.7,48.1,88.4,52.5,good
+Tufts University,United States,11.017,9.8,58.0,104.0,16.0,55.0,45.0,49.1,34.2,94.4,38.6,good
+Lancaster University,United Kingdom,12.657,12.5,57.9,105.0,38.0,51.0,49.0,34.7,39.4,92.5,36.0,good
+University of Ottawa,Canada,35.365,24.7,57.8,106.0,19.0,59.0,41.0,41.3,42.0,86.2,46.5,good
+Ulm University,Germany,10.629,27.7,57.8,106.0,13.0,48.0,52.0,40.6,36.6,94.9,75.7,good
+Pompeu Fabra University,Spain,11.636,21.6,57.8,106.0,13.0,60.0,40.0,37.7,40.1,94.4,44.5,good
+University of Geneva,Switzerland,16.935,15.6,57.6,107.0,39.0,61.0,39.0,38.1,43.7,80.4,63.3,good
+Nanjing University,China,34.569,15.5,57.6,107.0,10.0,44.0,56.0,50.7,48.0,71.8,84.9,good
+University of Exeter,United Kingdom,21.451,17.6,57.4,108.0,28.0,54.0,46.0,33.9,38.9,92.4,37.8,good
+Pohang University of Science and Technology (POSTECH),South Korea,3.215,10.3,57.4,108.0,3.0,47.58308823529412,77.0,51.7,50.9,72.2,99.6,good
+University of Sussex,United Kingdom,14.978,16.1,57.4,108.0,39.0,47.58308823529412,46.0,35.3,37.9,91.8,35.9,good
+University of Hamburg,Germany,30.375,59.3,57.3,109.0,11.086892488954344,47.58308823529412,44.0,44.4,49.8,74.0,98.5,good
+Sant�Anna School of Advanced Studies � Pisa,Italy,776.0,12.4,57.3,109.0,11.086892488954344,35.0,65.0,45.0,42.3,82.5,84.7,good
+Technical University of Berlin,Germany,22.622,60.6,57.3,109.0,11.086892488954344,34.0,66.0,50.4,53.9,62.3,92.7,good
+Universit� Catholique de Louvain,Belgium,26.235,39.3,57.2,110.0,11.086892488954344,53.0,47.0,38.8,51.5,75.7,53.7,good
+University of Nottingham,United Kingdom,29.699,14.6,57.2,110.0,29.0,54.0,46.0,42.7,42.6,80.3,39.4,good
+Scuola Normale Superiore di Pisa,Italy,558.0,6.8,57.2,110.0,11.0,29.0,71.0,57.2,38.1,79.2,35.9,good
+Arizona State University (Tempe),United States,46.683,21.1,57.1,111.0,21.0,43.0,57.0,39.3,50.7,81.6,38.5,good
+University of Leeds,United Kingdom,30.236,14.2,57.1,111.0,29.0,61.0,47.7845142439737,41.1,45.9,78.0,39.9,good
+Autonomous University of Barcelona,Spain,31.877,12.6,56.9,112.0,16.0,59.0,47.7845142439737,40.9,36.1,92.9,44.8,good
+University of Cologne,Germany,36.965,36.5,56.9,112.0,16.0,63.0,37.0,43.6,42.9,81.5,70.6,good
+University of Mannheim,Germany,10.73,79.9,56.9,112.0,18.0,56.0,44.0,41.9,50.0,78.2,58.6,good
+University of Notre Dame,United States,12.104,13.7,56.9,112.0,12.0,45.0,55.0,52.9,46.2,73.5,38.1,good
+Shanghai Jiao Tong University,China,38.853,11.1,56.9,112.0,13.0,44.0,56.0,58.0,63.0,47.9,99.9,good
+TU Dresden,Germany,32.309,34.2,56.9,112.0,14.0,42.0,58.0,46.5,48.5,73.0,94.1,good
+University of W�rzburg,Germany,24.082,36.6,56.8,113.0,10.0,56.0,44.0,38.7,42.4,87.5,65.6,good
+Trinity College Dublin,Ireland,16.852999999999998,21.9,56.4,114.0,30.0,59.0,41.0,41.7,43.9,75.4,41.2,good
+University of Liverpool,United Kingdom,23.057,13.8,56.3,115.0,33.0,55.0,45.0,35.2,37.5,88.8,38.8,good
+Bielefeld University,Germany,24.875,77.5,56.1,116.0,8.0,57.0,43.0,36.1,42.7,91.1,59.4,good
+University of Leicester,United Kingdom,14.645,14.3,56.1,116.0,32.0,53.0,47.0,30.1,34.8,96.2,38.1,good
+University of Aberdeen,United Kingdom,12.399,15.7,56.0,117.0,39.0,57.0,43.0,30.4,33.3,95.2,45.8,good
+University of Bologna,Italy,65.819,24.0,56.0,117.0,12.0,56.0,44.0,51.5,34.8,83.8,45.1,good
+"Rutgers, the State University of New Jersey",United States,44.801,11.2,56.0,117.0,17.0,52.0,48.0,47.8,48.5,73.9,41.1,good
+Hong Kong Polytechnic University,Hong Kong,20.388,23.1,55.9,118.0,25.0,52.0,48.0,41.0,46.6,71.8,42.3,good
+University of Alabama at Birmingham,United States,16.927,16.7,55.7,119.0,6.0,62.0,38.0,39.2,33.6,97.3,74.8,good
+Northeastern University,United States,19.575,13.9,55.6,120.0,35.0,47.58308823529412,51.0,38.0,27.9,97.5,38.0,good
+University of Rochester,United States,9.824,4.2,55.6,120.0,31.0,47.58308823529412,51.0,43.4,30.3,91.4,40.9,good
+University of Florida,United States,46.642,16.8,55.4,121.0,10.0,55.0,45.0,54.0,53.8,61.9,57.9,good
+Karlsruhe Institute of Technology,Germany,27.255,25.6,55.4,121.0,22.0,28.0,72.0,45.4,47.8,66.5,91.3,good
+Stockholm University,Sweden,27.185,19.5,55.4,121.0,14.0,0.0,0.0,30.0,46.4,85.0,36.6,good
+Texas A&M University,United States,60.818000000000005,24.8,55.3,122.0,11.086892488954344,47.0,53.0,49.3,54.8,62.8,45.3,good
+University of Auckland,New Zealand,32.821,22.1,55.3,122.0,11.086892488954344,56.0,44.0,31.4,43.9,80.2,62.4,good
+"University of California, Santa Cruz",United States,18.783,23.0,55.2,123.0,10.0,50.0,50.0,33.1,34.9,97.7,39.1,good
+Korea University,South Korea,22.965,16.0,55.2,123.0,22.0,0.0,0.0,48.4,50.2,64.5,93.9,good
+Queensland University of Technology,Australia,34.871,38.2,55.2,123.0,16.0,54.0,46.0,31.9,40.3,86.4,62.4,good
+University of Erlangen-Nuremberg,Germany,38.111,57.0,54.8,124.0,12.0,48.0,52.0,41.1,45.8,75.2,89.6,good
+Aalto University,Finland,12.195,18.6,54.8,124.0,26.0,34.0,66.0,41.8,39.4,76.7,48.3,good
+Technical University of Denmark,Denmark,9.265,6.6,54.8,124.0,25.0,30.0,70.0,39.4,40.2,73.8,71.6,good
+Eindhoven University of Technology,Netherlands,8.917,20.7,54.7,125.0,19.0,0.0,0.0,44.6,48.8,61.0,99.8,good
+University of Gothenburg,Sweden,19.677,10.2,54.7,125.0,13.0,0.0,0.0,27.5,41.5,93.5,40.1,good
+T�l�com Paris,France,923.0,5.6,54.6,126.0,39.0,21.0,47.7845142439737,42.6,38.3,74.4,76.6,good
+Lomonosov Moscow State University,Russian Federation,29.235,7.3,54.3,127.0,29.0,48.0,47.7845142439737,78.2,63.0,15.6,90.7,excellent
+University of M�nster,Germany,43.835,43.4,54.3,127.0,8.0,0.0,47.7845142439737,41.0,42.5,81.3,47.5,good
+Tel Aviv University,Israel,22.414,22.3,54.3,127.0,7.0,47.58308823529412,47.7845142439737,41.3,51.3,71.2,41.8,good
+University of East Anglia,United Kingdom,15.195,13.9,54.2,128.0,28.0,47.58308823529412,40.0,28.3,30.1,97.2,35.7,good
+University of Canberra,Australia,10.823,36.2,54.1,129.0,32.0,47.58308823529412,0.0,25.2,31.1,99.2,38.6,good
+University of Duisburg-Essen,Germany,42.698,53.0,54.0,130.0,19.0,48.0,52.0,34.4,32.8,91.8,71.6,good
+University of Technology Sydney,Australia,26.385,43.4,54.0,130.0,34.0,51.0,49.0,33.5,42.9,75.3,50.3,good
+University of the Witwatersrand,South Africa,28.521,26.3,54.0,130.0,8.0,56.0,44.0,31.2,43.2,78.8,100.0,good
+Yonsei University (Seoul campus),South Korea,17.744,14.6,53.9,131.0,22.0,47.0,53.0,51.2,52.6,53.0,98.9,good
+Cardiff University,United Kingdom,25.501,13.5,53.9,131.0,27.0,59.0,41.0,32.5,35.5,87.1,37.8,good
+University of Antwerp,Belgium,15.166,29.3,53.8,132.0,17.0,55.0,45.0,35.6,44.5,75.8,72.2,good
+George Washington University,United States,23.488000000000003,13.1,53.8,132.0,18.0,60.0,40.0,48.6,32.4,81.5,35.0,good
+University of Lausanne,Switzerland,12.197,9.6,53.8,132.0,24.0,0.0,0.0,33.1,44.2,73.3,67.8,good
+University of St Andrews,United Kingdom,9.213,12.7,53.7,133.0,46.0,58.0,42.0,42.2,41.8,67.8,37.6,good
+University of Luxembourg,Luxembourg,4.654,18.7,53.7,133.0,49.0,51.0,49.0,37.9,36.5,75.8,45.2,good
+Newcastle University,United Kingdom,22.691,14.1,53.6,134.0,27.0,51.0,49.0,31.5,36.2,85.5,41.7,good
+Macquarie University,Australia,30.234,68.6,53.3,135.0,29.0,52.0,48.0,37.8,42.6,71.8,53.1,good
+Queen�s University Belfast,United Kingdom,17.747,17.2,53.3,135.0,36.0,55.0,45.0,31.2,35.5,83.7,38.7,good
+Aalborg University,Denmark,16.34,13.6,53.2,136.0,15.0,0.0,0.0,28.5,39.1,87.1,48.0,good
+Ulsan National Institute of Science and Technology (UNIST),South Korea,4.127,13.9,53.2,136.0,8.0,26.0,74.0,27.8,38.6,91.3,80.5,good
+Western University,Canada,29.865,23.1,53.2,136.0,18.0,56.0,44.0,40.2,35.7,76.4,59.1,good
+University of Massachusetts,United States,61.20399999999999,13.0,52.9,137.0,15.0,48.0,52.0,38.5,31.1,87.0,49.9,good
+University of Calgary,Canada,28.56,16.0,52.8,138.0,19.0,0.0,0.0,33.9,34.2,84.7,48.1,good
+University of Bergen,Norway,14.007,12.5,52.7,139.0,14.0,60.0,40.0,29.5,29.4,94.1,37.1,good
+University of Hohenheim,Germany,9.234,37.8,52.6,140.0,15.0,57.0,43.0,34.4,31.0,92.0,50.0,good
+University of Barcelona,Spain,46.214,11.8,52.4,141.0,10.0,62.0,38.0,37.3,32.5,87.6,41.2,good
+�cole Normale Sup�rieure de Lyon,France,2.362,8.9,52.3,142.0,13.0,48.0,52.0,45.2,43.5,63.9,47.0,good
+Royal College of Surgeons in Ireland (RCSI),Ireland,2.265,21.1,52.3,142.0,65.0,0.0,0.0,30.1,26.9,90.0,47.5,good
+Hebrew University of Jerusalem,Israel,16.137,12.0,52.2,143.0,5.0,56.0,44.0,48.2,45.1,62.3,41.4,good
+University of South Florida (Tampa),United States,33.885,18.9,51.9,144.0,14.0,0.0,0.0,30.5,34.2,87.3,89.0,good
+University of Otago,New Zealand,18.196,20.0,51.8,145.0,21.0,59.0,41.0,30.2,32.1,84.7,37.0,good
+King Abdulaziz University,Saudi Arabia,32.853,7.9,51.7,146.0,21.0,54.0,46.0,29.5,16.5,96.4,78.9,good
+University of Utah,United States,30.365,14.2,51.7,146.0,8.0,47.0,53.0,39.0,34.7,86.4,48.3,good
+Vita-Salute San Raffaele University,Italy,2.61,10.7,51.7,146.0,3.0,59.0,41.0,38.7,22.4,97.6,35.9,good
+KTH Royal Institute of Technology,Sweden,12.659,15.7,51.6,147.0,20.0,33.0,67.0,40.5,42.7,62.3,50.5,good
+Tilburg University,Netherlands,8.033,21.4,51.6,147.0,15.0,50.0,50.0,36.8,48.8,62.1,55.9,good
+University of Konstanz,Germany,11.387,56.1,51.5,148.0,13.0,55.0,45.0,38.8,44.2,66.4,72.1,good
+Medical University of Graz,Austria,3.352,10.9,51.4,149.0,24.0,53.0,47.0,30.9,25.1,91.7,62.1,good
+Medical University of Vienna,Austria,7.142,8.1,51.4,149.0,30.0,52.0,48.0,33.4,23.5,90.3,53.0,good
+University of Iowa,United States,28.945,11.6,51.3,150.0,12.0,52.0,48.0,43.1,29.5,82.3,54.0,good
+Paris-Sud University,France,28.726,14.5,51.3,150.0,17.0,56.0,44.0,33.7,32.3,85.9,35.1,good
+Universit� Libre de Bruxelles,Belgium,27.194000000000003,36.2,51.2,151.0,34.0,56.0,44.0,30.2,41.5,73.6,42.7,good
+University of Miami,United States,15.970999999999998,6.3,51.2,151.0,16.0,52.0,48.0,44.0,25.2,83.2,41.3,good
+University of Reading,United Kingdom,14.107,14.9,51.2,151.0,31.0,57.0,43.0,32.1,35.2,76.9,40.3,good
+University of Dundee,United Kingdom,12.122,17.6,51.1,152.0,22.0,63.0,37.0,24.8,31.2,90.5,46.5,good
+University of Hawai�i at M?noa,United States,15.054,10.8,50.9,153.0,10.0,57.0,43.0,36.3,38.9,73.8,51.5,good
+Moscow Institute of Physics and Technology,Russian Federation,5.716,11.2,50.7,154.0,15.0,24.0,76.0,53.3,45.6,47.2,99.9,good
+Vrije Universiteit Brussel,Belgium,11.371,28.4,50.6,155.0,22.0,54.0,46.0,37.4,42.3,62.7,87.0,good
+Howard University,United States,8.449,7.5,50.5,156.0,8.0,65.0,35.0,42.8,15.3,99.0,34.4,good
+University of Waterloo,Canada,33.519,23.6,50.5,156.0,20.0,47.0,53.0,35.0,42.1,66.3,45.1,good
+William & Mary,United States,8.235,11.4,50.5,156.0,9.0,55.0,45.0,47.5,21.1,87.4,35.3,good
+University of Wollongong,Australia,18.642,31.5,50.5,156.0,29.0,52.0,48.0,29.9,35.0,75.5,55.7,good
+Copenhagen Business School,Denmark,16.317,30.9,50.4,157.0,25.0,48.0,52.0,25.3,32.4,83.7,43.6,good
+Griffith University,Australia,34.12,23.6,50.4,157.0,17.0,58.0,42.0,25.5,32.7,86.0,42.0,good
+University of Padua,Italy,45.169,21.3,50.4,157.0,4.0,55.0,45.0,42.5,30.9,80.2,38.4,good
+Virginia Polytechnic Institute and State University,United States,32.838,18.3,50.4,157.0,14.0,43.0,57.0,37.5,42.3,70.9,47.5,good
+Brandeis University,United States,5.375,12.2,50.3,158.0,27.0,57.0,43.0,28.5,22.9,100.0,35.6,good
+James Cook University,Australia,11.491,21.2,50.3,158.0,11.0,63.0,37.0,23.3,28.4,93.3,45.9,good
+University College Dublin,Ireland,22.541,23.1,50.3,158.0,29.0,0.0,0.0,30.8,36.5,73.6,43.9,good
+"St George�s, University of London",United Kingdom,3.2260000000000004,14.7,50.2,159.0,21.0,62.0,38.0,24.0,22.0,98.2,36.9,good
+University of Twente,Netherlands,7.584,13.9,50.2,159.0,32.0,37.0,63.0,35.2,46.8,55.6,85.0,good
+Wake Forest University,United States,7.675,4.0,50.1,160.0,9.0,53.0,47.0,42.8,18.8,94.1,43.6,good
+"University of California, Riverside",United States,22.272,18.0,50.1,160.0,14.0,53.0,47.0,31.2,30.3,85.9,39.4,good
+Higher School of Economics,Russian Federation,22.111,13.1,50.0,161.0,9.0,0.0,0.0,35.9,37.3,78.1,56.5,good
+University of Passau,Germany,11.387,86.6,49.9,162.0,12.0,59.0,41.0,32.8,39.3,75.5,47.5,good
+University of South Australia,Australia,20.268,30.5,49.8,163.0,25.0,58.0,42.0,31.5,39.4,65.8,82.5,good
+University of Illinois at Chicago,United States,27.031,11.5,49.6,164.0,20.0,52.0,48.0,45.0,33.4,69.7,43.2,good
+Chalmers University of Technology,Sweden,9.209,12.5,49.5,165.0,17.0,32.0,68.0,36.1,42.1,60.0,74.1,good
+Alfaisal University,Saudi Arabia,2.5660000000000003,10.4,49.4,166.0,34.0,60.0,40.0,19.6,21.2,95.0,50.4,bad
+Curtin University,Australia,29.214,20.2,49.3,167.0,31.0,51.0,49.0,23.4,30.4,83.2,44.8,good
+Queen�s University,Canada,23.306,25.1,49.2,168.0,13.0,58.0,42.0,41.5,37.8,62.6,65.7,good
+Sapienza University of Rome,Italy,71.318,21.3,49.2,168.0,6.0,57.0,43.0,40.4,40.0,69.8,43.6,good
+University of Cincinnati,United States,28.434,20.4,49.1,169.0,9.0,51.0,49.0,35.5,30.8,83.9,39.4,good
+University of Surrey,United Kingdom,13.125,16.0,49.1,169.0,37.0,55.0,45.0,30.2,34.3,71.9,46.8,good
+Tohoku University,Japan,17.735,8.2,49.1,169.0,12.0,27.0,73.0,52.7,54.4,39.8,86.4,good
+University at Buffalo,United States,25.849,17.4,49.0,170.0,17.0,44.0,56.0,37.2,32.7,73.8,42.1,good
+Auckland University of Technology,New Zealand,18.035,17.1,48.9,171.0,47.0,59.0,41.0,19.7,18.4,98.0,36.7,bad
+�cole des Ponts ParisTech,France,2.005,11.3,48.9,171.0,44.0,32.0,68.0,39.9,24.5,73.1,57.5,good
+Oregon Health and Science University,United States,2.895,1.0,48.8,172.0,3.0,66.0,34.0,35.7,16.7,99.7,47.6,good
+University of S�o Paulo,Brazil,83.214,15.9,48.8,172.0,4.0,48.0,52.0,56.4,54.0,40.6,39.9,good
+Swansea University,United Kingdom,16.445,16.7,48.8,172.0,23.0,45.0,55.0,21.3,24.1,93.3,36.8,good
+Dalhousie University,Canada,15.196,14.7,48.6,173.0,23.0,54.0,46.0,27.7,29.6,79.5,44.4,good
+Flinders University,Australia,16.844,25.8,48.6,173.0,34.0,64.0,36.0,22.5,29.9,84.4,37.7,good
+University of Navarra,Spain,10.833,13.0,48.6,173.0,22.0,53.0,47.0,30.4,27.9,80.3,85.5,good
+University of Potsdam,Germany,20.063,53.9,48.6,173.0,11.0,57.0,43.0,36.8,40.8,65.2,56.2,good
+University of Essex,United Kingdom,11.923,16.1,48.5,174.0,39.0,54.0,46.0,31.6,34.3,68.6,35.0,good
+Laval University,Canada,29.25,17.3,48.5,174.0,13.0,57.0,43.0,40.1,31.8,67.6,59.6,good
+Medical University of Innsbruck,Austria,2.966,4.3,48.5,174.0,44.0,52.0,48.0,30.5,14.2,89.1,51.5,good
+Simon Fraser University,Canada,26.521,27.3,48.5,174.0,30.0,55.0,45.0,24.1,35.5,75.3,47.0,good
+Florida State University,United States,38.52,24.1,48.4,175.0,7.0,56.0,44.0,38.0,40.1,69.2,39.4,good
+University of Kiel,Germany,26.412,22.2,48.4,175.0,8.0,53.0,47.0,30.6,27.5,86.8,34.4,good
+University of Bath,United Kingdom,13.825,16.4,48.3,176.0,32.0,46.0,54.0,28.6,31.1,75.7,37.5,good
+Ruhr University Bochum,Germany,43.015,60.5,48.3,176.0,14.0,49.0,51.0,39.7,45.0,57.9,54.5,good
+University of Southern Denmark,Denmark,21.281,12.1,48.2,177.0,17.0,53.0,47.0,21.4,28.1,85.1,69.7,good
+George Mason University,United States,29.377,18.0,48.1,178.0,10.0,54.0,46.0,29.9,26.3,89.5,35.8,good
+Macau University of Science and Technology,Macao,9.924,24.4,48.1,178.0,79.0,56.0,44.0,27.1,22.4,83.0,34.8,good
+"Royal Holloway, University of London",United Kingdom,9.503,15.2,48.1,178.0,36.0,59.0,41.0,30.6,30.2,73.4,37.1,good
+Tampere University,Finland,15.149,21.8,47.9,179.0,6.0,51.0,49.0,26.4,34.7,81.8,52.6,good
+Western Sydney University,Australia,32.259,35.7,47.9,179.0,17.0,56.0,44.0,23.5,29.1,82.8,40.4,good
+Autonomous University of Madrid,Spain,29.576,13.4,47.8,180.0,14.0,61.0,39.0,40.1,28.7,74.5,38.6,good
+University of Oregon,United States,22.143,10.8,47.7,181.0,12.0,54.0,46.0,34.0,29.3,83.7,34.7,good
+La Trobe University,Australia,22.292,33.9,47.6,182.0,29.0,64.0,36.0,27.1,33.1,73.3,51.3,good
+Technical University of Darmstadt,Germany,18.166,40.8,47.6,182.0,17.0,30.0,70.0,42.4,44.2,50.4,89.5,good
+University of Oulu,Finland,10.086,30.0,47.5,183.0,6.0,51.0,49.0,30.3,34.4,76.4,43.0,good
+Brighton and Sussex Medical School,United Kingdom,879.0,11.3,47.4,184.0,15.0,57.0,43.0,15.9,19.9,100.0,34.4,good
+University of Stuttgart,Germany,26.004,45.8,47.4,184.0,20.0,32.0,68.0,41.8,45.4,52.4,61.1,good
+Syracuse University,United States,20.236,15.7,47.4,184.0,20.0,53.0,47.0,35.1,29.6,78.1,35.3,good
+University of Delaware,United States,20.566,17.0,47.3,185.0,10.0,57.0,43.0,28.5,38.2,71.5,90.6,good
+Heriot-Watt University,United Kingdom,9.189,17.2,47.2,186.0,35.0,41.0,59.0,28.4,26.7,75.2,42.0,good
+Stellenbosch University,South Africa,24.308000000000003,26.1,47.1,187.0,8.0,55.0,45.0,29.5,34.6,74.4,59.1,good
+"National University of Ireland, Galway",Ireland,13.911,26.6,47.0,188.0,17.0,58.0,42.0,27.1,29.9,76.3,42.4,good
+Sun Yat-sen University,China,53.603,16.6,46.9,189.0,9.0,51.0,49.0,43.6,35.8,63.5,56.4,good
+Tokyo Institute of Technology,Japan,9.752,7.7,46.9,189.0,13.0,15.0,85.0,51.2,51.8,37.4,69.3,good
+Anglia Ruskin University,United Kingdom,18.022,23.1,46.8,190.0,30.0,63.0,37.0,17.9,14.4,99.9,35.1,good
+Indian Institute of Science,India,4.128,9.6,46.8,190.0,1.0,23.0,77.0,58.6,55.3,32.4,57.1,good
+University of New Mexico (Main campus),United States,19.382,17.1,46.8,190.0,5.0,55.0,45.0,29.2,31.8,83.6,37.4,good
+Stony Brook University,United States,24.201,10.5,46.7,191.0,23.0,50.0,50.0,34.4,23.5,77.0,36.1,good
+University of Fribourg,Switzerland,10.887,32.3,46.6,192.0,18.0,59.0,41.0,31.8,32.4,64.7,54.1,good
+Goethe University Frankfurt,Germany,47.141000000000005,19.6,46.6,192.0,15.0,57.0,43.0,31.7,29.5,75.6,43.2,good
+Johannes Gutenberg University of Mainz,Germany,31.919,26.9,46.5,193.0,11.0,59.0,41.0,35.2,22.6,77.4,68.9,good
+University of Macau,Macao,9.34,14.4,46.5,193.0,37.0,57.0,43.0,32.3,32.6,61.9,41.0,good
+University of Trento,Italy,12.92,19.5,46.5,193.0,7.0,51.0,49.0,27.7,31.7,77.8,41.5,good
+North Carolina State University,United States,30.231,12.5,46.4,194.0,15.0,45.0,55.0,36.7,35.3,64.7,43.2,good
+University of Newcastle,Australia,22.1,20.7,46.3,195.0,18.0,55.0,45.0,24.5,28.3,76.6,49.9,good
+Temple University,United States,35.814,13.0,46.3,195.0,9.0,53.0,47.0,39.3,23.5,79.3,34.4,good
+Huazhong University of Science and Technology,China,56.379,16.5,46.2,196.0,5.0,36.0,64.0,41.0,39.1,59.8,90.4,good
+Nova Southeastern University,United States,17.785,23.4,46.2,196.0,6.0,69.0,31.0,33.8,10.3,99.5,34.4,good
+Swedish University of Agricultural Sciences,Sweden,3.737,4.5,46.2,196.0,4.0,69.0,31.0,31.1,29.5,73.5,94.8,good
+United Arab Emirates University,United Arab Emirates,7.523,9.2,46.2,196.0,21.0,83.0,17.0,23.7,19.1,84.7,43.3,good
+Nagoya University,Japan,15.675999999999998,9.2,46.1,197.0,11.0,30.0,70.0,47.8,47.8,43.4,76.8,good
+Southern University of Science and Technology (SUSTech),China,3.198,9.5,46.1,197.0,0.0,27.0,73.0,23.9,23.5,85.3,70.5,good
+University of Klagenfurt,Austria,3.639,10.8,46.0,198.0,22.0,69.0,31.0,25.3,16.5,86.5,37.2,good
+Kyung Hee University,South Korea,22.102,17.3,46.0,198.0,22.0,51.0,49.0,33.8,40.5,56.4,84.9,good
+University of Tartu,Estonia,8.532,11.6,46.0,198.0,8.0,68.0,32.0,26.8,27.1,82.4,37.5,good
+University of Texas at Dallas,United States,22.757,21.6,46.0,198.0,25.0,43.0,57.0,23.7,29.3,82.1,39.9,good
+Boston College,United States,12.904000000000002,15.7,45.9,199.0,11.0,55.0,45.0,36.7,33.7,69.2,34.4,good
+University of Malaya,Malaysia,15.14,8.0,45.9,199.0,20.0,63.0,37.0,41.6,30.5,56.6,48.1,good
+University of Marburg,Germany,25.541,34.7,45.9,199.0,12.0,55.0,45.0,33.8,29.1,73.4,39.1,good
+Maynooth University,Ireland,9.291,28.3,45.9,199.0,12.0,55.0,45.0,20.3,29.8,80.3,37.3,good
+Tulane University,United States,11.185,9.8,45.8,200.0,11.0,57.0,43.0,42.3,24.1,72.7,37.0,good
+Cyprus University of Technology,Cyprus,3.228,17.4,45.7,201.0,8.0,54.0,46.0,17.2,16.3,98.0,35.3,good
+Aix-Marseille University,France,67.857,16.6,45.6,202.0,12.0,59.0,41.0,41.3,25.3,67.1,36.8,good
+Grenoble Alpes University,France,41.411,17.6,45.6,202.0,13.0,52.0,48.0,34.0,30.4,69.7,36.0,good
+University of Li�ge,Belgium,20.888,27.0,45.6,202.0,21.0,56.0,44.0,27.6,38.2,60.5,95.9,good
+Deakin University,Australia,39.305,28.6,45.5,203.0,22.0,58.0,42.0,23.8,29.6,73.5,40.6,good
+Reykjav�k University,Iceland,2.879,24.9,45.5,203.0,8.0,41.0,59.0,14.4,18.2,100.0,36.5,bad
+The University of Tennessee-Knoxville,United States,25.907,16.8,45.5,203.0,5.0,0.0,0.0,32.9,23.4,80.3,43.9,good
+Jacobs University,Germany,1.142,16.2,45.4,204.0,76.0,45.0,55.0,40.6,33.2,50.7,55.1,good
+University of Canterbury,New Zealand,13.089,18.0,45.2,205.0,24.0,50.0,50.0,24.3,27.2,72.7,38.5,good
+University of Milan,Italy,45.451,21.4,45.2,205.0,6.0,59.0,41.0,35.9,28.9,72.2,37.7,good
+Rush University,United States,2.425,2.0,45.2,205.0,1.0,74.0,26.0,37.2,12.9,92.1,41.3,good
+Beijing Normal University,China,23.524,15.4,45.1,206.0,11.0,0.0,0.0,46.5,39.6,48.6,57.1,good
+Ume� University,Sweden,17.373,12.5,45.0,207.0,11.0,60.0,40.0,23.5,28.5,79.1,36.2,good
+Universit� della Svizzera Italiana,Switzerland,2.768,10.8,44.9,208.0,67.0,49.0,51.0,24.6,21.9,74.6,44.0,good
+University College Cork,Ireland,16.861,18.0,44.9,208.0,18.0,58.0,42.0,24.9,23.1,77.5,44.5,good
+Colorado School of Mines,United States,5.768,16.7,44.8,209.0,11.0,29.0,71.0,30.1,25.1,79.6,46.6,good
+Osaka University,Japan,22.892,7.4,44.8,209.0,11.0,32.0,68.0,51.5,49.0,34.6,63.0,good
+Montpellier University,France,39.405,19.5,44.7,210.0,15.0,53.0,47.0,36.3,27.1,67.1,37.3,good
+University of Tasmania,Australia,18.219,24.9,44.7,210.0,30.0,60.0,40.0,26.0,33.7,63.0,50.1,good
+Polytechnic University of Milan,Italy,35.184,25.0,44.6,211.0,17.0,34.0,66.0,33.1,35.2,59.6,72.5,good
+Indian Institute of Technology Ropar,India,1.119,7.6,44.5,212.0,0.0,13.0,87.0,28.1,12.8,100.0,36.2,good
+Victoria University,Australia,14.815,32.2,44.5,212.0,23.0,53.0,47.0,24.0,26.0,75.3,42.8,good
+University of Denver,United States,9.535,13.0,44.4,213.0,9.0,57.0,43.0,40.5,22.3,75.4,35.8,good
+State University of New York Albany,United States,15.947,16.6,44.4,213.0,10.0,52.0,48.0,24.0,35.4,72.8,40.1,good
+University of Stirling,United Kingdom,9.25,15.8,44.4,213.0,23.0,63.0,37.0,23.6,25.3,75.5,35.2,good
+Wayne State University,United States,22.295,11.3,44.4,213.0,9.0,55.0,45.0,33.3,18.1,83.3,45.4,good
+"University of California, Merced",United States,7.324,20.9,44.3,214.0,8.0,51.0,49.0,17.1,21.6,95.3,38.0,bad
+TU Dortmund University,Germany,34.267,108.8,44.3,214.0,10.0,45.0,55.0,37.6,41.4,54.2,45.8,good
+University of Turku,Finland,12.785,16.3,44.3,214.0,6.0,63.0,37.0,27.1,30.8,73.5,37.3,good
+Wuhan University,China,52.502,14.6,44.3,214.0,7.0,0.0,0.0,44.0,34.0,52.5,84.7,good
+Universit� de Versailles Saint-Quentin-en-Yvelines,France,16.621,21.2,44.2,215.0,15.0,59.0,41.0,17.3,21.1,89.9,35.4,bad
+Washington State University,United States,27.957,18.1,44.2,215.0,7.0,52.0,48.0,30.7,28.6,71.8,48.4,good
+University of Bremen,Germany,18.915,31.9,44.1,216.0,12.0,51.0,49.0,36.9,36.1,56.0,49.0,good
+Vienna University of Technology,Austria,10.464,19.9,44.1,216.0,29.0,29.0,71.0,38.4,36.8,45.5,63.7,good
+"Birkbeck, University of London",United Kingdom,8.631,15.8,44.0,217.0,38.0,54.0,46.0,27.6,31.5,62.8,34.5,good
+Khalifa University,United Arab Emirates,3.651,9.5,44.0,217.0,26.0,55.0,45.0,27.7,32.9,54.0,100.0,good
+University of Kent,United Kingdom,17.754,20.0,43.9,218.0,31.0,53.0,47.0,24.1,28.4,67.9,35.0,good
+National Tsing Hua University,Taiwan,14.853,18.0,43.8,219.0,10.0,42.0,58.0,35.4,46.2,50.1,64.8,good
+"Goldsmiths, University of London",United Kingdom,8.486,15.3,43.7,220.0,35.0,66.0,34.0,33.8,28.6,60.4,35.1,good
+University of Iceland,Iceland,8.135,13.9,43.7,220.0,12.0,67.0,33.0,19.5,30.0,75.0,62.7,bad
+Nankai University,China,28.061,13.3,43.7,220.0,7.0,0.0,0.0,35.7,21.8,75.8,41.5,good
+University of Pisa,Italy,33.726,22.4,43.7,220.0,6.0,51.0,49.0,31.2,26.5,74.3,40.5,good
+Taipei Medical University,Taiwan,5.973,10.2,43.7,220.0,10.0,57.0,43.0,28.7,31.8,67.9,94.9,good
+University of Salerno,Italy,24.29,25.8,43.6,221.0,2.0,56.0,44.0,20.2,19.5,94.0,37.3,good
+University of Manitoba,Canada,29.311,29.4,43.5,222.0,17.0,53.0,47.0,28.0,30.8,69.9,36.5,good
+Oregon State University,United States,24.798,16.0,43.4,223.0,11.0,46.0,54.0,30.9,30.1,67.2,37.7,good
+University of Crete,Greece,13.321,23.4,43.3,224.0,4.0,62.0,38.0,17.7,20.1,91.4,38.7,bad
+Hasselt University,Belgium,5.189,31.1,43.3,224.0,13.0,47.0,53.0,28.3,38.1,56.6,49.7,good
+Loughborough University,United Kingdom,14.749,14.3,43.3,224.0,25.0,40.0,60.0,33.8,34.3,52.9,39.0,good
+"University of Occupational and Environmental Health, Japan",Japan,1.142,2.6,43.3,224.0,1.0,54.0,46.0,26.9,9.6,99.8,40.2,good
+Babol Noshirvani University of Technology,Iran,5.744,29.6,43.2,225.0,0.0,32.0,68.0,15.3,21.2,99.8,42.2,bad
+University of Bayreuth,Germany,9.255,29.7,43.2,225.0,10.0,46.0,54.0,34.7,34.5,55.8,59.9,good
+Brunel University London,United Kingdom,10.961,16.3,43.2,225.0,36.0,47.0,53.0,26.9,26.9,63.2,36.8,good
+University of Florence,Italy,34.686,20.4,43.2,225.0,11.0,59.0,41.0,37.9,25.1,65.8,42.3,good
+Northumbria University,United Kingdom,21.811,17.5,43.2,225.0,17.0,55.0,45.0,19.4,18.1,85.6,35.1,bad
+Jordan University of Science and Technology,Jordan,21.512,13.4,43.1,226.0,17.0,58.0,42.0,15.8,9.0,100.0,40.2,bad
+University of Perugia,Italy,24.83,32.3,43.1,226.0,6.0,57.0,43.0,18.6,22.8,87.5,45.2,bad
+American University of Beirut,Lebanon,8.401,8.5,43.0,227.0,21.0,51.0,49.0,28.7,14.9,77.1,36.7,good
+Australian Catholic University,Australia,23.886,43.5,43.0,227.0,12.0,73.0,27.0,20.6,27.5,73.4,39.4,good
+Clark University,United States,3.045,11.5,43.0,227.0,23.0,60.0,40.0,24.0,22.7,79.3,34.4,good
+�rebro University,Sweden,9.735,18.5,43.0,227.0,6.0,61.0,39.0,17.6,21.1,88.7,36.0,bad
+Swinburne University of Technology,Australia,14.379,27.9,42.9,228.0,27.0,36.0,64.0,24.5,28.9,66.5,41.0,good
+Catholic University of Portugal,Portugal,10.998,26.7,42.8,229.0,10.0,60.0,40.0,18.3,15.0,94.6,35.9,bad
+Justus Liebig University Giessen,Germany,28.575,46.8,42.8,229.0,9.0,62.0,38.0,37.7,34.1,53.8,41.6,good
+RMIT University,Australia,33.848,22.4,42.8,229.0,30.0,47.0,53.0,25.7,26.1,64.5,42.5,good
+University of Connecticut,United States,32.446,15.2,42.7,230.0,9.0,53.0,47.0,36.5,29.7,60.6,37.9,good
+Hanyang University,South Korea,20.087,15.7,42.7,230.0,21.0,0.0,0.0,39.1,40.0,40.1,92.3,good
+IMT Atlantique,France,1.676,8.2,42.7,230.0,44.0,26.0,74.0,34.4,28.5,53.1,91.6,good
+University of Alaska Fairbanks,United States,3.593,8.7,42.6,231.0,5.0,51.0,49.0,27.5,25.0,72.5,43.8,good
+Indian Institute of Technology Indore,India,1.128,9.7,42.5,232.0,0.0,17.0,83.0,32.5,23.7,77.1,39.9,good
+University of Naples Federico II,Italy,49.604,19.6,42.5,232.0,2.0,55.0,45.0,35.4,23.4,71.9,38.2,good
+Hofstra University,United States,10.066,13.9,42.4,233.0,9.0,57.0,43.0,38.4,13.2,79.3,34.4,good
+Iowa State University,United States,32.469,18.8,42.4,233.0,12.0,44.0,56.0,29.5,33.0,60.5,49.6,good
+Universiti Brunei Darussalam,Brunei Darussalam,3.83,10.9,42.3,234.0,15.0,67.0,33.0,23.0,19.3,74.4,34.8,good
+University of C�te d�Azur,France,36.706,23.0,42.3,234.0,23.0,55.0,45.0,30.0,18.3,68.5,40.4,good
+University of Georgia,United States,35.164,16.3,42.3,234.0,7.0,57.0,43.0,34.9,35.8,55.8,37.2,good
+University of KwaZulu-Natal,South Africa,36.66,29.2,42.3,234.0,4.0,58.0,42.0,25.4,28.7,70.1,36.8,good
+University of the Philippines,Philippines,39.877,8.4,42.3,234.0,1.0,58.0,42.0,24.1,17.2,86.9,39.4,good
+University of Siena,Italy,12.636,14.8,42.3,234.0,8.0,59.0,41.0,37.9,21.6,67.6,37.5,good
+Link�ping University,Sweden,18.544,11.2,42.2,235.0,12.0,53.0,47.0,22.7,23.6,75.4,48.1,good
+Qatar University,Qatar,15.585,17.3,42.2,235.0,38.0,76.0,24.0,19.6,27.2,64.7,49.3,bad
+University of Kansas,United States,24.526,9.9,42.1,236.0,9.0,52.0,48.0,36.9,22.6,68.3,43.5,good
+Royal Veterinary College,United Kingdom,2.067,10.9,42.0,237.0,19.0,78.0,22.0,27.2,18.3,69.1,43.5,good
+University of Turin,Italy,55.957,29.6,42.0,237.0,8.0,61.0,39.0,22.6,27.3,75.3,45.4,good
+Cankaya University,Turkey,9.164,28.4,41.9,238.0,2.0,45.0,55.0,14.9,11.4,99.7,34.9,bad
+Technion Israel Institute of Technology,Israel,14.703,21.8,41.9,238.0,5.0,36.0,64.0,32.4,31.5,56.8,36.5,good
+Tokyo Medical and Dental University (TMDU),Japan,2.999,3.3,41.9,238.0,9.0,49.0,51.0,45.2,24.2,58.1,63.1,good
+University of Innsbruck,Austria,14.128,12.6,41.8,239.0,40.0,53.0,47.0,27.6,21.8,62.0,43.1,good
+University of Eastern Finland,Finland,11.63,18.5,41.7,240.0,6.0,64.0,36.0,24.7,27.9,70.7,39.2,good
+University of Milan-Bicocca,Italy,26.509,28.9,41.7,240.0,6.0,62.0,38.0,23.7,20.2,80.7,39.1,good
+York University,Canada,46.683,35.4,41.7,240.0,24.0,57.0,43.0,28.2,37.6,50.7,45.4,good
+University of Missouri-St Louis,United States,7.019,16.0,41.6,241.0,6.0,58.0,42.0,30.0,24.7,70.3,40.4,good
+University of Nebraska-Lincoln,United States,24.61,17.2,41.6,241.0,11.0,48.0,52.0,30.1,28.0,63.2,38.6,good
+UiT The Arctic University of Norway,Norway,16.475,13.0,41.6,241.0,10.0,59.0,41.0,21.5,18.0,80.0,36.0,good
+"City, University of London",United Kingdom,14.362,18.5,41.5,242.0,51.0,56.0,44.0,26.1,27.8,57.7,35.5,good
+University of Peradeniya,Sri Lanka,17.482,10.8,41.4,243.0,1.0,61.0,39.0,16.5,7.6,100.0,35.4,bad
+Harbin Institute of Technology,China,29.603,9.9,41.3,244.0,12.0,32.0,68.0,39.5,36.8,44.0,99.3,good
+University of Missouri-Columbia,United States,28.513,13.3,41.3,244.0,6.0,53.0,47.0,34.9,24.2,65.7,35.5,good
+Norwegian University of Science and Technology,Norway,35.181,15.8,41.3,244.0,8.0,48.0,52.0,26.2,28.3,64.3,38.5,good
+American University,United States,11.75,11.0,41.2,245.0,12.0,65.0,35.0,40.9,19.5,65.7,39.1,good
+Georgia State University,United States,29.29,14.4,41.2,245.0,6.0,61.0,39.0,33.9,27.2,62.9,35.4,good
+Sabanc? University,Turkey,3.605,21.5,41.2,245.0,9.0,37.0,63.0,27.8,35.3,55.8,65.4,good
+Aberystwyth University,United Kingdom,6.8660000000000005,16.2,41.1,246.0,19.0,49.0,51.0,24.8,22.9,66.3,39.7,good
+University of Alabama,United States,35.12,22.5,41.1,246.0,4.0,56.0,44.0,26.9,22.4,77.4,35.3,good
+University of Bordeaux,France,54.965,21.6,41.1,246.0,13.0,58.0,42.0,30.0,22.7,66.8,36.4,good
+Drexel University,United States,19.801,11.1,41.1,246.0,17.0,50.0,50.0,35.8,20.4,64.7,41.5,good
+Pontifical Javeriana University,Colombia,30.048,15.4,41.1,246.0,1.0,55.0,45.0,15.3,8.9,98.6,34.8,bad
+University of Strathclyde,United Kingdom,18.517,19.0,41.1,246.0,27.0,50.0,50.0,28.3,31.6,51.9,43.6,good
+Centrale Nantes,France,1.706,16.1,41.0,247.0,45.0,26.0,74.0,30.4,29.6,48.6,83.2,good
+University of St Gallen,Switzerland,7.579,11.8,41.0,247.0,34.0,35.0,65.0,30.6,19.6,59.0,43.4,good
+University of Desarrollo,Chile,15.384,19.0,40.9,248.0,4.0,56.0,44.0,13.5,8.8,99.1,36.8,bad
+Rensselaer Polytechnic Institute,United States,7.797999999999999,15.6,40.9,248.0,20.0,32.0,68.0,30.0,28.7,58.9,67.0,good
+University of South Carolina-Columbia,United States,32.291,16.2,40.9,248.0,5.0,55.0,45.0,33.2,25.5,63.7,36.2,good
+Diego Portales University,Chile,17.287,14.9,40.8,249.0,2.0,49.0,51.0,14.7,10.5,95.3,34.4,bad
+Indian Institute of Technology Delhi,India,7.284,14.8,40.8,249.0,1.0,20.0,80.0,48.5,27.9,49.0,73.9,good
+Middlesex University,United Kingdom,15.649,18.0,40.8,249.0,45.0,60.0,40.0,19.4,17.3,74.2,34.6,bad
+Tongji University,China,35.69,13.1,40.8,249.0,13.0,45.0,55.0,35.5,43.6,34.6,98.2,good
+Hong Kong Baptist University,Hong Kong,8.759,11.6,40.7,250.0,45.0,65.0,35.0,27.9,22.0,58.1,38.4,good
+Sciences Po,France,11.915,45.1,40.7,250.0,34.0,60.0,40.0,29.8,27.0,56.8,38.2,good
+University of Urbino Carlo Bo,Italy,14.278,39.6,40.7,250.0,6.0,61.0,39.0,17.1,14.6,88.4,37.4,bad
+Central South University,China,51.54600000000001,18.4,40.6,251.0,2.0,0.0,0.0,32.0,33.9,56.0,84.1,good
+University of Cyprus,Cyprus,6.635,22.0,40.5,252.0,11.0,66.0,34.0,24.0,24.6,62.3,47.7,good
+Quaid-i-azam University,Pakistan,14.694,24.8,40.5,252.0,1.0,57.0,43.0,20.5,18.6,81.5,34.4,good
+University of Victoria,Canada,21.169,25.7,40.5,252.0,20.0,55.0,45.0,23.6,15.9,70.1,44.9,good
+Aswan University,Egypt,22.393,40.8,40.4,253.0,0.0,59.0,41.0,11.9,8.7,100.0,34.4,bad
+University of Modena and Reggio Emilia,Italy,17.432000000000002,24.8,40.4,253.0,6.0,54.0,46.0,32.1,19.7,69.3,43.5,good
+University of Trieste,Italy,15.933,23.5,40.4,253.0,8.0,55.0,45.0,30.1,22.7,66.9,37.7,good
+Liverpool John Moores University,United Kingdom,19.461,17.4,40.3,254.0,14.0,53.0,47.0,17.7,17.5,78.2,34.9,bad
+Polytechnic University of Bari,Italy,6.122000000000001,24.4,40.3,254.0,1.0,33.0,67.0,17.3,22.1,84.1,37.1,bad
+Semmelweis University,Hungary,10.996,9.8,40.3,254.0,31.0,68.0,32.0,26.2,12.3,74.0,36.2,good
+Federal University of Toulouse Midi-Pyr�n�es,France,103.857,19.2,40.2,255.0,14.0,54.0,46.0,28.5,25.9,60.6,37.0,good
+University of Porto,Portugal,32.02,18.7,40.2,255.0,15.0,55.0,45.0,27.4,27.9,62.1,38.7,good
+University of Saskatchewan,Canada,17.194000000000003,17.7,40.2,255.0,20.0,56.0,44.0,35.9,26.9,48.1,59.2,good
+Free University of Bozen-Bolzano,Italy,3.891,12.0,40.1,256.0,13.0,67.0,33.0,20.6,13.1,77.9,35.4,good
+University of Genoa,Italy,23.977,19.5,40.1,256.0,9.0,55.0,45.0,32.1,23.1,63.8,42.9,good
+Kyushu University,Japan,18.643,8.8,40.1,256.0,13.0,28.0,72.0,44.2,39.2,34.3,75.3,good
+Sejong University,South Korea,12.119000000000002,17.0,40.1,256.0,10.0,47.0,53.0,23.4,20.8,75.4,40.0,good
+SOAS University of London,United Kingdom,5.194,12.1,40.1,256.0,53.0,65.0,35.0,41.9,37.7,31.2,34.4,good
+University of Strasbourg,France,46.898,18.8,40.0,257.0,20.0,58.0,42.0,28.7,21.1,62.3,37.7,good
+Fujita Health University,Japan,2.942,3.2,39.9,258.0,0.0,55.0,45.0,24.5,9.7,91.1,36.8,good
+Bangor University,United Kingdom,9.59,16.3,39.8,259.0,23.0,58.0,42.0,22.4,20.7,66.3,35.7,good
+�cole des Mines de Saint-�tienne,France,973.0,8.1,39.8,259.0,25.0,28.0,72.0,35.5,11.7,64.3,47.8,good
+Hunan University,China,40.715,20.4,39.8,259.0,2.0,46.0,54.0,23.6,24.1,74.9,52.6,good
+University of Tulsa,United States,5.067,12.4,39.8,259.0,16.0,45.0,55.0,33.5,16.2,68.9,50.5,good
+University of Bari Aldo Moro,Italy,29.564,20.5,39.7,260.0,1.0,61.0,39.0,16.7,17.1,87.3,36.2,bad
+Edith Cowan University,Australia,17.56,31.3,39.7,260.0,26.0,60.0,40.0,18.7,21.9,67.8,39.1,bad
+Murdoch University,Australia,14.905,27.7,39.7,260.0,37.0,60.0,40.0,18.5,24.9,61.9,51.0,bad
+University of Pavia,Italy,24.623,41.5,39.7,260.0,8.0,56.0,44.0,24.6,25.7,65.5,55.5,good
+Gwangju Institute of Science and Technology,South Korea,2.0980000000000003,12.1,39.5,261.0,6.0,25.0,75.0,40.0,39.3,39.3,57.0,good
+Indian Institute of Technology Kharagpur,India,9.167,12.3,39.5,261.0,0.0,18.0,82.0,41.3,38.9,39.0,91.9,good
+University of Houston,United States,44.128,25.7,39.4,262.0,9.0,50.0,50.0,33.6,25.9,58.0,36.8,good
+National Research Nuclear University MEPhI,Russian Federation,6.489,10.8,39.4,262.0,24.0,31.0,69.0,37.5,36.1,33.6,100.0,good
+University of Ferrara,Italy,14.644,25.2,39.3,263.0,7.0,56.0,44.0,21.0,20.2,75.0,40.3,good
+Indian Institute of Technology Bombay,India,10.267,16.1,39.3,263.0,1.0,19.0,81.0,44.7,39.6,34.9,80.3,good
+ITMO University,Russian Federation,10.206,13.1,39.3,263.0,16.0,37.0,63.0,30.6,28.0,49.8,84.6,good
+Oklahoma State University,United States,21.494,15.8,39.3,263.0,7.0,50.0,50.0,24.1,21.5,71.1,36.9,good
+University of Valencia,Spain,50.31100000000001,14.9,39.3,263.0,12.0,62.0,38.0,24.6,20.8,70.8,37.0,good
+Bond University,Australia,3.341,10.3,39.2,264.0,43.0,54.0,46.0,21.1,19.6,64.6,35.9,good
+Covenant University,Nigeria,8.767999999999999,15.7,39.2,264.0,0.0,43.0,57.0,27.2,14.7,78.4,43.8,good
+Mansoura University,Egypt,140.126,24.9,39.2,264.0,3.0,55.0,45.0,19.1,9.2,88.1,39.6,bad
+Bournemouth University,United Kingdom,13.692,17.1,39.1,265.0,18.0,55.0,45.0,33.2,18.7,55.5,34.8,good
+Hokkaido University,Japan,18.225,8.1,39.1,265.0,11.0,31.0,69.0,45.7,40.1,30.0,58.7,good
+"Colorado State University, Fort Collins",United States,26.014,16.3,39.0,266.0,6.0,53.0,47.0,27.8,25.3,64.1,38.4,good
+University of Kentucky,United States,27.078000000000003,12.4,39.0,266.0,4.0,55.0,45.0,37.0,24.9,55.5,38.4,good
+University of Portsmouth,United Kingdom,20.186,15.4,39.0,266.0,26.0,45.0,55.0,17.8,16.2,71.0,34.9,bad
+New Mexico Institute of Mining and Technology,United States,1.809,11.3,38.9,267.0,8.0,30.0,70.0,22.3,14.6,70.6,78.1,good
+University of Tsukuba,Japan,16.844,13.6,38.9,267.0,21.0,39.0,61.0,43.3,37.2,34.4,44.6,good
+Charles University in Prague,Czech Republic,48.623000000000005,12.7,38.8,268.0,18.0,62.0,38.0,32.9,25.9,53.0,34.8,good
+Leibniz University Hanover,Germany,27.625,54.0,38.8,268.0,14.0,40.0,60.0,36.8,29.9,46.1,52.3,good
+Teikyo University,Japan,22.873,16.7,38.8,268.0,2.0,34.0,66.0,14.8,10.8,95.9,36.5,bad
+University of Texas at San Antonio,United States,24.435,24.5,38.8,268.0,4.0,51.0,49.0,18.1,21.1,78.0,36.2,bad
+Verona University,Italy,19.873,27.5,38.8,268.0,5.0,64.0,36.0,31.5,20.3,63.7,42.4,good
+Yasouj University,Iran,6.332000000000001,27.5,38.8,268.0,0.0,46.0,54.0,15.1,15.5,91.8,35.7,bad
+University of Catania,Italy,25.392,20.4,38.7,269.0,2.0,57.0,43.0,33.1,17.7,67.6,36.9,good
+Missouri University of Science and Technology,United States,8.084,22.2,38.7,269.0,14.0,23.0,77.0,24.2,24.6,59.2,52.9,good
+South China University of Technology,China,41.139,13.9,38.7,269.0,5.0,38.0,62.0,24.0,29.1,61.2,85.4,good
+Yokohama City University,Japan,4.91,4.5,38.7,269.0,2.0,56.0,44.0,25.9,8.5,86.2,40.3,good
+University of Campinas,Brazil,28.795,15.1,38.6,270.0,3.0,47.0,53.0,44.6,38.0,34.8,44.8,good
+Shenzhen University,China,35.171,15.5,38.6,270.0,1.0,48.0,52.0,22.3,22.8,70.4,51.4,good
+Florida International University,United States,34.203,23.8,38.5,271.0,8.0,57.0,43.0,30.4,22.6,62.3,38.0,good
+Keele University,United Kingdom,9.004,15.0,38.5,271.0,19.0,56.0,44.0,20.3,22.4,64.1,35.5,good
+Ko� University,Turkey,5.381,15.6,38.4,272.0,6.0,51.0,49.0,26.9,34.4,49.2,60.2,good
+Louisiana State University,United States,29.169,20.7,38.4,272.0,6.0,52.0,48.0,34.5,26.3,55.3,35.4,good
+Northern Arizona University,United States,29.684,28.1,38.4,272.0,5.0,60.0,40.0,20.2,14.7,82.3,35.1,good
+University of Rovira i Virgili,Spain,12.411,12.3,38.4,272.0,11.0,59.0,41.0,23.7,21.0,67.6,36.6,good
+Bar-Ilan University,Israel,16.723,17.5,38.3,273.0,5.0,60.0,40.0,29.9,36.5,44.2,46.6,good
+University of Greifswald,Germany,10.247,21.1,38.3,273.0,7.0,56.0,44.0,30.0,22.4,60.2,39.1,good
+University of Plymouth,United Kingdom,17.667,17.2,38.3,273.0,15.0,55.0,45.0,20.3,19.3,67.5,35.0,good
+University of Jyv�skyl�,Finland,10.2,15.0,38.2,274.0,5.0,61.0,39.0,26.7,30.8,54.3,35.8,good
+National and Kapodistrian University of Athens,Greece,57.697,28.4,38.2,274.0,10.0,62.0,38.0,21.8,15.0,72.9,55.4,good
+Victoria University of Wellington,New Zealand,17.442,18.9,38.2,274.0,21.0,56.0,44.0,23.0,31.8,45.5,57.2,good
+Catholic University of the Sacred Heart,Italy,28.725,21.6,38.1,275.0,7.0,65.0,35.0,18.4,20.9,72.6,44.8,bad
+King Saud University,Saudi Arabia,38.971,10.4,38.1,275.0,10.0,59.0,41.0,24.6,25.8,49.6,83.4,good
+University of Neuch�tel,Switzerland,4.284,12.8,38.1,275.0,22.0,60.0,40.0,23.7,29.3,48.3,37.2,good
+University of L�Aquila,Italy,18.867,55.3,37.9,276.0,4.0,57.0,43.0,30.8,18.7,65.4,41.4,good
+Aston University,United Kingdom,11.113,21.1,37.9,276.0,26.0,48.0,52.0,21.0,24.2,55.1,37.1,good
+National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,8.34,19.5,37.9,276.0,15.0,30.0,70.0,29.7,41.8,39.5,62.2,good
+University of the West of Scotland,United Kingdom,11.73,22.4,37.9,276.0,21.0,59.0,41.0,13.9,13.9,76.8,35.0,bad
+National Yang-Ming University,Taiwan,4.258,5.1,37.8,277.0,2.0,48.0,52.0,38.7,18.8,60.0,38.1,good
+Norwegian University of Life Sciences,Norway,5.79,6.9,37.8,277.0,21.0,59.0,41.0,26.5,10.5,66.2,39.9,good
+Universidad Peruana Cayetano Heredia,Peru,6.236000000000001,10.6,37.8,277.0,0.0,66.0,34.0,17.0,11.3,83.1,34.7,bad
+Suez Canal University,Egypt,35.363,10.8,37.8,277.0,1.0,58.0,42.0,19.9,8.7,82.6,37.9,bad
+Complutense University of Madrid,Spain,62.624,19.7,37.7,278.0,13.0,61.0,39.0,35.4,28.9,47.2,36.1,good
+University of Ibadan,Nigeria,26.648000000000003,16.4,37.7,278.0,1.0,48.0,52.0,23.4,12.1,77.6,41.4,good
+Claude Bernard University Lyon 1,France,26.875,12.7,37.6,279.0,13.0,53.0,47.0,26.0,24.0,58.0,38.6,good
+Renmin University of China,China,25.59,12.5,37.6,279.0,6.0,0.0,0.0,42.5,21.2,47.4,43.9,good
+CentraleSup�lec,France,4.226,10.2,37.5,280.0,29.0,22.0,78.0,29.4,21.1,48.9,60.9,good
+Carleton University,Canada,27.57,29.7,37.4,281.0,21.0,48.0,52.0,20.2,27.2,57.1,36.1,good
+King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia,11.708,6.9,37.4,281.0,1.0,52.0,48.0,29.9,7.7,67.1,35.8,good
+University of Udine,Italy,11.793,17.8,37.4,281.0,7.0,53.0,47.0,26.2,16.1,68.7,38.0,good
+Universit� Bourgogne Franche-Comt� (UBFC),France,59.858,32.9,37.3,282.0,11.0,53.0,47.0,23.2,13.8,71.1,38.6,good
+University of Lisbon,Portugal,47.886,17.7,37.3,282.0,12.0,52.0,48.0,25.2,29.8,52.7,39.2,good
+Indian Institute of Technology Roorkee,India,7.561,16.4,37.2,283.0,2.0,16.0,84.0,38.9,28.2,46.6,72.5,good
+University of Rome II � Tor Vergata,Italy,34.965,19.9,37.2,283.0,11.0,52.0,48.0,23.2,17.8,67.1,37.2,good
+Graz University of Technology,Austria,6.37,10.0,37.1,284.0,20.0,23.0,77.0,30.5,17.5,50.1,71.5,good
+University of Hull,United Kingdom,14.047,18.2,37.1,284.0,19.0,53.0,47.0,22.3,23.0,56.1,36.3,good
+East China Normal University,China,25.747,11.5,37.0,285.0,17.0,65.0,35.0,30.5,23.5,50.5,50.6,good
+University of Haifa,Israel,16.164,21.0,37.0,285.0,2.0,66.0,34.0,26.7,31.9,52.8,36.3,good
+University of Insubria,Italy,7.646,22.1,37.0,285.0,6.0,55.0,45.0,18.5,19.5,72.1,36.6,bad
+Peter the Great St Petersburg Polytechnic University,Russian Federation,18.251,9.0,36.9,286.0,28.0,39.0,61.0,26.2,15.9,61.8,71.2,good
+Bilkent University,Turkey,10.374,14.5,36.8,287.0,9.0,46.0,54.0,24.5,24.7,53.1,55.1,good
+Polytechnic University of Turin,Italy,31.425,35.8,36.8,287.0,13.0,28.0,72.0,26.2,25.4,55.3,50.8,good
+Soochow University,China,44.835,16.4,36.8,287.0,7.0,54.0,46.0,23.4,20.8,68.2,37.5,good
+University of Wisconsin-Milwaukee,United States,20.874,19.3,36.8,287.0,6.0,53.0,47.0,21.7,22.7,66.9,36.2,good
+Hamburg University of Technology,Germany,5.216,35.2,36.7,288.0,19.0,27.0,73.0,36.2,23.9,42.5,79.1,good
+University of Idaho,United States,9.694,17.0,36.7,288.0,8.0,48.0,52.0,33.3,21.1,53.4,36.2,good
+University of Limerick,Ireland,14.220999999999998,21.7,36.7,288.0,17.0,48.0,52.0,20.1,23.5,54.6,39.2,good
+Tianjin University,China,34.78,14.0,36.6,289.0,6.0,0.0,0.0,32.7,35.7,38.8,97.9,good
+Xi�an Jiaotong University,China,36.557,12.5,36.6,289.0,6.0,32.0,68.0,35.1,30.7,41.3,61.4,good
+Memorial University of Newfoundland,Canada,15.127,13.7,36.5,290.0,18.0,57.0,43.0,20.5,19.9,57.7,61.0,good
+San Diego State University,United States,30.799,30.5,36.5,290.0,8.0,55.0,45.0,23.7,24.4,62.0,35.1,good
+University of Guelph,Canada,22.165,29.1,36.4,291.0,9.0,59.0,41.0,26.2,29.4,47.4,48.6,good
+Hacettepe University,Turkey,47.035,22.0,36.4,291.0,4.0,56.0,44.0,28.4,13.1,70.5,37.5,good
+Lappeenranta-Lahti University of Technology LUT,Finland,3.851,28.2,36.4,291.0,19.0,31.0,69.0,28.3,30.1,43.1,53.8,good
+Mashhad University of Medical Sciences,Iran,9.134,10.6,36.4,291.0,3.0,60.0,40.0,28.1,12.3,73.0,34.5,good
+North-West University,South Africa,36.749,29.9,36.4,291.0,4.0,62.0,38.0,20.1,17.1,69.9,41.1,good
+Amirkabir University of Technology,Iran,11.58,21.6,36.3,292.0,2.0,35.0,65.0,34.2,31.8,43.2,76.5,good
+National Chiao Tung University,Taiwan,12.017,16.7,36.3,292.0,12.0,30.0,70.0,35.8,43.3,25.6,87.0,good
+New Jersey Institute of Technology,United States,9.279,15.1,36.3,292.0,17.0,25.0,75.0,21.3,19.2,58.2,36.7,good
+University of Rome III,Italy,31.696,50.1,36.3,292.0,5.0,59.0,41.0,23.4,22.7,61.2,40.4,good
+Sharif University of Technology,Iran,9.26,19.8,36.3,292.0,2.0,26.0,74.0,28.9,36.7,41.0,99.8,good
+University of Waikato,New Zealand,9.892,18.1,36.3,292.0,19.0,58.0,42.0,20.8,26.3,48.8,43.4,good
+University of Kashan,Iran,8.437999999999999,27.4,36.2,293.0,3.0,53.0,47.0,19.6,18.2,75.2,35.6,bad
+Pontifical Catholic University of Chile,Chile,28.541,15.0,36.2,293.0,7.0,0.0,0.0,24.2,28.3,48.6,64.5,good
+University of Siegen,Germany,19.268,42.3,36.2,293.0,12.0,50.0,50.0,21.3,25.3,57.1,40.2,good
+Southeast University,China,32.951,11.6,36.2,293.0,5.0,40.0,60.0,29.6,33.4,42.7,97.3,good
+"Binghamton University, State University of New York",United States,17.848,23.3,36.1,294.0,14.0,49.0,51.0,22.8,21.9,62.0,36.8,good
+Tomsk State University,Russian Federation,7.655,11.9,36.1,294.0,29.0,0.0,0.0,41.0,33.7,23.4,53.0,good
+King Fahd University of Petroleum and Minerals,Saudi Arabia,6.882000000000001,6.8,36.0,295.0,13.0,0.0,100.0,27.2,15.9,51.7,64.4,good
+Lincoln University,New Zealand,2.476,13.5,36.0,295.0,39.0,49.0,51.0,24.4,19.9,47.9,51.5,good
+The University of the West Indies,Jamaica,23.305,22.2,36.0,295.0,1.0,71.0,29.0,17.8,11.1,73.4,38.9,bad
+University of Alabama in Huntsville,United States,6.729,16.3,35.9,296.0,8.0,43.0,57.0,22.2,22.4,58.1,68.4,good
+Charles Darwin University,Australia,6.314,22.8,35.9,296.0,32.0,66.0,34.0,19.9,24.3,51.4,45.2,bad
+Institute of Chemical Technology,India,2.146,18.2,35.9,296.0,0.0,34.0,66.0,38.3,24.1,47.1,77.4,good
+University of Wuppertal,Germany,23.343000000000004,55.8,35.9,296.0,11.0,52.0,48.0,25.0,17.9,60.2,44.5,good
+Xiamen University,China,40.841,14.6,35.9,296.0,4.0,47.0,53.0,27.3,22.9,57.1,53.3,good
+"China Medical University, Taiwan",Taiwan,7.603,16.5,35.8,297.0,8.0,54.0,46.0,25.8,32.4,45.9,87.7,good
+University of Graz,Austria,20.312,21.9,35.8,297.0,13.0,65.0,35.0,22.9,18.3,56.1,35.8,good
+Indian Institute of Technology Gandhinagar,India,1.222,11.2,35.8,297.0,0.0,22.0,78.0,21.1,11.5,76.0,45.1,good
+University of Nebraska Medical Center,United States,3.0410000000000004,2.3,35.8,297.0,7.0,68.0,32.0,35.8,12.1,57.5,38.1,good
+University of Rhode Island,United States,16.569000000000003,19.3,35.8,297.0,3.0,57.0,43.0,23.9,17.7,66.0,34.4,good
+Novosibirsk State University,Russian Federation,7.122999999999999,6.2,35.7,298.0,20.0,0.0,0.0,42.8,31.9,30.3,35.7,good
+Tehran University of Medical Sciences,Iran,12.511,6.9,35.7,298.0,7.0,58.0,42.0,44.5,16.0,48.0,59.3,good
+Universiti Tunku Abdul Rahman (UTAR),Malaysia,18.763,16.1,35.7,298.0,2.0,52.0,48.0,14.8,12.2,81.4,38.0,bad
+Universidad Aut�noma de Chile,Chile,23.312,26.2,35.5,299.0,1.0,65.0,35.0,12.3,8.9,81.6,34.4,bad
+Kansai Medical University,Japan,841.0,1.1,35.5,299.0,3.0,38.0,62.0,32.3,8.7,70.0,35.6,good
+Beihang University,China,29.952,13.7,35.4,300.0,6.0,0.0,0.0,30.4,34.2,38.1,98.2,good
+Chung-Ang University,South Korea,16.680999999999997,22.1,35.4,300.0,18.0,0.0,0.0,37.9,37.0,25.2,64.6,good
+Marche Polytechnic University,Italy,10.603,20.7,35.4,300.0,4.0,48.0,52.0,22.1,18.9,65.8,40.8,good
+The Open University,United Kingdom,61.915,32.3,35.4,300.0,8.0,62.0,38.0,18.2,16.1,66.5,34.8,bad
+Open University of Catalonia,Spain,22.962,84.5,35.4,300.0,2.0,56.0,44.0,16.5,14.2,74.2,35.8,bad
+University of Brescia,Italy,14.206,27.2,35.3,301.0,7.0,46.0,54.0,15.4,17.0,71.2,38.1,bad
+Massey University,New Zealand,18.653,16.2,35.3,301.0,31.0,62.0,38.0,22.9,18.9,49.1,41.5,good
+University of Coimbra,Portugal,21.404,17.6,35.2,302.0,19.0,57.0,43.0,23.7,28.1,47.4,41.0,good
+Dublin City University,Ireland,12.619000000000002,24.0,35.2,302.0,10.0,57.0,43.0,21.0,25.2,49.7,42.8,good
+University of Kaiserslautern,Germany,14.869000000000002,51.6,35.2,302.0,18.0,39.0,61.0,33.6,24.1,41.3,64.5,good
+West Virginia University,United States,25.966,18.5,35.2,302.0,8.0,48.0,52.0,27.8,17.1,59.3,34.4,good
+Makerere University,Uganda,34.651,23.6,35.1,303.0,8.0,45.0,55.0,16.7,12.7,69.6,40.9,bad
+Stevens Institute of Technology,United States,5.943,16.7,35.1,303.0,38.0,29.0,71.0,22.5,15.8,58.4,35.6,good
+University of the Western Cape,South Africa,21.999,30.5,35.1,303.0,8.0,61.0,39.0,18.3,20.0,60.3,34.4,bad
+University of Windsor,Canada,13.14,29.0,35.1,303.0,23.0,51.0,49.0,33.7,26.6,33.5,36.8,good
+University of Central Florida,United States,56.228,35.3,35.0,304.0,4.0,56.0,44.0,26.5,28.7,49.7,42.6,good
+Concordia University,Canada,33.543,32.3,35.0,304.0,29.0,50.0,50.0,20.9,25.9,46.0,36.9,good
+Jagiellonian University,Poland,40.608,10.9,34.9,305.0,9.0,68.0,32.0,25.5,17.0,61.4,35.3,good
+University of Costa Rica,Costa Rica,33.9,15.1,34.8,306.0,2.0,53.0,47.0,16.2,7.9,77.1,34.4,bad
+Montana State University,United States,14.357,19.4,34.8,306.0,3.0,46.0,54.0,18.6,19.4,67.0,48.4,bad
+NOVA University of Lisbon,Portugal,19.694000000000003,18.1,34.8,306.0,17.0,50.0,50.0,24.9,25.7,46.6,46.7,good
+Polytechnic University of Catalonia,Spain,25.484,10.6,34.8,306.0,16.0,28.0,72.0,23.7,17.2,56.9,41.2,good
+University of Ulsan,South Korea,12.73,11.5,34.8,306.0,3.0,46.0,54.0,20.6,23.4,61.8,58.2,good
+Iran University of Science and Technology,Iran,13.273,31.7,34.7,307.0,1.0,31.0,69.0,27.8,33.0,42.6,96.3,good
+University of Lincoln,United Kingdom,12.06,15.1,34.7,307.0,13.0,56.0,44.0,16.5,14.1,64.3,35.3,bad
+University of Parma,Italy,25.14,27.4,34.7,307.0,6.0,56.0,44.0,18.1,18.9,65.7,39.4,bad
+Baylor University,United States,17.078,16.2,34.6,308.0,6.0,57.0,43.0,32.1,18.2,53.9,35.3,good
+Johannes Kepler University of Linz,Austria,6.122000000000001,10.5,34.6,308.0,11.0,51.0,49.0,28.1,19.7,46.8,54.1,good
+Mahidol University,Thailand,28.476,10.2,34.6,308.0,4.0,49.0,51.0,31.6,21.0,45.2,73.4,good
+University of Southern Queensland,Australia,12.405,25.8,34.6,308.0,15.0,57.0,43.0,19.3,19.8,54.9,37.4,bad
+University of Lorraine,France,58.678,19.2,34.5,309.0,16.0,52.0,48.0,21.8,13.5,61.3,37.3,good
+National Institute of Applied Sciences of Lyon (INSA Lyon),France,6.172999999999999,19.6,34.4,310.0,28.0,32.0,68.0,29.8,25.5,33.7,91.3,good
+University of Salento,Italy,12.04,29.7,34.4,310.0,1.0,63.0,37.0,27.5,21.0,56.3,36.8,good
+National Cheng Kung University (NCKU),Taiwan,20.663,13.7,34.3,311.0,13.0,37.0,63.0,32.8,41.1,22.9,99.8,good
+Aristotle University of Thessaloniki,Greece,46.505,26.8,34.2,312.0,5.0,58.0,42.0,19.2,16.8,64.3,41.3,bad
+University of Electronic Science and Technology of China,China,33.242,16.4,34.2,312.0,4.0,31.0,69.0,23.5,22.2,55.1,71.8,good
+Konkuk University,South Korea,12.225,23.2,34.2,312.0,16.0,70.0,30.0,33.0,37.9,27.5,44.3,good
+Lehigh University,United States,6.462000000000001,10.8,34.2,312.0,17.0,44.0,56.0,27.4,20.8,51.0,40.3,good
+University of Nantes,France,37.078,24.7,34.2,312.0,11.0,56.0,44.0,19.8,21.0,57.4,39.5,bad
+Worcester Polytechnic Institute,United States,5.733,12.7,34.2,312.0,22.0,34.0,66.0,20.1,17.7,59.1,36.5,good
+"Indian Institute of Science Education and Research, Pune",India,1.274,9.5,34.1,313.0,0.0,32.0,68.0,31.7,19.5,54.1,35.1,good
+Amedeo Avogadro University of Eastern Piedmont,Italy,13.447,36.1,34.0,314.0,6.0,62.0,38.0,14.7,18.9,66.2,35.1,bad
+University of La Laguna,Spain,18.336,12.9,34.0,314.0,4.0,58.0,42.0,19.3,11.5,67.8,35.2,bad
+Mae Fah Luang University,Thailand,13.534,22.3,34.0,314.0,4.0,73.0,27.0,14.4,9.0,74.4,34.5,bad
+Texas Tech University,United States,33.015,20.6,34.0,314.0,9.0,46.0,54.0,30.8,20.9,46.5,36.2,good
+Northwestern Polytechnical University,China,28.432,13.9,33.9,315.0,4.0,26.0,74.0,26.2,33.6,40.2,83.3,good
+Universit� de Sherbrooke,Canada,15.667,12.9,33.9,315.0,7.0,55.0,45.0,29.6,14.5,51.0,38.1,good
+University of Bergamo,Italy,19.022,57.0,33.7,316.0,7.0,61.0,39.0,19.5,21.0,59.3,40.9,bad
+Indian Institute of Technology Madras,India,9.241,15.6,33.7,316.0,1.0,20.0,80.0,44.9,30.6,25.4,80.0,good
+Oxford Brookes University,United Kingdom,13.915,16.2,33.7,316.0,28.0,59.0,41.0,28.5,24.0,37.4,34.6,good
+�cole normale sup�rieure Paris-Saclay,France,1.869,12.6,33.6,317.0,14.0,30.0,70.0,36.5,29.6,27.7,51.1,good
+Nanjing University of Information Science and Technology,China,21.857,15.5,33.6,317.0,3.0,0.0,0.0,16.7,14.9,69.9,38.9,bad
+University of Calabria,Italy,27.403,33.0,33.5,318.0,2.0,57.0,43.0,17.6,17.5,59.8,87.9,bad
+China Agricultural University,China,19.586,11.6,33.5,318.0,1.0,58.0,42.0,34.9,26.2,40.7,52.2,good
+Ferhat Abbas S�tif University 1,Algeria,34.001999999999995,22.7,33.5,318.0,1.0,65.0,35.0,17.7,7.7,73.0,34.4,bad
+Kent State University,United States,24.559,20.4,33.5,318.0,9.0,60.0,40.0,23.6,19.0,55.6,34.8,good
+University of Palermo,Italy,29.437,20.5,33.5,318.0,1.0,58.0,42.0,21.1,17.9,63.0,35.0,good
+Auburn University,United States,26.641,18.8,33.4,319.0,9.0,51.0,49.0,32.7,21.1,43.3,40.2,good
+University of Girona,Spain,13.906,19.0,33.4,319.0,14.0,58.0,42.0,18.9,18.2,57.6,37.4,bad
+National Taiwan Normal University,Taiwan,10.789,12.1,33.4,319.0,24.0,0.0,0.0,32.0,37.3,22.8,78.4,good
+Savitribai Phule Pune University,India,6.056,12.7,33.4,319.0,2.0,58.0,42.0,38.9,18.5,46.6,36.1,good
+University of Toledo,United States,18.587,15.5,33.4,319.0,11.0,51.0,49.0,33.7,13.9,48.7,42.8,good
+Federal University of Minas Gerais,Brazil,43.899,12.6,33.2,320.0,2.0,53.0,47.0,30.2,17.9,52.0,38.8,good
+Metropolitan Autonomous University,Mexico,57.827,20.0,33.2,320.0,0.0,48.0,52.0,16.6,16.3,68.6,36.4,bad
+Nottingham Trent University,United Kingdom,24.14,15.0,33.1,321.0,19.0,57.0,43.0,17.7,12.9,59.5,34.9,bad
+Shandong University,China,45.767,14.6,33.1,321.0,7.0,0.0,0.0,32.3,29.1,35.4,72.3,good
+Indian Institute of Technology Kanpur,India,6.86,13.6,33.0,322.0,0.0,14.0,86.0,37.8,24.5,35.2,94.3,good
+Beijing Institute of Technology,China,30.608,13.3,32.9,323.0,8.0,35.0,65.0,30.6,32.1,32.7,98.1,good
+Ewha Womans University,South Korea,14.51,16.9,32.9,323.0,15.0,100.0,0.0,29.9,30.8,31.4,69.9,good
+"University of Maryland, Baltimore County",United States,11.667,18.1,32.9,323.0,8.0,45.0,55.0,22.9,17.4,57.8,35.7,good
+Saint Petersburg State University,Russian Federation,21.489,7.4,32.9,323.0,12.0,63.0,37.0,46.1,31.0,19.7,36.4,good
+Southern Cross University,Australia,9.064,25.0,32.9,323.0,25.0,63.0,37.0,18.5,21.5,49.7,39.8,bad
+Amrita Vishwa Vidyapeetham,India,14.689,11.9,32.8,324.0,12.0,0.0,0.0,26.1,17.0,47.7,82.5,good
+Iran University of Medical Sciences,Iran,8.673,9.0,32.7,325.0,3.0,59.0,41.0,37.7,10.0,52.6,43.4,good
+University of Lille,France,69.28699999999999,29.0,32.7,325.0,13.0,58.0,42.0,20.3,17.3,53.0,39.0,good
+Manchester Metropolitan University,United Kingdom,28.146,15.1,32.7,325.0,16.0,58.0,42.0,20.1,14.2,55.4,34.8,good
+University of Huddersfield,United Kingdom,14.483,20.7,32.6,326.0,24.0,55.0,45.0,22.8,20.0,44.8,36.6,good
+University of Johannesburg,South Africa,26.445,23.9,32.6,326.0,15.0,55.0,45.0,19.7,25.8,42.5,40.4,bad
+Bo?azi�i University,Turkey,13.202,23.2,32.5,327.0,3.0,46.0,54.0,23.2,21.2,49.4,50.8,good
+Nanjing Medical University,China,15.42,9.0,32.5,327.0,5.0,0.0,0.0,38.2,25.9,36.0,35.8,good
+Universit� du Qu�bec,Canada,52.994,19.7,32.4,328.0,11.0,58.0,42.0,24.9,23.6,39.1,42.1,good
+Roskilde University,Denmark,6.382000000000001,18.0,32.4,328.0,12.0,63.0,37.0,21.4,32.7,37.8,38.2,good
+Universiti Teknologi Malaysia,Malaysia,19.087,11.2,32.4,328.0,14.0,52.0,48.0,36.4,25.2,29.2,35.6,good
+University of the Balearic Islands,Spain,11.277,12.8,32.3,329.0,7.0,59.0,41.0,20.3,13.6,59.1,34.7,good
+Federal University of Rio Grande do Sul,Brazil,52.57899999999999,19.4,32.3,329.0,1.0,52.0,48.0,29.6,18.3,49.3,46.5,good
+University of Tehran,Iran,53.614,24.5,32.3,329.0,2.0,44.0,56.0,36.7,23.5,38.7,34.4,good
+University of Aveiro,Portugal,9.774,16.5,32.2,330.0,12.0,51.0,49.0,24.7,25.5,40.7,41.4,good
+University of Granada,Spain,56.044,15.4,32.2,330.0,10.0,59.0,41.0,19.4,20.9,52.0,35.6,bad
+Kazan Federal University,Russian Federation,26.67,10.8,32.2,330.0,13.0,66.0,34.0,28.7,16.9,47.8,40.0,good
+University of the Sunshine Coast,Australia,9.72,31.3,32.2,330.0,17.0,65.0,35.0,17.3,23.5,46.0,40.3,bad
+Imam Khomeini International University,Iran,8.33,28.6,32.1,331.0,7.0,55.0,45.0,12.3,8.5,78.0,34.7,bad
+Universiti Teknologi Petronas,Malaysia,6.212000000000001,15.9,32.1,331.0,17.0,34.0,66.0,27.1,30.1,26.8,78.2,good
+TU Braunschweig,Germany,20.02,10.4,32.1,331.0,14.0,38.0,62.0,25.2,16.0,48.9,42.6,good
+COMSATS University Islamabad,Pakistan,33.03,11.4,32.0,332.0,1.0,28.0,72.0,16.9,9.9,65.5,34.5,bad
+Panth�on-Sorbonne University � Paris 1,France,33.883,26.1,32.0,332.0,21.0,59.0,41.0,45.4,32.9,11.2,34.8,good
+Kansas State University,United States,21.536,14.3,31.9,333.0,9.0,50.0,50.0,25.0,20.4,45.8,41.9,good
+Tokyo Metropolitan University,Japan,9.16,13.6,31.9,333.0,5.0,37.0,63.0,24.9,17.2,54.6,38.4,good
+University of Tours,France,27.285,21.2,31.9,333.0,11.0,60.0,40.0,30.2,12.5,48.5,35.7,good
+Keio University,Japan,34.916,10.4,31.8,334.0,8.0,36.0,64.0,32.1,25.7,36.8,42.7,good
+King Khalid University,Saudi Arabia,38.865,8.1,31.8,334.0,11.0,53.0,47.0,21.6,7.1,53.6,34.5,good
+Creighton University,United States,8.228,11.1,31.7,335.0,8.0,58.0,42.0,42.0,11.6,41.5,35.7,good
+Chemnitz University of Technology,Germany,10.473,45.7,31.6,336.0,24.0,43.0,57.0,33.0,26.5,26.8,67.8,good
+University of Delhi,India,24.547,23.0,31.6,336.0,1.0,47.0,53.0,37.6,17.8,42.8,34.5,good
+IDC Herzliya,Israel,6.908,47.0,31.6,336.0,24.0,52.0,48.0,14.1,10.1,62.6,34.4,bad
+University of Ioannina,Greece,21.902,44.3,31.6,336.0,3.0,47.0,53.0,16.5,14.7,60.2,37.3,bad
+Sichuan University,China,64.648,13.8,31.6,336.0,4.0,50.0,50.0,30.6,24.8,38.3,63.8,good
+�bo Akademi University,Finland,5.295,17.5,31.5,337.0,16.0,0.0,0.0,22.6,29.2,33.1,38.5,good
+Panjab University,India,19.912,23.4,31.5,337.0,1.0,49.0,51.0,27.0,14.4,56.6,34.9,good
+University of Clermont Auvergne,France,34.644,18.8,31.4,338.0,13.0,56.0,44.0,19.2,10.0,57.0,38.0,bad
+Federal University of Santa Catarina,Brazil,38.719,16.6,31.4,338.0,2.0,49.0,51.0,28.4,13.1,52.6,38.7,good
+University of Pretoria,South Africa,35.086,22.0,31.4,338.0,8.0,57.0,43.0,25.1,30.1,33.0,41.8,good
+Old Dominion University,United States,18.878,18.2,31.3,339.0,3.0,55.0,45.0,22.7,19.2,51.9,34.4,good
+University of Rennes 1,France,28.351,18.0,31.3,339.0,12.0,53.0,47.0,21.0,15.5,50.9,36.9,good
+Shahid Beheshti University of Medical Sciences,Iran,12.713,9.1,31.3,339.0,2.0,60.0,40.0,42.9,14.6,37.3,64.0,good
+Ca� Foscari University of Venice,Italy,15.636,27.7,31.2,340.0,10.0,65.0,35.0,25.1,25.7,36.5,37.1,good
+University of Texas at Arlington,United States,28.835,25.2,31.2,340.0,15.0,56.0,44.0,21.0,18.3,50.0,39.7,good
+Federal University of S�o Paulo (UNIFESP),Brazil,14.572,9.3,31.1,341.0,1.0,59.0,41.0,32.6,17.8,43.3,35.7,good
+"University of Nevada, Las Vegas",United States,24.982,22.7,31.1,341.0,5.0,57.0,43.0,28.7,22.6,41.3,35.1,good
+Thapar University,India,7.752000000000001,14.8,31.1,341.0,1.0,28.0,72.0,19.1,9.7,66.5,36.0,bad
+E�tv�s Lor�nd University,Hungary,26.105,16.7,31.0,342.0,9.0,65.0,35.0,21.4,17.7,48.2,35.1,good
+Indian Institute of Technology Hyderabad,India,2.088,11.9,31.0,342.0,0.0,20.0,80.0,25.3,18.0,52.4,39.4,good
+Isfahan University of Technology,Iran,10.064,20.7,31.0,342.0,1.0,44.0,56.0,25.4,23.4,41.7,85.5,good
+Kafrelsheikh University,Egypt,74.546,39.7,31.0,342.0,1.0,51.0,49.0,13.0,7.9,67.4,38.0,bad
+Palack� University Olomouc,Czech Republic,17.442999999999998,13.8,31.0,342.0,12.0,69.0,31.0,20.9,18.3,46.9,35.4,good
+Universiti Putra Malaysia,Malaysia,20.018,12.1,31.0,342.0,23.0,73.0,27.0,32.0,31.4,19.1,41.3,good
+University of South Dakota,United States,14.542,35.1,31.0,342.0,3.0,61.0,39.0,31.2,15.6,46.8,39.0,good
+De Montfort University,United Kingdom,19.093,19.5,30.9,343.0,27.0,56.0,44.0,16.9,13.8,50.4,34.6,bad
+University of Warsaw,Poland,50.484,14.0,30.9,343.0,10.0,64.0,36.0,25.8,21.5,41.4,35.1,good
+Masaryk University,Czech Republic,31.611,20.2,30.8,344.0,21.0,62.0,38.0,22.6,25.4,36.3,35.6,good
+New Mexico State University (Main campus),United States,12.753,16.5,30.8,344.0,8.0,54.0,46.0,21.5,14.7,53.9,38.8,good
+Clemson University,United States,21.436,17.0,30.7,345.0,7.0,47.0,53.0,25.0,21.2,43.0,40.1,good
+Glasgow Caledonian University,United Kingdom,12.637,19.9,30.7,345.0,17.0,59.0,41.0,15.7,12.2,56.2,35.2,bad
+Jaume I University,Spain,12.182,15.6,30.7,345.0,9.0,58.0,42.0,22.5,16.3,49.6,37.5,good
+Universiti Kebangsaan Malaysia,Malaysia,17.18,10.1,30.7,345.0,15.0,61.0,39.0,34.2,19.6,32.3,37.1,good
+"China University of Petroleum, Beijing",China,15.15,18.7,30.6,346.0,4.0,0.0,0.0,24.0,26.1,39.2,88.0,good
+Dalian University of Technology,China,39.665,15.7,30.6,346.0,3.0,35.0,65.0,24.6,23.7,40.2,77.1,good
+Universiti Sains Malaysia,Malaysia,20.908,10.7,30.6,346.0,15.0,68.0,32.0,35.6,22.7,26.7,45.7,good
+Ulster University,United Kingdom,17.817,17.1,30.5,347.0,8.0,55.0,45.0,21.0,18.0,40.9,35.6,good
+Banaras Hindu University,India,14.953,11.3,30.4,348.0,3.0,10.0,90.0,30.8,16.4,46.7,34.6,good
+National University of Science and Technology (MISiS),Russian Federation,7.09,11.3,30.4,348.0,26.0,41.0,59.0,24.3,23.7,29.1,84.2,good
+Tomsk Polytechnic University,Russian Federation,9.121,8.7,30.4,348.0,28.0,34.0,66.0,26.3,20.6,35.7,60.7,good
+University of Lleida,Spain,8.595,14.7,30.3,349.0,8.0,59.0,41.0,23.6,15.2,48.8,37.8,good
+Universiti Malaysia Perlis,Malaysia,12.154000000000002,17.1,30.3,349.0,5.0,49.0,51.0,16.5,12.0,62.4,35.7,bad
+Monterrey Institute of Technology,Mexico,14.343,16.2,30.3,349.0,11.0,41.0,59.0,20.5,18.2,41.8,74.7,good
+Tabriz University of Medical Sciences,Iran,8.047,9.5,30.2,350.0,0.0,50.0,50.0,45.0,12.0,36.7,34.5,good
+University of the Basque Country,Spain,42.485,14.8,30.0,351.0,4.0,53.0,47.0,22.0,17.1,47.3,37.1,good
+Indian Institute of Technology Guwahati,India,5.699,13.5,30.0,351.0,1.0,17.0,83.0,33.7,22.0,37.2,41.0,good
+Miguel Hern�ndez University of Elche,Spain,13.591,20.0,30.0,351.0,5.0,49.0,51.0,30.3,12.7,45.4,38.0,good
+Ohio University (Main campus),United States,25.013,22.3,30.0,351.0,5.0,56.0,44.0,28.5,17.4,43.5,35.4,good
+Ryerson University,Canada,33.694,43.1,30.0,351.0,4.0,55.0,45.0,19.4,26.0,38.6,36.2,bad
+University of Santiago de Compostela,Spain,25.455,15.2,30.0,351.0,8.0,61.0,39.0,21.8,16.6,46.9,40.3,good
+Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,15.581,21.9,29.9,352.0,5.0,51.0,49.0,27.4,25.6,27.9,99.5,good
+University of the West of England,United Kingdom,21.737,18.3,29.9,352.0,21.0,53.0,47.0,17.1,15.2,48.4,34.9,bad
+University of Beira Interior,Portugal,7.022,15.7,29.8,353.0,14.0,52.0,48.0,17.9,16.5,48.7,34.7,bad
+Coventry University,United Kingdom,27.531,16.4,29.8,353.0,46.0,47.0,53.0,17.4,12.7,44.1,34.7,bad
+Lakehead University,Canada,8.05,24.5,29.8,353.0,13.0,56.0,44.0,17.6,19.5,46.9,37.3,bad
+University of Sassari,Italy,12.993,24.1,29.8,353.0,2.0,66.0,34.0,22.2,17.2,47.8,36.4,good
+"University of the Andes, Colombia",Colombia,15.521,13.2,29.7,354.0,2.0,44.0,56.0,21.1,15.9,45.0,37.4,good
+Kindai University,Japan,33.125,13.6,29.7,354.0,2.0,30.0,70.0,20.1,11.4,58.4,38.8,good
+Cairo University,Egypt,223.275,40.6,29.6,355.0,2.0,48.0,52.0,21.8,13.7,51.5,35.4,good
+University of Oviedo,Spain,21.663,12.7,29.6,355.0,3.0,54.0,46.0,16.8,15.2,54.8,38.5,bad
+Shiraz University of Technology,Iran,1.602,15.9,29.6,355.0,0.0,37.0,63.0,23.7,20.3,46.6,47.9,good
+Indian Institute of Technology Bhubaneswar,India,1.237,10.7,29.5,356.0,0.0,15.0,85.0,27.0,11.3,52.9,35.8,good
+Istanbul Technical University,Turkey,34.825,23.0,29.5,356.0,4.0,34.0,66.0,25.2,28.0,30.2,100.0,good
+University of Ljubljana,Slovenia,40.11,14.7,29.5,356.0,6.0,60.0,40.0,21.1,18.7,44.8,39.7,good
+University of North Carolina at Greensboro,United States,18.999,22.2,29.5,356.0,4.0,66.0,34.0,20.9,19.3,50.0,35.4,good
+University of Split,Croatia,20.043,22.5,29.5,356.0,2.0,0.0,0.0,15.7,12.3,56.8,40.1,bad
+University of Tabriz,Iran,20.36,26.4,29.5,356.0,0.0,47.0,53.0,27.9,19.9,42.2,42.9,good
+University of Arkansas,United States,24.754,19.8,29.4,357.0,5.0,52.0,48.0,26.9,23.0,37.0,39.4,good
+Central Queensland University,Australia,14.701,20.8,29.4,357.0,31.0,55.0,45.0,16.9,12.9,50.2,36.4,bad
+University of Sharjah,United Arab Emirates,14.286,20.8,29.4,357.0,60.0,66.0,34.0,19.5,11.8,38.8,38.3,bad
+University of Thessaly,Greece,17.004,38.9,29.4,357.0,4.0,51.0,49.0,15.7,20.2,48.7,42.8,bad
+University of Salamanca,Spain,28.673,17.6,29.3,358.0,16.0,59.0,41.0,26.4,17.5,37.9,37.0,good
+Western Washington University,United States,13.726,17.7,29.3,358.0,1.0,57.0,43.0,16.2,10.6,62.2,34.5,bad
+Beni-Suef University,Egypt,67.98100000000001,25.3,29.2,359.0,1.0,46.0,54.0,14.7,7.4,60.8,34.4,bad
+Kobe University,Japan,15.593,9.5,29.2,359.0,7.0,35.0,65.0,32.4,22.8,31.1,44.3,good
+National Autonomous University of Mexico,Mexico,161.718,17.1,29.2,359.0,8.0,51.0,49.0,31.9,30.4,18.9,61.7,good
+University of Greenwich,United Kingdom,14.477,18.0,29.1,360.0,36.0,58.0,42.0,17.1,15.2,39.5,35.4,bad
+University of Leoben,Austria,3.074,5.9,29.1,360.0,15.0,26.0,74.0,28.1,11.2,35.6,56.2,good
+University of Brighton,United Kingdom,17.155,18.0,29.0,361.0,21.0,59.0,41.0,17.1,14.2,43.4,35.1,bad
+�cole Centrale de Lyon,France,1.998,16.1,29.0,361.0,24.0,25.0,75.0,31.1,20.2,23.6,59.7,good
+Nippon Medical School,Japan,850.0,0.9,29.0,361.0,0.0,34.0,66.0,25.7,8.8,55.1,34.8,good
+University of Hertfordshire,United Kingdom,17.584,17.5,28.9,362.0,28.0,56.0,44.0,17.5,13.0,42.7,35.3,bad
+Jawaharlal Nehru University,India,7.938,13.9,28.9,362.0,4.0,52.0,48.0,43.9,17.3,26.6,43.0,good
+Nanjing Normal University,China,27.49,13.2,28.9,362.0,3.0,70.0,30.0,20.2,12.1,54.4,47.5,good
+National Technical University of Athens,Greece,14.133,20.6,28.9,362.0,8.0,33.0,67.0,23.0,12.8,45.0,71.5,good
+University of Regina,Canada,12.935,23.4,28.9,362.0,22.0,59.0,41.0,16.8,15.6,45.1,35.8,bad
+Jiangsu Normal University,China,21.455,14.3,28.8,363.0,2.0,0.0,0.0,15.1,11.0,60.7,39.7,bad
+University of Malta,Malta,11.772,13.0,28.8,363.0,9.0,58.0,42.0,16.9,13.7,48.1,34.7,bad
+Pusan National University,South Korea,24.331,18.3,28.8,363.0,11.0,47.0,53.0,27.0,30.0,24.9,63.4,good
+University of Alcal�,Spain,17.793,12.9,28.7,364.0,18.0,56.0,44.0,18.5,15.7,43.2,42.5,bad
+Huazhong Agricultural University,China,25.956,17.4,28.7,364.0,2.0,54.0,46.0,21.8,15.1,49.7,43.1,good
+Jikei University School of Medicine,Japan,1.078,0.9,28.7,364.0,1.0,47.0,53.0,28.4,8.6,51.4,38.3,good
+University of Westminster,United Kingdom,16.401,17.4,28.7,364.0,46.0,60.0,40.0,18.2,16.2,36.7,34.8,bad
+Hiroshima University,Japan,15.077,9.0,28.6,365.0,10.0,36.0,64.0,28.9,22.4,31.5,49.9,good
+Middle East Technical University,Turkey,27.455,31.6,28.6,365.0,6.0,44.0,56.0,28.7,23.2,30.7,62.1,good
+The University of Aizu,Japan,1.165,10.8,28.5,366.0,5.0,11.0,89.0,20.8,12.5,41.7,36.0,good
+University of International Business and Economics,China,15.775,17.4,28.5,366.0,18.0,66.0,34.0,25.3,16.1,35.2,35.7,good
+Jamia Millia Islamia,India,10.653,9.7,28.5,366.0,3.0,40.0,60.0,29.4,8.7,47.6,35.2,good
+Waseda University,Japan,48.839,14.1,28.5,366.0,10.0,38.0,62.0,31.3,22.8,28.2,38.1,good
+University of Indonesia,Indonesia,41.17,9.9,28.4,367.0,11.0,65.0,35.0,38.7,19.2,16.7,81.6,good
+Portland State University,United States,20.219,18.4,28.4,367.0,9.0,55.0,45.0,21.1,18.4,44.6,35.7,good
+Sidi Mohamed Ben Abdellah University,Morocco,90.736,57.1,28.4,367.0,2.0,42.0,58.0,25.2,7.6,53.2,34.4,good
+University of Technology of Compi�gne,France,4.229,15.4,28.4,367.0,23.0,37.0,63.0,23.2,10.1,37.2,42.6,good
+East China University of Science and Technology,China,25.519,15.6,28.3,368.0,2.0,43.0,57.0,22.0,19.1,44.0,56.1,good
+ISCTE-University Institute of Lisbon,Portugal,8.898,24.2,28.3,368.0,12.0,50.0,50.0,23.0,26.4,29.3,39.8,good
+Kurume University,Japan,4.85,7.3,28.3,368.0,2.0,39.0,61.0,21.5,10.1,54.5,36.5,good
+"Lumi�re University, Lyon 2",France,25.134,51.1,28.3,368.0,19.0,72.0,28.0,28.8,18.1,29.0,34.7,good
+University of Minho,Portugal,18.066,17.9,28.3,368.0,10.0,54.0,46.0,22.5,19.4,34.6,62.6,good
+Carlos III University of Madrid,Spain,17.265,11.0,28.2,369.0,15.0,43.0,57.0,24.4,16.3,34.9,38.2,good
+Edinburgh Napier University,United Kingdom,10.668,18.8,28.2,369.0,33.0,55.0,45.0,16.7,13.9,40.4,35.6,bad
+Marquette University,United States,10.472,12.0,28.2,369.0,4.0,53.0,47.0,36.0,14.4,34.3,36.3,good
+Nanjing Tech University,China,33.175,13.9,28.2,369.0,2.0,0.0,0.0,17.7,12.1,53.0,59.7,bad
+Fuzhou University,China,34.979,15.9,28.1,370.0,2.0,42.0,58.0,16.6,12.1,54.6,49.5,bad
+National Institute of Technology Rourkela,India,5.851,18.8,28.1,370.0,4.0,18.0,82.0,26.4,15.1,44.8,37.5,good
+University of P�cs,Hungary,16.859,11.3,28.1,370.0,22.0,56.0,44.0,19.6,16.1,40.9,37.5,bad
+University of Deusto,Spain,9.209,21.8,28.0,371.0,11.0,60.0,40.0,21.5,17.6,39.6,38.1,good
+Pablo de Olavide University,Spain,12.113,14.4,28.0,371.0,18.0,59.0,41.0,21.5,14.2,42.0,35.2,good
+University of Seville,Spain,62.81100000000001,20.6,28.0,371.0,6.0,53.0,47.0,25.4,18.7,36.5,36.6,good
+University of Texas at El Paso,United States,17.089000000000002,23.2,28.0,371.0,8.0,53.0,47.0,21.0,22.9,36.3,34.4,good
+Guangdong University of Technology,China,43.815,19.7,27.9,372.0,0.0,30.0,70.0,14.2,13.1,54.6,57.3,bad
+Hyogo College of Medicine,Japan,888.0,2.0,27.9,372.0,1.0,36.0,64.0,30.2,12.4,43.5,34.4,good
+University of Lagos,Nigeria,34.056,20.3,27.9,372.0,0.0,46.0,54.0,15.5,9.0,58.7,34.5,bad
+Nanjing Agricultural University,China,25.963,15.9,27.9,372.0,3.0,56.0,44.0,23.4,17.2,43.2,47.4,good
+University of the Aegean,Greece,13.04,41.3,27.8,373.0,1.0,57.0,43.0,18.1,17.8,44.3,37.0,bad
+Athens University of Economics and Business,Greece,9.678,44.4,27.8,373.0,5.0,47.0,53.0,17.8,21.2,39.3,37.8,bad
+Chang Gung University,Taiwan,7.556,12.3,27.8,373.0,5.0,46.0,54.0,23.3,26.3,29.8,84.9,good
+Federal University of Rio de Janeiro,Brazil,48.675,12.3,27.8,373.0,2.0,53.0,47.0,34.4,22.0,26.1,35.5,good
+University of Salford,United Kingdom,15.356,17.0,27.8,373.0,22.0,52.0,48.0,18.7,14.8,38.7,34.8,bad
+Saint-Petersburg Mining University,Russian Federation,7.297999999999999,11.1,27.7,374.0,11.0,40.0,60.0,20.2,10.3,48.9,71.1,good
+University of Zaragoza,Spain,28.211,10.3,27.7,374.0,6.0,54.0,46.0,22.0,13.4,43.8,38.6,good
+University of Bradford,United Kingdom,8.917,17.7,27.6,375.0,28.0,56.0,44.0,19.3,16.4,33.0,36.9,bad
+Florida Atlantic University,United States,23.658,18.3,27.6,375.0,10.0,60.0,40.0,21.0,19.1,37.5,37.9,good
+Jadavpur University,India,11.528,18.4,27.6,375.0,1.0,32.0,68.0,33.8,22.3,28.5,40.8,good
+Jinan University,China,34.904,14.0,27.6,375.0,34.0,60.0,40.0,21.6,14.9,38.5,40.4,good
+University of Northern British Columbia (UNBC),Canada,2.733,14.0,27.6,375.0,8.0,62.0,38.0,19.3,18.5,42.0,34.8,bad
+Southwestern University of Finance and Economics,China,22.283,15.9,27.6,375.0,2.0,63.0,37.0,18.1,11.6,48.0,37.1,bad
+University of Roehampton,United Kingdom,7.665,16.3,27.5,376.0,28.0,71.0,29.0,18.7,19.9,31.3,34.5,bad
+University of Science and Technology Beijing,China,24.232,14.7,27.5,376.0,4.0,37.0,63.0,27.2,25.2,29.5,54.4,good
+University of South Bohemia in ?esk� Bud?jovice,Czech Republic,9.738,15.2,27.5,376.0,5.0,70.0,30.0,17.7,13.3,46.1,34.5,bad
+American University in Cairo,Egypt,5.936,13.7,27.4,377.0,5.0,55.0,45.0,27.0,25.1,20.2,35.5,good
+Chiba University,Japan,13.764,9.8,27.4,377.0,5.0,38.0,62.0,28.7,19.1,32.8,51.4,good
+Polytechnic University of Valencia,Spain,21.119,10.0,27.4,377.0,14.0,38.0,62.0,22.1,11.8,41.3,44.8,good
+"Asia University, Taiwan",Taiwan,11.779000000000002,29.8,27.3,378.0,5.0,61.0,39.0,17.3,33.7,23.0,100.0,bad
+"China University of Geosciences, Wuhan",China,28.934,16.7,27.3,378.0,4.0,0.0,0.0,20.5,17.2,43.1,45.6,good
+Mississippi State University,United States,26.121,19.0,27.3,378.0,3.0,51.0,49.0,21.8,15.8,43.6,40.3,good
+Northeast Normal University,China,25.425,14.7,27.3,378.0,2.0,73.0,27.0,24.3,10.3,48.6,37.1,good
+Technical University of Madrid,Spain,40.592,14.0,27.3,378.0,13.0,32.0,68.0,22.6,14.9,37.7,42.4,good
+University of B�ja�a,Algeria,43.026,25.4,27.2,379.0,0.0,60.0,40.0,16.4,7.4,53.3,34.4,bad
+Benha University,Egypt,97.843,30.5,27.1,380.0,5.0,38.0,62.0,14.8,7.5,54.6,35.6,bad
+Chulalongkorn University,Thailand,38.531,14.0,27.1,380.0,4.0,59.0,41.0,31.5,21.7,22.2,64.8,good
+University of East London,United Kingdom,10.302,17.2,27.1,380.0,30.0,63.0,37.0,20.4,14.5,32.8,34.4,good
+Kingston University,United Kingdom,15.7,17.6,27.1,380.0,36.0,57.0,43.0,17.6,15.6,33.3,34.7,bad
+Rochester Institute of Technology,United States,13.996,15.7,27.1,380.0,18.0,36.0,64.0,20.0,18.1,39.0,35.9,bad
+University of Chile,Chile,35.447,15.0,27.0,381.0,6.0,47.0,53.0,23.2,17.1,33.9,34.5,good
+China University of Mining and Technology,China,47.225,18.6,27.0,381.0,2.0,32.0,68.0,19.9,13.6,47.4,52.8,bad
+Chongqing University,China,44.394,16.0,27.0,381.0,4.0,0.0,0.0,23.2,21.3,35.2,60.3,good
+Ilmenau University of Technology,Germany,5.807,17.7,27.0,381.0,22.0,27.0,73.0,25.1,16.8,29.9,50.7,good
+Karlstad University,Sweden,8.552,12.8,27.0,381.0,11.086892488954344,63.0,37.0,16.8,13.2,47.6,35.2,bad
+Ajou University,South Korea,9.906,11.3,26.9,382.0,7.0,0.0,0.0,23.9,23.4,29.8,60.9,good
+University of Algarve,Portugal,7.78,12.9,26.9,382.0,16.0,58.0,42.0,17.3,13.5,40.2,35.3,bad
+"International Islamic University, Islamabad",Pakistan,30.614,19.7,26.9,382.0,8.0,50.0,50.0,14.4,7.5,53.1,34.4,bad
+Lebanese American University,Lebanon,7.866,13.4,26.9,382.0,18.0,50.0,50.0,30.5,10.1,25.1,34.8,good
+Shahid Beheshti University,Iran,18.403,21.4,26.9,382.0,2.0,51.0,49.0,22.1,19.0,38.0,66.9,good
+Shanghai University of Finance and Economics (SUFE),China,15.13,14.5,26.9,382.0,5.0,0.0,0.0,27.6,14.1,32.7,38.2,good
+Shantou University,China,10.305,11.7,26.9,382.0,1.0,50.0,50.0,22.0,14.2,39.5,44.1,good
+Aligarh Muslim University,India,18.783,13.5,26.8,383.0,2.0,38.0,62.0,29.0,10.4,41.1,34.5,good
+Sogang University,South Korea,9.559,22.9,26.7,384.0,11.0,45.0,55.0,24.4,28.2,23.6,47.7,good
+Vilnius University,Lithuania,16.215999999999998,10.8,26.7,384.0,9.0,65.0,35.0,19.9,14.3,37.1,46.6,bad
+Yeungnam University,South Korea,20.135,14.8,26.7,384.0,5.0,50.0,50.0,18.4,12.8,45.5,40.0,bad
+Al-Balqa Applied University,Jordan,33.918,31.3,26.6,385.0,4.0,55.0,45.0,11.9,8.9,52.8,40.5,bad
+"China University of Geosciences, Beijing",China,17.752,15.2,26.6,385.0,1.0,35.0,65.0,24.7,14.2,39.7,43.0,good
+RUDN University,Russian Federation,19.803,11.6,26.6,385.0,29.0,60.0,40.0,36.3,11.3,25.2,37.0,good
+Kyungpook National University,South Korea,24.155,23.5,26.5,386.0,6.0,43.0,57.0,24.5,28.0,25.0,43.4,good
+Shanghai University,China,36.637,11.3,26.5,386.0,6.0,49.0,51.0,21.2,24.8,29.6,60.0,good
+Sheffield Hallam University,United Kingdom,25.119,17.0,26.5,386.0,13.0,55.0,45.0,17.5,13.2,41.4,34.8,bad
+Sri Venkateswara University,India,7.832000000000001,15.5,26.4,387.0,0.0,41.0,59.0,37.3,10.0,32.6,35.0,good
+University of Bras�lia,Brazil,44.074,15.2,26.3,388.0,2.0,51.0,49.0,25.8,14.4,36.8,34.5,good
+University of C�rdoba,Spain,17.406,15.1,26.3,388.0,8.0,56.0,44.0,21.2,16.6,36.4,37.1,good
+University of Nairobi,Kenya,69.456,39.3,26.3,388.0,1.0,36.0,64.0,14.6,10.2,48.3,34.8,bad
+Kyoto Prefectural University of Medicine,Japan,1.33,3.4,26.2,389.0,1.0,46.0,54.0,32.6,13.3,33.7,44.2,good
+Niigata University,Japan,12.158,7.9,26.2,389.0,2.0,38.0,62.0,23.9,13.0,41.3,40.0,good
+University of Szeged,Hungary,19.7,12.5,26.2,389.0,16.0,57.0,43.0,21.8,12.4,36.6,36.5,good
+University of Central Lancashire,United Kingdom,18.824,16.5,26.1,390.0,18.0,58.0,42.0,15.7,12.7,39.7,34.8,bad
+National Sun Yat-Sen University,Taiwan,9.19,13.2,26.1,390.0,6.0,39.0,61.0,24.4,28.0,21.9,58.9,good
+Rikkyo University,Japan,20.183,14.1,26.0,391.0,4.0,53.0,47.0,16.6,8.9,47.5,34.8,bad
+Bucharest University of Economic Studies,Romania,22.022,14.8,25.9,392.0,3.0,71.0,29.0,15.4,10.0,53.1,34.8,bad
+Cardiff Metropolitan University,United Kingdom,8.661,16.5,25.9,392.0,17.0,55.0,45.0,16.5,10.8,41.0,34.7,bad
+University of Las Palmas de Gran Canaria,Spain,18.714,17.1,25.9,392.0,7.0,56.0,44.0,17.8,11.9,44.4,34.4,bad
+Shiraz University,Iran,14.286,20.6,25.9,392.0,0.0,49.0,51.0,24.8,25.0,27.2,57.0,good
+Teesside University,United Kingdom,11.919,18.3,25.9,392.0,11.0,56.0,44.0,15.5,10.6,43.9,34.8,bad
+Florida Institute of Technology,United States,5.343999999999999,14.1,25.8,393.0,33.0,34.0,66.0,22.7,14.6,31.4,37.7,good
+Federal University of Pelotas,Brazil,23.198,17.4,25.6,394.0,0.0,57.0,43.0,17.9,11.0,48.6,34.4,bad
+Leeds Beckett University,United Kingdom,19.726,19.5,25.6,394.0,12.0,51.0,49.0,16.6,13.9,39.5,35.0,bad
+National Central University,Taiwan,10.838,9.4,25.6,394.0,10.0,35.0,65.0,25.0,22.6,22.1,65.6,good
+Normandy University,France,68.013,20.3,25.6,394.0,11.0,55.0,45.0,17.4,12.9,38.8,35.8,bad
+Staffordshire University,United Kingdom,8.558,14.8,25.6,394.0,12.0,49.0,51.0,16.8,9.8,42.8,34.6,bad
+Tallinn University,Estonia,7.681,27.2,25.6,394.0,12.0,73.0,27.0,16.9,20.1,29.5,38.2,bad
+University of Vigo,Spain,18.652,16.4,25.6,394.0,5.0,50.0,50.0,17.7,14.6,39.5,38.4,bad
+VIT University,India,33.38,19.9,25.6,394.0,1.0,25.0,75.0,20.5,12.6,44.0,36.3,good
+Juntendo University,Japan,4.6530000000000005,3.8,25.5,395.0,2.0,53.0,47.0,34.6,13.5,27.8,47.4,good
+Lviv Polytechnic National University,Ukraine,21.56,10.5,25.5,395.0,1.0,41.0,59.0,17.9,8.7,49.5,34.7,bad
+"National Institute of Technology, Tiruchirappalli",India,6.081,19.1,25.5,395.0,8.0,20.0,80.0,25.0,17.4,32.8,51.9,good
+The New School,United States,10.434,9.4,25.5,395.0,35.0,71.0,29.0,23.9,15.2,30.2,38.4,good
+Osmania University,India,12.454,17.8,25.5,395.0,2.0,31.0,69.0,36.0,10.2,31.5,39.6,good
+Istanbul University,Turkey,122.002,59.7,25.4,396.0,6.0,51.0,49.0,25.8,24.4,23.6,49.8,good
+University Rey Juan Carlos,Spain,42.07899999999999,25.2,25.4,396.0,11.0,58.0,42.0,18.6,10.8,40.9,36.7,bad
+"Vietnam National University, Hanoi",Vietnam,32.944,13.4,25.4,396.0,1.0,54.0,46.0,21.9,9.1,38.8,36.5,good
+University of Jordan,Jordan,30.495,16.9,25.3,397.0,16.0,66.0,34.0,25.1,10.2,29.1,39.3,good
+Capital Medical University,China,13.178,6.8,25.2,398.0,5.0,69.0,31.0,30.2,20.2,24.7,35.0,good
+Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,16.75,22.8,25.2,398.0,0.0,50.0,50.0,18.7,13.5,41.1,49.7,bad
+University of Puerto Rico,Puerto Rico,49.713,13.9,25.2,398.0,1.0,58.0,42.0,18.1,8.5,43.7,34.9,bad
+American University of Sharjah,United Arab Emirates,5.652,14.0,25.1,399.0,83.0,46.0,54.0,19.2,14.8,23.0,37.5,bad
+Eastern Mediterranean University,Northern Cyprus,18.865,27.1,25.1,399.0,83.0,41.0,59.0,17.0,11.7,30.6,34.4,bad
+Northeastern University,China,36.015,14.5,25.1,399.0,4.0,0.0,0.0,24.8,22.1,19.3,96.9,good
+S�o Paulo State University (UNESP),Brazil,39.577,13.0,25.1,399.0,2.0,51.0,49.0,34.4,23.0,16.8,36.9,good
+University of Wolverhampton,United Kingdom,15.687,20.4,25.0,400.0,21.0,61.0,39.0,15.8,13.3,35.0,34.5,bad
+Wuhan University of Technology,China,51.684,14.0,25.0,400.0,3.0,30.0,70.0,18.8,13.4,40.8,53.8,bad
+Babe?-Bolyai University,Romania,37.168,24.6,24.9,401.0,4.0,64.0,36.0,16.7,14.1,36.8,34.9,bad
+Technological University Dublin,Ireland,14.904000000000002,20.0,24.9,401.0,20.0,43.0,57.0,15.7,13.3,32.9,35.1,bad
+University of Cadiz,Spain,19.288,19.1,24.8,402.0,8.0,55.0,45.0,27.0,14.8,28.7,35.9,good
+Kaohsiung Medical University,Taiwan,6.881,12.2,24.8,402.0,7.0,56.0,44.0,22.5,23.3,25.9,54.8,good
+National Dong Hwa University,Taiwan,10.269,18.1,24.8,402.0,9.0,51.0,49.0,16.3,24.6,28.9,37.8,bad
+Universiti Tenaga Nasional (UNITEN),Malaysia,6.78,16.1,24.8,402.0,6.0,38.0,62.0,17.9,13.8,33.9,91.5,bad
+Tokyo Medical University,Japan,1.35,1.6,24.8,402.0,1.0,52.0,48.0,29.6,10.7,35.0,35.7,good
+Birmingham City University,United Kingdom,19.975,18.1,24.7,403.0,23.0,62.0,38.0,16.0,10.3,37.4,34.6,bad
+Isfahan University of Medical Sciences,Iran,11.34,12.3,24.7,403.0,1.0,62.0,38.0,40.9,11.9,22.4,37.4,good
+K.N. Toosi University of Technology,Iran,6.582000000000001,22.3,24.7,403.0,1.0,35.0,65.0,24.6,23.7,25.1,46.4,good
+Xidian University,China,34.14,17.1,24.7,403.0,3.0,29.0,71.0,21.0,17.2,32.9,75.2,good
+University of Bedfordshire,United Kingdom,10.808,20.0,24.6,404.0,34.0,62.0,38.0,16.9,13.6,29.3,34.9,bad
+University of �vora,Portugal,6.442,12.4,24.6,404.0,12.0,54.0,46.0,19.6,14.6,31.3,35.6,bad
+Fu Jen Catholic University,Taiwan,20.45,20.7,24.6,404.0,9.0,60.0,40.0,18.7,19.9,31.3,53.5,bad
+Kanazawa University,Japan,10.42,9.8,24.6,404.0,5.0,37.0,63.0,26.8,17.7,28.4,36.9,good
+University of Kurdistan,Iran,9.441,28.9,24.6,404.0,1.0,54.0,46.0,14.5,13.1,46.6,39.3,bad
+Louisiana Tech University,United States,11.21,22.6,24.6,404.0,4.0,46.0,54.0,17.3,9.7,43.9,34.8,bad
+University of Baghdad,Iraq,66.399,10.4,24.5,405.0,0.0,59.0,41.0,19.5,7.9,43.5,35.2,bad
+Inha University,South Korea,19.196,23.5,24.5,405.0,6.0,39.0,61.0,23.8,20.7,23.8,64.0,good
+Polytechnic Institute of Porto,Portugal,18.511,17.1,24.5,405.0,6.0,47.0,53.0,13.5,8.7,48.5,34.6,bad
+Chonnam National University,South Korea,22.469,16.9,24.4,406.0,6.0,49.0,51.0,21.3,20.2,29.6,38.9,good
+Kuwait University,Kuwait,36.551,23.6,24.4,406.0,15.0,75.0,25.0,19.1,9.9,31.7,37.4,bad
+Lahore University of Management Sciences,Pakistan,3.859,14.6,24.4,406.0,1.0,41.0,59.0,19.5,12.7,33.9,35.1,bad
+University of Murcia,Spain,27.662,16.3,24.4,406.0,7.0,66.0,34.0,22.3,13.8,32.6,35.9,good
+Universit� Saint-Joseph de Beyrouth,Lebanon,7.566,19.4,24.4,406.0,5.0,63.0,37.0,26.2,10.4,24.0,35.8,good
+Embry-Riddle Aeronautical University,United States,16.34,16.8,24.3,407.0,9.0,18.0,82.0,16.9,9.2,44.5,34.6,bad
+Federico Santa Mar�a Technical University,Chile,19.067,27.3,24.3,407.0,3.0,24.0,76.0,13.6,9.8,40.2,44.9,bad
+National Chengchi University,Taiwan,13.558,15.6,24.3,407.0,16.0,57.0,43.0,23.4,29.3,13.2,42.0,good
+Sapporo Medical University,Japan,1.336,3.5,24.3,407.0,0.0,42.0,58.0,29.6,11.7,32.3,44.1,good
+Xiangtan University,China,31.34,21.2,24.3,407.0,1.0,53.0,47.0,14.8,12.0,46.1,38.5,bad
+China Pharmaceutical University,China,16.144000000000002,18.0,24.2,408.0,3.0,0.0,0.0,22.9,13.1,35.5,57.2,good
+National University of Sciences and Technology,Pakistan,10.645,8.1,24.2,408.0,3.0,33.0,67.0,21.1,11.7,35.1,34.8,good
+Okayama University,Japan,13.099,8.0,24.2,408.0,8.0,39.0,61.0,25.6,16.6,27.0,51.6,good
+Pondicherry University,India,6.107,17.2,24.2,408.0,1.0,42.0,58.0,36.5,19.2,18.3,34.5,good
+NorthWest A&F University,China,29.327,15.3,24.1,409.0,1.0,51.0,49.0,20.1,13.1,37.8,45.2,good
+University of Patras,Greece,25.58,27.6,24.1,409.0,5.0,48.0,52.0,16.5,11.6,39.4,39.4,bad
+Bauman Moscow State Technical University,Russian Federation,19.785,4.8,24.0,410.0,8.0,28.0,72.0,34.0,17.4,16.8,61.8,good
+University of La Frontera,Chile,10.437,24.6,24.0,410.0,1.0,49.0,51.0,15.1,16.0,34.0,34.5,bad
+Indian Institute of Technology (Indian School of Mines) Dhanbad,India,7.832999999999999,25.1,24.0,410.0,1.0,15.0,85.0,21.5,13.5,37.3,49.3,good
+University of Mazandaran,Iran,12.942,33.7,24.0,410.0,2.0,65.0,35.0,28.2,11.6,32.9,37.4,good
+Beijing Jiaotong University,China,26.457,14.0,23.9,411.0,8.0,0.0,0.0,23.4,23.5,20.3,65.2,good
+Hanoi University of Science and Technology,Vietnam,32.161,21.4,23.9,411.0,1.0,23.0,77.0,14.7,8.4,42.3,37.2,bad
+Jilin University,China,70.45,10.8,23.9,411.0,3.0,47.0,53.0,27.3,16.2,27.4,43.3,good
+University of Tr�s-os-Montes and Alto Douro,Portugal,6.792999999999999,12.1,23.9,411.0,4.0,54.0,46.0,21.2,13.9,32.3,34.4,good
+Czech Technical University in Prague,Czech Republic,19.499,10.6,23.6,412.0,19.0,31.0,69.0,20.8,17.4,23.4,44.6,good
+National Taipei University of Technology,Taiwan,9.994,15.9,23.6,412.0,8.0,27.0,73.0,21.8,20.2,22.4,86.7,good
+St Marianna University School of Medicine,Japan,846.0,1.0,23.6,412.0,1.0,36.0,64.0,27.0,7.9,36.9,34.6,good
+University of Ja�n,Spain,16.782,20.4,23.5,413.0,10.0,55.0,45.0,16.7,14.1,34.7,35.8,bad
+Muroran Institute of Technology,Japan,3.365,17.5,23.5,413.0,4.0,11.0,89.0,15.4,9.4,42.6,37.7,bad
+Northwest University,China,24.237,14.8,23.5,413.0,4.0,55.0,45.0,19.3,12.7,37.5,40.6,bad
+University of Malaga,Spain,35.654,12.9,23.4,414.0,9.0,53.0,47.0,20.1,11.5,33.1,36.2,good
+Shanghai Maritime University,China,23.789,17.9,23.4,414.0,3.0,38.0,62.0,14.5,9.8,40.3,51.2,bad
+Tshwane University of Technology,South Africa,45.992,39.4,23.4,414.0,2.0,52.0,48.0,14.4,7.0,42.9,36.1,bad
+Chonbuk National University,South Korea,20.601,20.7,23.3,415.0,5.0,45.0,55.0,22.9,20.4,23.8,39.6,good
+Tallinn University of Technology,Estonia,9.895,21.8,23.3,415.0,14.0,43.0,57.0,17.6,13.2,27.8,47.3,bad
+Universiti Utara Malaysia,Malaysia,12.871,11.7,23.3,415.0,25.0,65.0,35.0,30.9,20.8,9.3,36.8,good
+University of A Coru�a,Spain,14.962,11.4,23.2,416.0,3.0,52.0,48.0,20.3,13.7,32.5,36.3,good
+University of Alicante,Spain,27.207,18.4,23.1,417.0,9.0,58.0,42.0,20.0,14.8,28.7,37.1,bad
+Pontifical Catholic University of Peru,Peru,24.984,7.5,23.1,417.0,3.0,47.0,53.0,19.9,8.6,33.8,35.9,bad
+University of Maribor,Slovenia,12.124,13.6,23.0,418.0,5.0,55.0,45.0,17.0,15.8,31.0,40.0,bad
+Aichi Medical University,Japan,1.288,2.8,22.9,419.0,1.0,58.0,42.0,26.0,10.8,32.4,34.4,good
+Ferdowsi University of Mashhad,Iran,23.992,29.5,22.9,419.0,5.0,57.0,43.0,25.9,18.5,23.1,41.8,good
+Jiangsu University,China,35.335,9.5,22.9,419.0,5.0,42.0,58.0,18.8,10.4,33.1,55.5,bad
+University of Latvia,Latvia,12.367,33.1,22.9,419.0,6.0,70.0,30.0,17.0,19.3,24.4,41.6,bad
+University of Seoul,South Korea,8.807,16.6,22.9,419.0,5.0,0.0,0.0,22.6,18.2,24.7,40.9,good
+University of Derby,United Kingdom,13.502,15.2,22.8,420.0,13.0,56.0,44.0,16.2,10.3,32.0,35.1,bad
+University of Debrecen,Hungary,26.771,11.9,22.7,421.0,18.0,55.0,45.0,19.9,10.6,28.0,37.7,bad
+University of Ghana,Ghana,36.819,28.7,22.7,421.0,1.0,45.0,55.0,15.6,15.5,28.1,48.0,bad
+Karab�k University,Turkey,52.191,53.1,22.7,421.0,12.0,47.0,53.0,18.3,7.6,39.2,34.4,bad
+Sultan Qaboos University,Oman,6.823,7.4,22.7,421.0,4.0,50.0,50.0,23.8,10.6,19.1,47.4,good
+Tanta University,Egypt,128.995,23.6,22.7,421.0,1.0,53.0,47.0,20.7,7.3,34.7,34.8,good
+Yangzhou University,China,36.88,15.1,22.7,421.0,3.0,55.0,45.0,15.3,10.7,40.8,41.3,bad
+"Adam Mickiewicz University, Pozna?",Poland,37.634,14.2,22.6,422.0,2.0,69.0,31.0,18.1,13.4,32.7,35.4,bad
+"University of Agriculture, Faisalabad",Pakistan,24.44,35.4,22.6,422.0,0.0,44.0,56.0,17.5,16.5,28.6,41.9,bad
+Gda?sk University of Technology,Poland,16.834,14.8,22.6,422.0,4.0,41.0,59.0,17.1,12.1,37.0,38.3,bad
+Osaka City University,Japan,8.279,8.9,22.6,422.0,4.0,36.0,64.0,24.9,14.3,26.8,39.3,good
+Tokyo University of Agriculture and Technology,Japan,5.766,14.8,22.6,422.0,6.0,30.0,70.0,23.9,23.2,18.0,45.9,good
+University of Isfahan,Iran,13.782,20.9,22.5,423.0,1.0,61.0,39.0,30.9,22.6,13.4,45.5,good
+University of the Punjab,Pakistan,27.907,26.9,22.5,423.0,0.0,52.0,48.0,19.5,10.4,34.1,35.2,bad
+Ain Shams University,Egypt,179.636,16.9,22.4,424.0,3.0,54.0,46.0,21.0,10.1,31.5,35.6,good
+At?l?m University,Turkey,9.862,16.8,22.4,424.0,6.0,47.0,53.0,14.7,8.8,39.2,37.0,bad
+Hamamatsu University School of Medicine,Japan,1.21,3.8,22.4,424.0,1.0,49.0,51.0,29.0,13.7,24.3,37.5,good
+Indian Institute of Science Education and Research Kolkata,India,1.335,11.8,22.4,424.0,0.0,26.0,74.0,28.1,10.8,28.5,35.4,good
+Indian Institute of Technology Patna,India,1.3869999999999998,12.6,22.4,424.0,0.0,11.0,89.0,17.6,8.3,41.9,34.7,bad
+Tezpur University,India,3.904,14.0,22.4,424.0,1.0,42.0,58.0,26.3,12.4,29.0,41.7,good
+Acharya Nagarjuna University,India,4.792,12.5,22.2,425.0,6.0,36.0,64.0,39.9,9.2,15.7,41.8,good
+University of Castilla-La Mancha,Spain,23.53,13.8,22.2,425.0,6.0,56.0,44.0,16.6,12.5,32.7,36.0,bad
+Kumamoto University,Japan,10.032,7.6,22.2,425.0,7.0,38.0,62.0,26.0,14.1,23.2,44.8,good
+Tokyo University of Science,Japan,18.49,24.4,22.2,425.0,2.0,23.0,77.0,21.9,24.3,19.1,41.9,good
+University of Fortaleza (UNIFOR),Brazil,23.923,15.2,22.1,426.0,0.0,49.0,51.0,14.8,7.3,41.4,34.4,bad
+Nagasaki University,Japan,9.163,7.0,22.1,426.0,4.0,37.0,63.0,25.9,14.4,23.3,39.0,good
+Nagoya City University,Japan,4.444,7.6,22.1,426.0,2.0,53.0,47.0,23.2,14.0,27.7,45.5,good
+Vilnius Gediminas Technical University,Lithuania,9.551,14.1,22.1,426.0,10.0,48.0,52.0,16.2,12.4,31.7,40.7,bad
+Zhejiang University of Technology,China,31.228,14.7,22.1,426.0,8.0,0.0,0.0,16.7,14.2,32.3,51.4,bad
+Al-Farabi Kazakh National University,Kazakhstan,21.138,5.6,22.0,427.0,11.0,55.0,45.0,24.3,9.6,20.7,42.8,good
+Comenius University in Bratislava,Slovakia,20.056,9.8,22.0,427.0,14.0,67.0,33.0,22.2,13.1,22.3,34.6,good
+Kyushu Institute of Technology (Kyutech),Japan,5.653,16.2,22.0,427.0,4.0,13.0,87.0,18.7,12.4,31.0,47.4,bad
+Shinshu University,Japan,10.812,10.3,22.0,427.0,3.0,32.0,68.0,21.5,14.4,27.9,40.8,good
+Southern Medical University,China,19.306,6.6,22.0,427.0,7.0,58.0,42.0,27.2,12.2,24.9,39.5,good
+Oakland University,United States,15.887,18.9,21.9,428.0,4.0,57.0,43.0,25.5,12.7,24.5,35.3,good
+Robert Gordon University,United Kingdom,9.489,20.4,21.9,428.0,22.0,62.0,38.0,16.8,11.3,23.3,35.2,bad
+Samara University,Russian Federation,9.66,10.6,21.9,428.0,11.0,51.0,49.0,18.3,12.4,31.0,46.6,bad
+Semnan University,Iran,12.496,15.4,21.9,428.0,1.0,50.0,50.0,16.9,9.9,39.3,34.4,bad
+"California State University, Long Beach",United States,30.595,19.7,21.8,429.0,4.0,58.0,42.0,23.1,10.1,27.3,35.9,good
+Delhi Technological University,India,8.242,23.3,21.8,429.0,0.0,16.0,84.0,15.8,13.1,37.5,35.3,bad
+South Valley University,Egypt,47.488,47.9,21.8,429.0,0.0,60.0,40.0,12.8,7.9,37.8,34.6,bad
+Brno University of Technology,Czech Republic,20.275,19.6,21.7,430.0,22.0,29.0,71.0,18.6,15.6,21.7,41.2,bad
+"University of Chemistry and Technology, Prague",Czech Republic,4.285,9.8,21.7,430.0,20.0,62.0,38.0,24.2,14.6,17.8,40.7,good
+University of Ostrava,Czech Republic,8.872,18.3,21.7,430.0,9.0,70.0,30.0,16.7,13.5,29.2,34.5,bad
+Riga Technical University,Latvia,10.805,29.8,21.7,430.0,11.0,36.0,64.0,19.5,17.5,20.1,55.5,bad
+University of South Wales,United Kingdom,15.664,14.8,21.7,430.0,19.0,53.0,47.0,16.2,9.2,27.9,34.9,bad
+Industrial University of Santander (UIS),Colombia,20.851,24.5,21.6,431.0,0.0,46.0,54.0,14.5,9.9,35.1,34.7,bad
+University of Cergy-Pontoise,France,14.867,16.3,21.5,432.0,16.0,57.0,43.0,15.9,13.6,23.6,35.0,bad
+Edge Hill University,United Kingdom,12.185,15.5,21.5,432.0,5.0,68.0,32.0,14.8,10.2,33.1,34.4,bad
+Nanjing University of Aeronautics and Astronautics,China,29.542,16.6,21.5,432.0,3.0,27.0,73.0,20.8,21.1,19.8,65.5,good
+Kagawa University,Japan,6.392,9.7,21.4,433.0,2.0,41.0,59.0,20.9,11.7,28.5,40.0,good
+National University of Colombia,Colombia,52.085,22.4,21.4,433.0,1.0,38.0,62.0,19.0,14.5,26.1,35.4,bad
+Ocean University of China,China,32.059,17.5,21.4,433.0,4.0,52.0,48.0,20.3,15.6,26.1,44.7,good
+?Shahid Chamran University of Ahvaz,Iran,12.309,21.1,21.4,433.0,2.0,61.0,39.0,27.2,18.4,16.2,66.2,good
+Shiga University of Medical Science,Japan,1.164,3.1,21.4,433.0,2.0,43.0,57.0,25.5,10.2,27.2,42.3,good
+Warsaw University of Technology,Poland,29.709,12.9,21.4,433.0,6.0,34.0,66.0,19.2,11.8,30.7,39.8,bad
+Bandung Institute of Technology (ITB),Indonesia,17.382,10.5,21.3,434.0,2.0,41.0,59.0,22.0,16.7,16.3,89.9,good
+Budapest University of Technology and Economics,Hungary,18.219,16.9,21.3,434.0,7.0,33.0,67.0,17.4,15.8,25.3,44.0,bad
+Fayoum University,Egypt,33.084,14.1,21.3,434.0,1.0,39.0,61.0,15.7,9.8,32.7,36.0,bad
+King Mongkut�s University of Technology Thonburi,Thailand,16.125999999999998,21.4,21.3,434.0,3.0,47.0,53.0,17.3,16.7,23.6,74.0,bad
+Tokushima University,Japan,7.553,8.7,21.3,434.0,3.0,35.0,65.0,26.5,19.1,15.0,55.1,good
+Alexandria University,Egypt,182.129,27.4,21.2,435.0,3.0,54.0,46.0,18.9,13.1,24.1,39.6,bad
+Izmir Institute of Technology,Turkey,5.09,19.6,21.2,435.0,4.0,46.0,54.0,19.4,11.0,29.4,38.9,bad
+Suranaree University of Technology,Thailand,15.901,34.1,21.2,435.0,1.0,55.0,45.0,19.7,12.3,27.0,44.5,bad
+Bu-Ali Sina University,Iran,11.609000000000002,26.3,21.1,436.0,1.0,53.0,47.0,22.2,15.3,25.8,35.3,good
+University of Burgos,Spain,7.369,13.4,21.1,436.0,3.0,53.0,47.0,20.8,12.0,25.7,37.5,good
+University of Guilan,Iran,16.24,28.2,21.1,436.0,0.0,61.0,39.0,20.4,13.6,29.5,34.8,good
+Sohag University,Egypt,52.056,28.8,21.1,436.0,0.0,58.0,42.0,13.8,7.4,35.3,34.7,bad
+University of Almer�a,Spain,12.913,18.4,21.0,437.0,12.0,56.0,44.0,17.1,13.2,26.2,36.1,bad
+Kharazmi University,Iran,12.656,20.9,21.0,437.0,1.0,57.0,43.0,28.0,12.7,21.2,44.7,good
+National University of San Mart�n,Argentina,15.236,15.8,21.0,437.0,5.0,65.0,35.0,16.5,8.8,31.9,35.0,bad
+University of North Florida,United States,12.132,17.7,21.0,437.0,2.0,57.0,43.0,24.8,10.5,25.7,34.6,good
+Paris Nanterre University,France,33.434,36.3,21.0,437.0,17.0,62.0,38.0,23.8,16.8,13.9,34.7,good
+University of South Africa,South Africa,193.874,155.2,21.0,437.0,7.0,67.0,33.0,22.1,19.1,15.0,35.2,good
+University of Talca,Chile,10.795,16.1,21.0,437.0,1.0,48.0,52.0,15.3,11.2,27.5,44.7,bad
+Texas State University,United States,31.893,19.1,20.9,438.0,1.0,58.0,42.0,17.4,14.3,27.3,36.4,bad
+Chuo University,Japan,26.302,37.2,20.8,439.0,4.0,36.0,64.0,27.2,10.3,23.0,36.8,good
+Democritus University of Thrace,Greece,30.414,49.8,20.8,439.0,3.0,54.0,46.0,14.9,11.6,32.0,35.8,bad
+University of Sfax,Tunisia,32.178000000000004,13.5,20.8,439.0,1.0,69.0,31.0,28.9,10.4,17.3,34.4,good
+University of Valladolid,Spain,23.232,12.3,20.8,439.0,6.0,54.0,46.0,21.7,11.8,23.1,38.1,good
+Chung Yuan Christian University,Taiwan,15.925999999999998,32.9,20.7,440.0,11.0,44.0,56.0,16.8,24.6,14.8,47.2,bad
+Corvinus University of Budapest,Hungary,11.023,23.2,20.7,440.0,15.0,54.0,46.0,17.8,13.7,23.6,34.4,bad
+Erciyes University,Turkey,39.178,29.1,20.7,440.0,3.0,46.0,54.0,19.7,16.3,20.6,84.4,bad
+National Taipei University,Taiwan,8.645,17.0,20.7,440.0,4.0,54.0,46.0,19.5,14.9,25.3,35.8,bad
+National Taiwan Ocean University,Taiwan,8.652000000000001,21.6,20.7,440.0,9.0,32.0,68.0,18.5,21.5,17.1,52.8,bad
+Shahrekord University,Iran,7.377999999999999,22.8,20.7,440.0,0.0,59.0,41.0,15.6,11.1,35.5,34.8,bad
+University of Lethbridge,Canada,6.996,12.9,20.6,441.0,12.0,0.0,0.0,16.7,12.4,22.3,34.5,bad
+National Research Saratov State University,Russian Federation,9.847,9.7,20.6,441.0,7.0,61.0,39.0,20.7,11.7,25.7,38.1,good
+Toho University,Japan,5.204,13.2,20.6,441.0,1.0,50.0,50.0,21.7,13.5,25.8,39.1,good
+Ural Federal University,Russian Federation,25.0,11.6,20.6,441.0,11.0,50.0,50.0,23.8,17.0,12.5,51.1,good
+University of Yamanashi,Japan,4.659,6.3,20.6,441.0,4.0,31.0,69.0,24.0,10.7,25.6,36.8,good
+"Birla Institute of Technology and Science, Pilani",India,13.535,17.4,20.5,442.0,1.0,20.0,80.0,19.7,10.9,30.8,35.3,bad
+Polytechnic University of Cartagena,Spain,4.749,10.6,20.5,442.0,6.0,27.0,73.0,22.6,11.1,23.3,37.9,good
+Huaqiao University,China,30.491,17.7,20.5,442.0,11.0,50.0,50.0,14.7,11.3,27.3,37.2,bad
+University of Le�n,Spain,13.606,16.1,20.5,442.0,13.0,56.0,44.0,17.9,11.2,25.4,36.7,bad
+University of Chester,United Kingdom,10.915,19.5,20.4,443.0,11.0,67.0,33.0,15.8,12.7,24.8,34.8,bad
+Saitama Medical University,Japan,1.909,1.5,20.4,443.0,0.0,49.0,51.0,23.6,9.6,28.0,38.1,good
+Sepuluh Nopember Institute of Technology,Indonesia,14.624,10.6,20.4,443.0,4.0,26.0,74.0,19.6,11.1,23.4,62.6,bad
+Southwest Jiaotong University,China,38.059,15.9,20.4,443.0,2.0,25.0,75.0,17.9,16.6,20.8,81.0,bad
+SASTRA University,India,12.234000000000002,14.5,20.2,444.0,0.0,52.0,48.0,17.0,11.9,31.9,34.9,bad
+University of Zagreb,Croatia,68.21600000000001,18.9,20.2,444.0,3.0,59.0,41.0,17.8,12.9,25.3,37.4,bad
+De La Salle University,Philippines,15.604,17.8,20.1,445.0,3.0,50.0,50.0,17.1,12.9,26.4,34.4,bad
+Shahrood University of Technology,Iran,8.448,24.6,20.1,445.0,0.0,44.0,56.0,17.7,13.8,27.8,35.9,bad
+University of Tunis El Manar,Tunisia,33.923,10.1,20.1,445.0,1.0,64.0,36.0,25.6,9.9,18.3,34.5,good
+Czech University of Life Sciences Prague (CULS),Czech Republic,17.065,20.4,20.0,446.0,20.0,53.0,47.0,17.4,13.1,18.7,49.9,bad
+North China Electric Power University,China,30.733,16.6,20.0,446.0,2.0,37.0,63.0,17.3,11.9,28.5,55.9,bad
+Wenzhou Medical University,China,15.970999999999998,11.7,20.0,446.0,5.0,61.0,39.0,16.7,12.7,28.0,37.7,bad
+Anadolu University,Turkey,830.1039999999999,493.5,19.9,447.0,1.0,37.0,63.0,13.0,24.1,16.5,100.0,bad
+Austral University of Chile,Chile,15.575,17.7,19.9,447.0,2.0,50.0,50.0,15.0,12.2,22.7,46.9,bad
+Ehime University,Japan,9.333,13.1,19.9,447.0,2.0,38.0,62.0,21.3,14.6,20.5,42.7,good
+Federal University of S�o Carlos,Brazil,19.134,14.6,19.9,447.0,2.0,49.0,51.0,26.2,13.4,17.3,41.2,good
+National Chung Hsing University,Taiwan,15.077,14.9,19.9,447.0,5.0,40.0,60.0,20.8,16.5,19.0,47.1,good
+Showa University,Japan,3.659,2.1,19.9,447.0,1.0,59.0,41.0,30.3,8.7,20.0,36.4,good
+Yokohama National University,Japan,9.889,12.5,19.9,447.0,7.0,29.0,71.0,22.7,16.5,16.2,49.1,good
+Gunma University,Japan,6.473,7.7,19.8,448.0,3.0,37.0,63.0,27.4,12.9,17.8,37.6,good
+Saitama University,Japan,8.579,14.3,19.8,448.0,5.0,33.0,67.0,19.1,13.0,22.8,36.4,bad
+St Petersburg Electrotechnical University (LETI),Russian Federation,8.021,12.5,19.8,448.0,18.0,30.0,70.0,19.8,13.0,20.5,54.7,bad
+University of Zanjan,Iran,9.98,25.1,19.8,448.0,0.0,54.0,46.0,17.0,12.3,28.5,43.8,bad
+Andr�s Bello University (UNAB),Chile,44.327,21.8,19.7,449.0,1.0,53.0,47.0,13.3,8.0,29.8,34.6,bad
+Chungnam National University,South Korea,21.908,19.9,19.7,449.0,4.0,45.0,55.0,22.7,21.1,12.1,46.6,good
+Feng Chia University,Taiwan,19.84,23.1,19.7,449.0,16.0,37.0,63.0,17.7,17.3,17.2,39.5,bad
+Imam Abdulrahman Bin Faisal University,Saudi Arabia,24.763,8.5,19.7,449.0,4.0,77.0,23.0,21.1,8.0,15.3,34.8,good
+London South Bank University,United Kingdom,12.168,16.5,19.7,449.0,33.0,56.0,44.0,15.4,10.4,18.1,34.8,bad
+University of Mumbai,India,7.874,18.1,19.7,449.0,0.0,47.0,53.0,31.1,10.2,17.2,35.0,good
+Pontifical Catholic University of Valpara�so,Chile,15.935,24.4,19.7,449.0,1.0,42.0,58.0,17.3,15.9,16.0,50.0,bad
+Toyohashi University of Technology (TUT),Japan,2.135,8.8,19.7,449.0,7.0,9.0,91.0,21.9,16.7,16.3,51.1,good
+Chiang Mai University,Thailand,35.013000000000005,15.5,19.6,450.0,2.0,62.0,38.0,20.8,14.2,18.0,48.6,good
+Incheon National University,South Korea,13.499,22.3,19.6,450.0,3.0,43.0,57.0,16.1,17.0,21.9,37.0,bad
+Mohammed V University of Rabat,Morocco,81.914,33.4,19.6,450.0,5.0,57.0,43.0,28.2,9.9,16.7,41.6,good
+Osaka Prefecture University,Japan,7.746,10.1,19.5,451.0,4.0,36.0,64.0,22.4,13.5,20.2,41.5,good
+University of Toyama,Japan,9.133,12.0,19.5,451.0,3.0,40.0,60.0,21.1,13.0,20.3,44.4,good
+Federal University of Cear� (UFC),Brazil,34.676,17.2,19.4,452.0,1.0,46.0,54.0,22.4,11.8,20.7,38.6,good
+University of Manouba,Tunisia,18.361,13.5,19.4,452.0,1.0,66.0,34.0,19.4,7.7,24.5,34.4,bad
+Assiut University,Egypt,87.471,19.7,19.3,453.0,1.0,45.0,55.0,15.2,9.0,25.7,34.4,bad
+Gebze Technical University,Turkey,7.487,27.4,19.3,453.0,2.0,34.0,66.0,21.0,14.1,19.4,36.7,good
+Silesian University of Technology,Poland,20.646,12.6,19.3,453.0,1.0,34.0,66.0,16.4,9.3,31.7,36.9,bad
+SWPS University of Social Sciences and Humanities,Poland,13.561,35.3,19.3,453.0,9.0,74.0,26.0,15.1,12.3,21.0,34.5,bad
+Catholic University of the North,Chile,11.871,19.6,19.2,454.0,2.0,46.0,54.0,14.8,14.2,18.9,35.6,bad
+Khon Kaen University,Thailand,38.655,19.7,19.2,454.0,2.0,51.0,49.0,21.6,12.0,18.0,55.2,good
+Nara Medical University,Japan,1.24,3.3,19.2,454.0,1.0,47.0,53.0,24.8,11.0,21.2,39.3,good
+Andhra University,India,9.785,16.6,19.1,455.0,2.0,51.0,49.0,37.4,10.8,8.0,42.5,good
+Annamalai University,India,23.098000000000003,14.1,19.1,455.0,2.0,49.0,51.0,29.2,8.6,18.7,35.3,good
+University of Antioquia,Colombia,41.389,24.0,19.1,455.0,0.0,51.0,49.0,16.7,17.0,17.2,40.6,bad
+University of Concepci�n,Chile,27.64,17.4,19.1,455.0,1.0,51.0,49.0,15.4,11.6,19.7,56.6,bad
+Federal University of Vi�osa,Brazil,17.595,14.0,19.1,455.0,2.0,50.0,50.0,28.1,14.3,12.3,47.6,good
+Universitas Gadjah Mada,Indonesia,38.31,8.6,19.1,455.0,2.0,58.0,42.0,23.4,11.0,15.7,61.4,good
+AGH University of Science and Technology,Poland,28.62,13.0,19.0,456.0,2.0,0.0,0.0,17.7,13.5,23.6,38.3,bad
+Belgorod State National Research University,Russian Federation,13.175,13.4,19.0,456.0,18.0,65.0,35.0,19.1,9.9,20.4,43.7,bad
+KIIT University,India,21.39,13.1,19.0,456.0,2.0,41.0,59.0,16.9,11.5,25.9,59.5,bad
+Tribhuvan University,Nepal,418.05300000000005,36.0,19.0,456.0,0.0,45.0,55.0,11.4,6.9,30.8,34.4,bad
+Zagazig University,Egypt,156.41899999999998,24.0,19.0,456.0,1.0,53.0,47.0,13.6,7.7,29.6,34.4,bad
+Federal University of ABC (UFABC),Brazil,14.422,20.9,18.9,457.0,1.0,41.0,59.0,15.9,11.8,24.1,35.8,bad
+Federal University of Bahia,Brazil,40.848,15.9,18.9,457.0,0.0,53.0,47.0,21.8,13.7,18.7,34.4,good
+National University of Cuyo,Argentina,46.096,9.6,18.9,457.0,2.0,61.0,39.0,18.0,7.1,25.7,34.4,bad
+National Yunlin University of Science and Technology,Taiwan,9.215,24.9,18.9,457.0,4.0,42.0,58.0,17.2,26.4,7.3,89.9,bad
+Bah�e?ehir University,Turkey,16.458,38.3,18.8,458.0,12.0,48.0,52.0,18.5,14.8,14.7,53.7,bad
+The University of Electro-Communications,Japan,4.813,15.1,18.8,458.0,5.0,12.0,88.0,19.3,18.6,14.1,39.1,bad
+Nagaoka University of Technology,Japan,2.3,10.7,18.8,458.0,12.0,11.0,89.0,24.7,14.6,11.7,41.7,good
+National University of C�rdoba,Argentina,59.45,10.4,18.8,458.0,3.0,68.0,32.0,20.6,9.2,21.2,35.1,good
+Anna University,India,14.428,15.6,18.7,459.0,1.0,45.0,55.0,22.6,14.1,18.5,41.9,good
+Belarusian State University,Belarus,27.101,8.4,18.7,459.0,9.0,55.0,45.0,21.3,9.7,13.3,42.4,good
+University of Marrakech Cadi Ayyad,Morocco,102.0,65.7,18.7,459.0,1.0,54.0,46.0,18.0,8.5,22.7,35.4,bad
+Mie University,Japan,7.117999999999999,9.5,18.7,459.0,3.0,37.0,63.0,20.9,11.8,20.7,43.7,good
+University of Peshawar,Pakistan,5.647,10.7,18.7,459.0,2.0,40.0,60.0,25.2,10.7,15.0,34.4,good
+Saga University,Japan,6.799,9.6,18.7,459.0,2.0,39.0,61.0,21.5,12.4,18.8,47.6,good
+Tomas Bata University in Zl�n,Czech Republic,8.546,19.5,18.7,459.0,10.0,58.0,42.0,18.7,17.4,12.6,37.2,bad
+Banasthali University,India,10.355,19.1,18.6,460.0,4.0,95.0,5.0,33.0,10.0,11.1,39.3,good
+Hosei University,Japan,30.969,40.7,18.5,461.0,2.0,37.0,63.0,16.8,9.7,25.9,35.2,bad
+Canterbury Christ Church University,United Kingdom,11.386,16.9,18.4,462.0,12.0,68.0,32.0,16.4,11.3,20.1,34.4,bad
+Federal University of Lavras,Brazil,14.024,19.4,18.4,462.0,1.0,50.0,50.0,23.9,16.8,11.2,54.8,good
+Gifu University,Japan,7.194,7.6,18.4,462.0,4.0,36.0,64.0,23.5,11.8,16.9,38.5,good
+L.N. Gumilyov Eurasian National University,Kazakhstan,17.205,5.3,18.4,462.0,4.0,0.0,0.0,21.6,7.5,16.6,34.4,good
+University of West Bohemia,Czech Republic,10.54,15.2,18.4,462.0,5.0,54.0,46.0,18.1,15.7,16.7,39.1,bad
+Yamagata University,Japan,8.913,8.7,18.4,462.0,2.0,36.0,64.0,21.8,12.2,17.7,50.6,good
+Azarbaijan Shahid Madani University,Iran,6.329,23.9,18.3,463.0,0.0,62.0,38.0,18.1,12.6,23.7,36.6,bad
+University of Carthage,Tunisia,32.088,10.1,18.3,463.0,1.0,67.0,33.0,19.6,8.3,19.4,34.7,bad
+Nicolaus Copernicus University in Toru?,Poland,22.438,11.1,18.3,463.0,2.0,71.0,29.0,18.8,10.5,22.3,35.4,bad
+Pontifical Catholic University of Paran�,Brazil,23.714,23.0,18.3,463.0,1.0,53.0,47.0,17.4,10.2,23.7,35.9,bad
+Southern Federal University,Russian Federation,19.038,9.1,18.3,463.0,9.0,55.0,45.0,20.4,10.0,20.4,41.9,good
+Tokyo University of Marine Science and Technology,Japan,2.654,10.7,18.3,463.0,7.0,33.0,67.0,24.3,13.9,10.4,47.7,good
+Kochi University,Japan,5.468999999999999,8.1,18.2,464.0,1.0,44.0,56.0,19.9,10.7,20.7,40.9,bad
+Nagoya Institute of Technology,Japan,5.6610000000000005,16.2,18.2,464.0,4.0,15.0,85.0,18.8,19.4,12.8,49.0,bad
+Sophia University,Japan,13.369000000000002,24.2,18.2,464.0,9.0,56.0,44.0,21.6,11.6,14.3,36.0,good
+Lobachevsky State University of Nizhni Novgorod,Russian Federation,18.077,7.9,18.1,465.0,7.0,53.0,47.0,25.6,11.6,12.4,43.7,good
+Minia University,Egypt,59.181,15.6,18.1,465.0,1.0,60.0,40.0,15.5,7.2,23.5,34.5,bad
+University of Miyazaki,Japan,5.488,7.9,18.1,465.0,3.0,35.0,65.0,20.5,9.9,21.1,36.3,good
+National Changhua University of Education,Taiwan,8.18,21.8,18.1,465.0,8.0,52.0,48.0,20.3,18.6,12.1,37.4,good
+Ritsumeikan University,Japan,34.413000000000004,18.3,18.1,465.0,6.0,35.0,65.0,19.1,13.2,16.6,36.8,bad
+Y?ld?z Technical University,Turkey,36.946,33.5,18.1,465.0,4.0,39.0,61.0,15.4,12.9,23.0,45.6,bad
+Universit� Hassan II de Casablanca,Morocco,110.125,27.8,18.0,466.0,2.0,54.0,46.0,15.9,7.6,24.8,36.4,bad
+Kagoshima University,Japan,10.541,10.1,18.0,466.0,3.0,38.0,62.0,21.4,11.4,18.0,42.9,good
+National Chung Cheng University,Taiwan,10.161,14.9,18.0,466.0,5.0,42.0,58.0,19.1,18.3,13.7,41.3,bad
+Novosibirsk State Technical University,Russian Federation,11.64,11.4,18.0,466.0,20.0,44.0,56.0,20.5,12.6,14.9,38.2,good
+State University of Ponta Grossa,Brazil,11.911,12.5,18.0,466.0,0.0,52.0,48.0,17.6,8.5,26.5,34.4,bad
+"University of Technology, Iraq",Iraq,10.45,6.3,18.0,466.0,0.0,60.0,40.0,20.5,6.9,20.3,34.6,good
+University of Valpara�so,Chile,16.211,18.5,18.0,466.0,3.0,59.0,41.0,16.7,9.7,18.4,34.5,bad
+Menoufia University,Egypt,84.587,36.4,17.9,467.0,1.0,45.0,55.0,15.0,7.9,24.9,36.5,bad
+Far Eastern Federal University,Russian Federation,15.601,10.3,17.8,468.0,19.0,0.0,0.0,21.2,11.1,11.9,40.4,good
+Kitasato University,Japan,8.503,5.4,17.8,468.0,0.0,53.0,47.0,24.0,9.9,18.2,39.5,good
+TOBB University of Economics and Technology,Turkey,5.836,16.8,17.8,468.0,1.0,47.0,53.0,15.7,11.1,23.4,35.3,bad
+University of Nigeria Nsukka,Nigeria,34.227,13.2,17.7,469.0,1.0,51.0,49.0,23.0,8.6,18.6,35.2,good
+Rio de Janeiro State University (UERJ),Brazil,22.879,8.9,17.7,469.0,0.0,57.0,43.0,24.2,10.9,15.2,38.1,good
+Federal University of Pernambuco,Brazil,34.072,12.8,17.6,470.0,1.0,50.0,50.0,26.9,9.2,14.3,35.9,good
+Hallym University,South Korea,8.107999999999999,9.8,17.6,470.0,5.0,0.0,0.0,19.0,15.2,16.0,35.4,bad
+Kangwon National University,South Korea,23.127,23.1,17.6,470.0,3.0,41.0,59.0,17.6,15.0,17.8,36.3,bad
+Londrina State University,Brazil,26.685,15.3,17.6,470.0,1.0,57.0,43.0,21.4,13.3,16.3,34.4,good
+University of the Sinos Valley,Brazil,21.715,23.7,17.6,470.0,0.0,51.0,49.0,18.4,10.0,21.5,46.3,bad
+Marmara University,Turkey,59.48,29.1,17.5,471.0,4.0,49.0,51.0,21.3,8.9,19.4,34.6,good
+University of Mysore,India,7.81,21.3,17.5,471.0,10.0,39.0,61.0,31.3,8.2,8.4,34.8,good
+Sofia University,Bulgaria,21.988000000000003,9.3,17.5,471.0,6.0,65.0,35.0,20.7,9.6,14.2,35.3,good
+Tokai University,Japan,29.848000000000003,13.0,17.5,471.0,2.0,26.0,74.0,18.9,9.7,20.8,36.8,bad
+University of Engineering & Technology (UET) Lahore,Pakistan,14.654000000000002,14.5,17.4,472.0,2.0,24.0,76.0,15.3,9.2,19.4,34.7,bad
+I-Shou University,Taiwan,13.97,28.5,17.4,472.0,14.0,48.0,52.0,15.1,17.0,13.3,45.3,bad
+Ochanomizu University,Japan,2.775,14.8,17.4,472.0,4.0,100.0,0.0,23.3,12.7,13.0,37.8,good
+Urmia University,Iran,13.5,28.6,17.4,472.0,0.0,50.0,50.0,20.0,12.9,18.3,38.1,bad
+Yamaguchi University,Japan,10.58,10.8,17.4,472.0,5.0,37.0,63.0,20.8,12.5,14.9,42.3,good
+Szent Istv�n University,Hungary,12.796,18.7,17.3,473.0,11.0,49.0,51.0,16.5,10.5,17.8,35.4,bad
+Tzu Chi University,Taiwan,3.492,10.1,17.3,473.0,5.0,60.0,40.0,20.0,14.1,15.1,39.1,bad
+Yuan Ze University,Taiwan,8.356,19.5,17.3,473.0,8.0,42.0,58.0,17.3,13.9,15.5,47.0,bad
+Sim�n Bol�var University,Venezuela,10.273,24.9,17.2,474.0,0.0,46.0,54.0,16.9,9.9,13.8,61.1,bad
+Wroc?aw University of Science and Technology,Poland,28.329,14.8,17.2,474.0,3.0,34.0,66.0,16.6,10.8,21.3,38.9,bad
+"University of the Andes, Chile",Chile,8.402000000000001,14.4,17.1,475.0,2.0,59.0,41.0,16.1,10.5,15.6,34.6,bad
+Federal University of Paran� (UFPR),Brazil,34.528,14.2,17.1,475.0,0.0,49.0,51.0,24.4,11.5,12.7,35.1,good
+Prince of Songkla University,Thailand,39.257,15.8,17.1,475.0,2.0,69.0,31.0,18.1,10.1,17.6,35.4,bad
+"University of Santiago, Chile (USACH)",Chile,22.818,24.3,17.1,475.0,2.0,42.0,58.0,16.2,14.2,12.1,38.1,bad
+Federal University of Rio Grande do Norte (UFRN),Brazil,42.573,17.1,17.0,476.0,0.0,54.0,46.0,19.6,8.7,19.0,41.6,bad
+University of Havana,Cuba,14.856,9.8,17.0,476.0,7.0,71.0,29.0,21.6,9.0,9.5,40.2,good
+Kyoto Institute of Technology,Japan,3.989,13.0,17.0,476.0,5.0,26.0,74.0,21.5,15.9,10.3,41.3,good
+Oita University,Japan,5.693,9.2,17.0,476.0,1.0,37.0,63.0,19.4,9.2,20.4,37.5,bad
+Osaka Medical College,Japan,1.248,2.7,17.0,476.0,1.0,49.0,51.0,27.2,10.3,12.4,36.5,good
+University of the Ryukyus,Japan,8.222000000000001,10.9,17.0,476.0,2.0,38.0,62.0,19.2,11.8,15.1,45.2,bad
+Del Rosario University,Colombia,10.339,12.9,16.9,477.0,1.0,61.0,39.0,16.5,9.6,15.4,35.1,bad
+University of Gda?sk,Poland,27.859,17.1,16.9,477.0,2.0,69.0,31.0,15.7,10.6,19.7,34.7,bad
+Helwan University,Egypt,113.043,21.9,16.9,477.0,1.0,51.0,49.0,14.7,8.6,20.0,35.1,bad
+Manipal Academy of Higher Education,India,23.082,8.6,16.9,477.0,11.0,45.0,55.0,24.1,11.6,9.3,40.3,good
+University of North Carolina Wilmington,United States,14.791,19.6,16.9,477.0,2.0,62.0,38.0,15.9,7.7,23.3,35.1,bad
+Sumy State University,Ukraine,9.293,10.4,16.9,477.0,13.0,0.0,0.0,19.8,10.0,13.3,37.8,bad
+University of Dar es Salaam,Tanzania,30.139,19.1,16.8,478.0,0.0,32.0,68.0,14.0,7.3,20.4,34.4,bad
+Kasetsart University,Thailand,68.067,22.2,16.8,478.0,1.0,62.0,38.0,18.6,12.8,10.3,59.8,bad
+Shizuoka University,Japan,9.956,13.6,16.8,478.0,3.0,29.0,71.0,17.7,13.4,14.7,38.9,bad
+Soongsil University,South Korea,15.515999999999998,18.3,16.8,478.0,6.0,42.0,58.0,20.8,10.7,15.2,36.1,good
+University of Sousse,Tunisia,25.335,11.1,16.8,478.0,1.0,67.0,33.0,22.7,7.8,13.6,34.4,good
+Federal University of Goi�s,Brazil,34.158,13.4,16.7,479.0,1.0,50.0,50.0,23.3,9.7,14.2,39.6,good
+King Mongkut�s Institute of Technology Ladkrabang,Thailand,23.539,21.7,16.7,479.0,1.0,53.0,47.0,17.8,19.5,6.7,82.0,bad
+Kookmin University,South Korea,17.081,11.3,16.7,479.0,10.0,46.0,54.0,18.2,10.4,16.4,38.4,bad
+University of Monastir,Tunisia,19.973,9.7,16.7,479.0,1.0,68.0,32.0,20.5,8.9,12.5,34.4,good
+Seoul National University of Science and Technology (SeoulTech),South Korea,11.912,17.2,16.7,479.0,4.0,34.0,66.0,17.7,13.5,15.7,39.4,bad
+Shimane University,Japan,6.086,7.6,16.7,479.0,2.0,36.0,64.0,21.5,11.2,14.8,37.8,good
+South Ural State University,Russian Federation,28.84,17.1,16.7,479.0,5.0,45.0,55.0,16.1,10.5,20.7,39.5,bad
+University of Tlemcen,Algeria,43.446000000000005,24.5,16.7,479.0,1.0,67.0,33.0,29.1,8.8,5.6,34.8,good
+Aoyama Gakuin University,Japan,19.143,11.4,16.6,480.0,3.0,49.0,51.0,16.3,7.9,20.9,34.8,bad
+Cukurova University,Turkey,42.418,19.6,16.6,480.0,3.0,39.0,61.0,15.2,12.5,15.6,87.5,bad
+University of Silesia in Katowice,Poland,24.174,12.8,16.6,480.0,3.0,64.0,36.0,18.1,8.8,18.9,34.5,bad
+Bogor Agricultural University,Indonesia,22.289,12.4,16.5,481.0,3.0,58.0,42.0,19.0,10.6,8.9,70.7,bad
+Fluminense Federal University,Brazil,55.502,15.4,16.5,481.0,0.0,50.0,50.0,20.0,11.3,14.8,35.2,bad
+VSB - Technical University of Ostrava,Czech Republic,13.380999999999998,14.7,16.5,481.0,13.0,36.0,64.0,18.6,13.2,10.1,41.4,bad
+Al-Azhar University,Egypt,342.151,32.6,16.4,482.0,6.0,45.0,55.0,15.2,8.3,16.5,34.5,bad
+Shiraz University of Medical Sciences,Iran,10.465,10.9,16.4,482.0,2.0,58.0,42.0,16.2,10.7,20.7,35.1,bad
+University of Shizuoka,Japan,3.002,11.6,16.4,482.0,3.0,61.0,39.0,20.9,11.9,13.5,38.1,good
+Slovak University of Technology in Bratislava,Slovakia,13.108,13.3,16.4,482.0,3.0,34.0,66.0,22.5,12.4,9.8,37.1,good
+Volgograd State Technical University,Russian Federation,14.764,15.0,16.4,482.0,7.0,35.0,65.0,15.1,9.2,21.9,43.2,bad
+University of Dhaka,Bangladesh,34.108000000000004,15.6,16.3,483.0,0.0,42.0,58.0,16.0,8.8,16.4,36.6,bad
+Lodz University of Technology,Poland,16.372,13.0,16.3,483.0,4.0,41.0,59.0,16.3,11.1,18.0,37.8,bad
+V.N. Karazin Kharkiv National University,Ukraine,17.109,9.1,16.3,483.0,25.0,48.0,52.0,20.6,9.3,9.0,34.6,good
+Yazd University,Iran,13.745,30.2,16.3,483.0,1.0,58.0,42.0,16.6,14.4,16.1,36.9,bad
+Bahauddin Zakariya University,Pakistan,28.135,34.5,16.2,484.0,0.0,43.0,57.0,13.6,9.0,19.8,34.4,bad
+Guangxi University,China,36.083,16.9,16.2,484.0,4.0,47.0,53.0,16.1,11.3,17.9,42.8,bad
+Santa Catarina State University,Brazil,12.922,11.9,16.2,484.0,1.0,52.0,48.0,18.1,9.3,19.6,34.5,bad
+Shahid Bahonar University of Kerman,Iran,14.998,23.5,16.2,484.0,0.0,58.0,42.0,17.8,13.7,15.1,41.6,bad
+Technical University of Ko�ice,Slovakia,8.767000000000001,11.5,16.2,484.0,9.0,29.0,71.0,20.8,12.5,10.2,44.0,good
+Thammasat University,Thailand,33.506,12.1,16.2,484.0,1.0,65.0,35.0,18.6,11.7,11.7,38.9,bad
+University of Bucharest,Romania,30.192,17.5,16.1,485.0,2.0,68.0,32.0,18.2,10.6,15.1,36.2,bad
+Federal University of Itajub�,Brazil,9.449,18.6,16.1,485.0,1.0,29.0,71.0,16.3,8.9,19.8,36.5,bad
+University of Pardubice,Czech Republic,7.266,13.7,16.1,485.0,7.0,55.0,45.0,17.8,15.4,10.3,35.5,bad
+Federal University of Ouro Preto,Brazil,13.823,16.3,16.0,486.0,1.0,53.0,47.0,16.3,9.6,19.4,36.4,bad
+Mendel University in Brno,Czech Republic,7.215,14.4,16.0,486.0,16.0,60.0,40.0,18.4,14.7,7.3,36.0,bad
+"University of the North, Colombia",Colombia,14.228,20.5,16.0,486.0,3.0,51.0,49.0,15.0,10.9,11.5,36.7,bad
+PMAS Arid Agriculture University Rawalpindi,Pakistan,12.452,52.1,16.0,486.0,0.0,39.0,61.0,13.9,8.8,19.1,34.4,bad
+Yeditepe University,Turkey,19.508,37.4,16.0,486.0,2.0,55.0,45.0,18.8,12.2,11.9,68.0,bad
+Grigore T. Popa University of Medicine and Pharmacy,Romania,9.375,11.1,15.9,487.0,28.0,66.0,34.0,17.6,7.7,14.5,34.6,bad
+Siksha �O� Anusandhan,India,11.703,9.9,15.9,487.0,0.0,47.0,53.0,19.1,7.9,19.9,34.7,bad
+Tottori University,Japan,6.096,7.5,15.9,487.0,2.0,36.0,64.0,21.6,10.8,12.4,37.3,good
+Tamkang University,Taiwan,26.032,24.7,15.8,488.0,8.0,48.0,52.0,16.4,13.0,12.8,35.9,bad
+University of Tarapac�,Chile,8.708,25.1,15.8,488.0,2.0,55.0,45.0,12.7,13.7,10.8,34.4,bad
+Dokuz Eyl�l University,Turkey,62.844,19.3,15.7,489.0,2.0,47.0,53.0,15.1,9.5,19.7,40.7,bad
+Shibaura Institute of Technology Tokyo,Japan,7.886,24.0,15.7,489.0,16.0,20.0,80.0,16.4,12.5,10.0,41.3,bad
+State University of Santa Cruz,Brazil,3.954,4.7,15.7,489.0,0.0,54.0,46.0,27.4,7.6,8.5,35.7,good
+Taras Shevchenko National University of Kyiv,Ukraine,23.229,8.8,15.7,489.0,3.0,58.0,42.0,23.5,9.8,8.3,35.0,good
+Vietnam National University (Ho Chi Minh City),Vietnam,63.479,21.7,15.7,489.0,1.0,0.0,0.0,14.1,8.7,16.0,42.8,bad
+Federal University of Esp�rito Santo,Brazil,24.924,13.3,15.6,490.0,1.0,59.0,41.0,17.9,9.3,16.2,36.1,bad
+Alzahra University,Iran,10.11,22.5,15.5,491.0,1.0,100.0,0.0,18.1,9.9,16.8,36.8,bad
+Ankara University,Turkey,69.737,19.1,15.5,491.0,4.0,50.0,50.0,19.2,10.0,13.9,35.1,bad
+Autonomous University of Quer�taro,Mexico,22.058000000000003,39.9,15.5,491.0,1.0,56.0,44.0,15.4,9.2,17.3,38.7,bad
+"University of Economics, Prague",Czech Republic,14.011,28.1,15.5,491.0,23.0,54.0,46.0,18.9,13.3,5.5,35.1,bad
+Yanshan University,China,32.748000000000005,15.3,15.5,491.0,1.0,39.0,61.0,17.5,11.2,14.9,50.6,bad
+Amity University,India,29.623,15.0,15.4,492.0,4.0,46.0,54.0,15.7,9.3,18.8,35.8,bad
+University of Hradec Kr�lov�,Czech Republic,6.611000000000001,15.1,15.4,492.0,4.0,60.0,40.0,16.8,10.8,12.7,34.7,bad
+University of Montenegro,Montenegro,19.171,27.3,15.4,492.0,2.0,56.0,44.0,12.6,9.7,15.2,34.8,bad
+Federal University of Health Sciences of Porto Alegre (UFCSPA),Brazil,3.621,10.7,15.3,493.0,2.0,0.0,0.0,20.3,10.5,12.9,34.4,good
+Chubu University,Japan,12.533,24.1,15.2,494.0,1.0,26.0,74.0,13.6,9.7,17.6,36.4,bad
+Gaziantep University,Turkey,37.903,38.1,15.2,494.0,6.0,38.0,62.0,17.3,9.0,15.6,34.7,bad
+SRM Institute of Science and Technology,India,51.031000000000006,15.6,15.2,494.0,2.0,22.0,78.0,16.9,8.2,18.1,34.6,bad
+Technical University of Liberec,Czech Republic,5.321000000000001,9.5,15.2,494.0,12.0,55.0,45.0,19.8,11.9,5.9,40.5,bad
+Autonomous University of Yucat�n,Mexico,15.206,13.6,15.1,495.0,0.0,50.0,50.0,15.8,8.1,15.9,40.2,bad
+University of Guanajuato,Mexico,26.034,19.8,15.1,495.0,3.0,53.0,47.0,16.4,8.7,13.5,34.6,bad
+Iwate University,Japan,5.516,13.8,15.1,495.0,3.0,37.0,63.0,19.5,9.8,12.0,42.1,bad
+Technical University of Cluj-Napoca,Romania,19.745,17.9,15.1,495.0,1.0,36.0,64.0,15.2,9.9,16.9,35.2,bad
+Akita University,Japan,4.942,9.8,15.0,496.0,4.0,35.0,65.0,21.0,10.7,9.2,40.9,good
+Federal University of Santa Maria,Brazil,27.285,14.1,15.0,496.0,0.0,54.0,46.0,20.4,8.8,13.5,35.0,good
+Gazi University,Turkey,77.346,30.3,15.0,496.0,3.0,49.0,51.0,18.8,10.6,13.2,40.5,bad
+Moscow Aviation Institute,Russian Federation,15.248,11.7,15.0,496.0,9.0,28.0,72.0,24.1,11.7,3.0,64.6,good
+Multimedia University,Malaysia,11.08,13.3,15.0,496.0,9.0,45.0,55.0,16.5,9.6,11.4,37.4,bad
+Siberian Federal University,Russian Federation,23.8,16.7,15.0,496.0,4.0,48.0,52.0,18.1,12.8,6.8,60.5,bad
+Tunghai University,Taiwan,15.704,26.8,15.0,496.0,10.0,54.0,46.0,15.0,12.6,10.6,37.7,bad
+Yarmouk University,Jordan,35.353,30.4,15.0,496.0,9.0,61.0,39.0,19.4,8.3,7.1,35.6,bad
+Ege University,Turkey,46.056,21.0,14.9,497.0,3.0,50.0,50.0,17.2,10.2,13.5,37.9,bad
+University of ?�d?,Poland,31.192,14.1,14.9,497.0,5.0,65.0,35.0,17.1,10.3,13.4,34.7,bad
+Sel�uk University,Turkey,48.591,19.4,14.9,497.0,4.0,41.0,59.0,15.5,8.5,17.7,34.7,bad
+Srinakharinwirot University,Thailand,22.247,17.4,14.9,497.0,0.0,66.0,34.0,19.9,8.4,12.6,40.6,bad
+Universiti Malaysia Sarawak (UNIMAS),Malaysia,15.973,18.8,14.8,498.0,6.0,65.0,35.0,17.8,8.5,10.2,34.7,bad
+Sechenov University,Russian Federation,15.354,8.2,14.8,498.0,16.0,78.0,22.0,24.5,10.0,2.6,37.8,good
+Universiti Teknologi MARA,Malaysia,54.483,17.1,14.8,498.0,0.0,66.0,34.0,18.1,12.8,10.9,34.7,bad
+Naresuan University,Thailand,22.863000000000003,15.6,14.7,499.0,1.0,66.0,34.0,16.7,7.8,12.6,34.9,bad
+West University of Timi?oara,Romania,13.55,18.0,14.7,499.0,4.0,66.0,34.0,17.9,9.2,11.9,35.5,bad
+University of Fukui,Japan,5.02,9.3,14.6,500.0,4.0,30.0,70.0,19.7,10.7,9.7,39.7,bad
+Hashemite University,Jordan,15.654000000000002,17.8,14.6,500.0,7.0,63.0,37.0,13.5,11.3,8.3,34.4,bad
+Kwansei Gakuin University,Japan,24.766,23.8,14.6,500.0,3.0,48.0,52.0,15.4,9.0,13.4,35.3,bad
+Alexandru Ioan Cuza University,Romania,23.124,18.1,14.5,501.0,6.0,63.0,37.0,16.7,11.1,9.7,34.5,bad
+Cochin University of Science and Technology,India,8.271,18.5,14.5,501.0,0.0,36.0,64.0,23.3,10.7,7.7,34.7,good
+Gubkin Russian State University of Oil and Gas,Russian Federation,8.406,11.8,14.5,501.0,7.0,36.0,64.0,17.8,11.5,8.2,61.5,bad
+Kansai University,Japan,30.346,11.2,14.5,501.0,3.0,39.0,61.0,24.3,8.0,6.9,35.4,good
+Slovak University of Agriculture in Nitra,Slovakia,6.57,14.1,14.5,501.0,2.0,57.0,43.0,17.7,8.4,9.7,36.2,bad
+PSG College of Technology,India,8.325,14.6,14.5,501.0,0.0,38.0,62.0,19.8,9.5,12.8,34.9,bad
+Shahed University,Iran,6.35,19.4,14.5,501.0,0.0,55.0,45.0,19.3,11.6,10.6,37.2,bad
+University of Biskra,Algeria,34.037,24.5,14.4,502.0,1.0,60.0,40.0,15.7,7.3,14.0,34.4,bad
+University of Colombo,Sri Lanka,22.322,29.6,14.4,502.0,1.0,61.0,39.0,13.5,8.0,13.9,34.8,bad
+Polytechnic University of Bucharest,Romania,29.437,13.5,14.4,502.0,3.0,36.0,64.0,16.8,10.0,12.9,34.4,bad
+University of Hyogo,Japan,6.566,12.8,14.3,503.0,3.0,40.0,60.0,16.7,12.1,10.4,46.4,bad
+Silpakorn University,Thailand,24.542,19.8,14.3,503.0,3.0,69.0,31.0,15.5,8.3,13.6,39.9,bad
+Autonomous University of San Luis Potosi,Mexico,32.012,9.5,14.2,504.0,1.0,51.0,49.0,17.8,7.4,11.9,34.6,bad
+University of Constantine 1,Algeria,35.382,20.5,14.2,504.0,0.0,56.0,44.0,19.4,7.5,7.9,35.4,bad
+Federal University of Par�,Brazil,48.114,19.6,14.2,504.0,0.0,44.0,56.0,17.1,9.6,11.8,34.8,bad
+GITAM University,India,17.226,14.2,14.2,504.0,2.0,30.0,70.0,16.7,7.7,15.0,35.2,bad
+Latvia University of Life Sciences and Technologies,Latvia,4.216,36.9,14.2,504.0,1.0,49.0,51.0,17.4,17.6,5.2,36.9,bad
+Polytechnic University of Timi?oara,Romania,12.646,20.4,14.2,504.0,3.0,37.0,63.0,14.2,8.2,17.1,35.5,bad
+Kazan National Research Technological University,Russian Federation,15.26,10.7,14.1,505.0,11.0,45.0,55.0,17.8,8.4,10.5,49.0,bad
+Maharaja Sayajirao University of Baroda,India,39.252,27.2,14.1,505.0,0.0,55.0,45.0,14.1,9.3,17.2,34.9,bad
+Mahasarakham University,Thailand,38.192,29.3,14.1,505.0,0.0,67.0,33.0,18.5,8.0,11.0,35.5,bad
+Meiji University,Japan,33.309,11.7,14.1,505.0,4.0,34.0,66.0,17.7,8.6,11.3,35.6,bad
+Meijo University,Japan,15.412,31.4,14.0,506.0,1.0,29.0,71.0,15.6,10.0,11.6,35.5,bad
+Moscow Power Engineering Institute,Russian Federation,11.422,14.7,14.0,506.0,10.0,37.0,63.0,18.7,10.7,5.8,56.5,bad
+University of South China,China,21.401,10.0,14.0,506.0,0.0,55.0,45.0,19.2,9.7,10.9,38.3,bad
+"University of the Andes, Venezuela",Venezuela,42.198,16.8,13.9,507.0,0.0,58.0,42.0,15.0,7.9,9.1,34.4,bad
+Ufa State Aviation Technical University,Russian Federation,14.111,5.6,13.9,507.0,1.0,39.0,61.0,20.7,7.6,10.5,34.5,good
+Ac?badem University,Turkey,2.342,4.3,13.8,508.0,2.0,74.0,26.0,22.0,8.6,7.5,34.8,good
+National Polytechnic University (IPN),Mexico,177.983,10.8,13.8,508.0,0.0,39.0,61.0,17.6,9.0,10.7,40.4,bad
+Pontifical Bolivarian University (UPB) � Medell�n,Colombia,15.118,12.6,13.8,508.0,1.0,55.0,45.0,17.5,8.9,7.8,34.7,bad
+"University of Veterinary and Animal Sciences, Lahore",Pakistan,5.794,28.5,13.8,508.0,1.0,49.0,51.0,14.5,10.3,8.5,42.2,bad
+Ivan Franko National University of Lviv,Ukraine,16.22,8.6,13.7,509.0,1.0,69.0,31.0,21.6,7.9,4.3,34.4,good
+Ming Chuan University,Taiwan,18.59,22.7,13.7,509.0,12.0,60.0,40.0,13.6,11.1,10.3,35.0,bad
+National Chin-Yi University of Technology,Taiwan,7.158,24.9,13.7,509.0,4.0,39.0,61.0,14.0,19.4,4.4,44.7,bad
+University of Science and Technology of Oran Mohamed-Boudiaf,Algeria,22.049,11.7,13.7,509.0,2.0,52.0,48.0,18.9,7.1,7.1,34.8,bad
+State University of Maring�,Brazil,22.62,12.5,13.7,509.0,1.0,58.0,42.0,19.6,10.0,8.8,34.7,bad
+Tokat Gaziosmanpa?a University,Turkey,23.679,20.9,13.7,509.0,2.0,46.0,54.0,13.1,7.7,17.8,34.6,bad
+Akdeniz University,Turkey,42.862,35.9,13.6,510.0,1.0,45.0,55.0,15.2,9.0,13.9,35.2,bad
+Autonomous University of Puebla,Mexico,69.982,33.2,13.6,510.0,1.0,53.0,47.0,16.0,7.9,12.2,34.7,bad
+Michoac�n University of San Nicol�s of Hidalgo,Mexico,40.381,30.2,13.6,510.0,1.0,52.0,48.0,13.4,10.2,11.3,35.4,bad
+National University of Kaohsiung,Taiwan,5.55,23.3,13.6,510.0,4.0,45.0,55.0,13.6,16.1,6.1,38.6,bad
+Autonomous University of Sinaloa,Mexico,72.792,21.5,13.5,511.0,0.0,52.0,48.0,13.3,7.9,14.3,35.3,bad
+National Chiayi University,Taiwan,12.219,26.3,13.5,511.0,3.0,48.0,52.0,14.8,12.1,8.2,65.6,bad
+Pirogov Russian National Research Medical University,Russian Federation,8.078,6.3,13.4,512.0,6.0,72.0,28.0,23.2,9.5,3.5,37.9,good
+University of B�o-B�o,Chile,12.955,24.7,13.3,513.0,1.0,42.0,58.0,13.2,8.4,7.9,37.3,bad
+Kanagawa University,Japan,18.104,14.6,13.3,513.0,3.0,28.0,72.0,14.6,7.5,12.3,34.8,bad
+Kaunas University of Technology,Lithuania,9.956,14.7,13.3,513.0,6.0,38.0,62.0,16.5,11.4,5.6,38.9,bad
+Sathyabama Institute of Science and Technology,India,14.380999999999998,16.9,13.3,513.0,1.0,49.0,51.0,18.3,9.0,10.2,35.0,bad
+Ba?kent University,Turkey,12.515999999999998,11.0,13.2,514.0,0.0,53.0,47.0,21.4,10.9,4.8,40.1,good
+Kogakuin University,Japan,6.505,17.4,13.2,514.0,1.0,17.0,83.0,17.2,9.8,8.8,42.0,bad
+Tokyo University of Agriculture,Japan,12.220999999999998,33.9,13.2,514.0,2.0,41.0,59.0,16.0,9.8,10.5,36.4,bad
+Federal University of Alagoas,Brazil,24.077,13.2,13.1,515.0,0.0,0.0,0.0,16.5,6.8,12.2,34.9,bad
+Ibaraki University,Japan,8.181000000000001,15.2,13.1,515.0,3.0,36.0,64.0,16.4,10.0,8.1,40.2,bad
+King Mongkut's University of Technology North Bangkok,Thailand,26.846,24.9,13.1,515.0,0.0,42.0,58.0,15.1,9.9,10.1,41.9,bad
+University of Sciences and Technology Houari Boumediene,Algeria,41.865,22.5,13.1,515.0,1.0,58.0,42.0,16.1,7.5,8.1,34.9,bad
+Federal Rural University of the Semi-Arid Region,Brazil,5.872000000000001,7.7,13.0,516.0,0.0,42.0,58.0,27.5,7.7,1.7,34.4,good
+University of Sargodha,Pakistan,26.206,34.0,13.0,516.0,0.0,51.0,49.0,11.7,8.3,10.5,34.4,bad
+Voronezh State University,Russian Federation,15.246,11.0,13.0,516.0,10.0,58.0,42.0,21.1,8.7,4.2,35.3,good
+Doshisha University,Japan,28.309,18.8,12.9,517.0,4.0,41.0,59.0,15.6,9.8,7.7,35.7,bad
+University of Guadalajara,Mexico,123.932,55.6,12.9,517.0,0.0,52.0,48.0,15.4,7.8,10.0,34.4,bad
+Ivane Javakhishvili Tbilisi State University,Georgia,19.67,23.9,12.9,517.0,2.0,62.0,38.0,14.7,9.4,4.6,34.8,bad
+Utsunomiya University,Japan,4.872,13.4,12.9,517.0,4.0,36.0,64.0,18.0,10.3,6.0,36.6,bad
+Autonomous University of Nuevo Le�n,Mexico,207.52,54.1,12.8,518.0,0.0,0.0,0.0,12.5,7.7,12.1,35.4,bad
+Chaoyang University of Technology,Taiwan,16.787,41.9,12.8,518.0,8.0,56.0,44.0,13.7,12.2,7.1,41.5,bad
+National Technical University Kharkiv Polytechnic Institute,Ukraine,13.411,8.4,12.8,518.0,9.0,32.0,68.0,19.6,7.8,5.4,34.9,bad
+Tamil Nadu Agricultural University,India,6.279,7.6,12.7,519.0,0.0,62.0,38.0,23.5,8.9,2.7,40.5,good
+Tokyo City University,Japan,7.481,14.9,12.6,520.0,1.0,23.0,77.0,16.7,10.3,6.8,41.6,bad
+M'Hamed Bougara University of Boumerd�s,Algeria,31.075,21.1,12.5,521.0,0.0,60.0,40.0,13.3,7.0,11.1,34.5,bad
+Perm National Research Polytechnic University,Russian Federation,8.922,9.0,12.5,521.0,7.0,35.0,65.0,19.3,10.5,2.1,54.9,bad
+University of Brawijaya,Indonesia,52.975,18.9,12.4,522.0,1.0,54.0,46.0,16.0,8.5,8.3,36.3,bad
+Federal University of Technology � Paran�,Brazil,35.177,14.0,12.3,523.0,1.0,35.0,65.0,15.4,9.2,8.6,37.3,bad
+National University of the South,Argentina,20.987,16.0,12.3,523.0,11.086892488954344,58.0,42.0,16.4,7.4,7.7,35.8,bad
+Toyo University,Japan,32.404,30.5,12.3,523.0,5.0,42.0,58.0,15.0,8.7,6.6,35.3,bad
+Autonomous University of Baja California,Mexico,59.507,17.7,12.2,524.0,2.0,53.0,47.0,13.7,8.8,7.7,35.2,bad
+Istanbul Medipol University,Turkey,26.215,29.4,12.2,524.0,2.0,66.0,34.0,12.5,9.3,10.8,35.9,bad
+Government College University Lahore,Pakistan,9.986,24.1,12.1,525.0,1.0,43.0,57.0,14.0,9.1,5.7,34.4,bad
+University of Sonora,Mexico,29.921,20.9,12.1,525.0,1.0,47.58308823529412,47.0,13.9,7.4,9.2,34.5,bad
+Western Paran� State University (Unioeste),Brazil,11.927,9.1,12.1,525.0,0.0,59.0,41.0,18.8,10.7,4.0,34.9,bad
+Autonomous University of Hidalgo State (UAEH),Mexico,34.995,18.2,12.0,526.0,1.0,57.0,47.7845142439737,15.0,8.2,8.4,36.2,bad
+Autonomous University of the State of Mexico,Mexico,57.588,22.2,12.0,526.0,1.0,58.0,42.0,14.4,9.2,6.9,39.0,bad
+University of Birjand,Iran,11.0,24.4,12.0,526.0,1.0,64.0,36.0,16.4,8.0,8.6,34.6,bad
+Ondokuz Mayis University,Turkey,36.179,33.0,11.9,527.0,6.0,51.0,49.0,15.5,8.9,6.7,38.4,bad
+Perm State University,Russian Federation,9.252,10.5,11.7,528.0,1.0,47.58308823529412,38.0,18.1,9.7,3.3,37.9,bad
+Federal University of Mato Grosso do Sul,Brazil,25.018,18.0,11.5,529.0,0.0,47.58308823529412,51.0,17.1,6.9,7.4,34.4,bad
+MIREA - Russian Technological University,Russian Federation,19.965,17.0,11.5,529.0,3.0,47.58308823529412,67.0,15.1,9.6,4.3,58.4,bad
+S�leyman Demirel University,Turkey,46.705,27.5,11.5,529.0,3.0,48.0,52.0,11.2,8.4,11.5,34.5,bad
+Chiba Institute of Technology,Japan,9.763,30.4,11.4,530.0,11.086892488954344,13.0,87.0,14.6,9.1,6.8,38.9,bad
+Cear� State University,Brazil,20.174,17.8,11.3,531.0,11.086892488954344,55.0,45.0,16.2,8.3,6.1,35.6,bad
+Pontifical Catholic University of Minas Gerais,Brazil,34.101,21.3,11.2,532.0,11.086892488954344,57.0,47.7845142439737,15.3,7.7,6.7,35.1,bad
+Bashkir State University,Russian Federation,15.236,11.1,11.1,533.0,3.0,63.0,47.7845142439737,17.0,8.1,4.5,36.9,bad
+University of Caxias do Sul,Brazil,17.101,24.9,11.0,534.0,0.0,54.0,47.7845142439737,13.8,7.8,7.6,35.0,bad
+Tokyo Denki University,Japan,9.285,25.6,10.7,535.0,2.0,12.0,88.0,15.2,9.3,3.4,39.6,bad
